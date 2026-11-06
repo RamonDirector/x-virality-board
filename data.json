@@ -1,2642 +1,1786 @@
 {
-  "title": "Daily X narrative digest — 2026-11-05",
-  "date": "2026-11-05",
-  "timezone": "Europe/Amsterdam",
-  "updated": "2026-11-05T10:12:01+01:00",
-  "brand_title": "Grok Bot X Virality Score",
-  "brand_handle": "@RamonPrietoX",
-  "hits": [
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 2098232,
-      "views_label": "2,098,232",
-      "likes": 605,
-      "reposts": 63,
-      "bookmarks": 205,
-      "replies": 130,
-      "created_at": "2026-11-03T15:02:40.000Z",
-      "hook": "Grok Bot made a doctor's appointment for minchoi while he was driving.",
-      "text": "Grok Bot just made a doctor's appointment for me while I was driving...\n\nMy daughter hurt her foot landing a jump at dance practice.\n\nI told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable.\n\nIt gave me a few",
-      "url": "https://x.com/minchoi/status/2117633564736938471",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "agent errands",
-          "Grok",
-          "Grok Bot"
-        ]
-      },
-      "original_en": "Grok Bot just made a doctor's appointment for me while I was driving...\n\nMy daughter hurt her foot landing a jump at dance practice.\n\nI told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable.\n\nIt gave me a few"
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 683692,
-      "views_label": "683,692",
-      "likes": 5560,
-      "reposts": 308,
-      "bookmarks": 16171,
-      "replies": 543,
-      "created_at": "2026-11-03T21:45:38.000Z",
-      "hook": "greg: 50+ people in 12 countries, but he talks to his agents more than his human teammates.",
-      "text": "running a company nowadays feels kinda dystopian\n\nmy team is 50+ people in 12 countries, but i talk to my agents more than my human teammates\n\n- voice note to grokbot\n- mattpocock/skills /grill-me so the agent interrogates the idea before anything gets built\n- spec drops into",
-      "url": "https://x.com/gregisenberg/status/2117734977312047537",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "agents as teammates",
-          "Grok",
-          "AI agents",
-          "skills"
-        ]
-      },
-      "original_en": "running a company nowadays feels kinda dystopian\n\nmy team is 50+ people in 12 countries, but i talk to my agents more than my human teammates\n\n- voice note to grokbot\n- mattpocock/skills /grill-me so the agent interrogates the idea before anything gets built\n- spec drops into"
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 447145,
-      "views_label": "447,145",
-      "likes": 4754,
-      "reposts": 183,
-      "bookmarks": 4255,
-      "replies": 180,
-      "created_at": "2026-11-03T19:03:50.000Z",
-      "hook": "levelsio: total biz expenses down to ~$300/mo for 20,000 paying customers.",
-      "text": "💸 Update: My total biz expenses have now dropped to just ~$300/mo!\n\nThis is to run all my websites/apps serving per year:\n- 20,000 paying customers\n- 252 million visitors\n- 2.4 billion requests\n- 2.4 petabyte (PB) in bandwidth\n\n(~$8,000/mo if you add the $7,000/mo GPU bill and",
-      "url": "https://x.com/levelsio/status/2117694259558293692",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "lean costs"
-        ]
-      },
-      "original_en": "💸 Update: My total biz expenses have now dropped to just ~$300/mo!\n\nThis is to run all my websites/apps serving per year:\n- 20,000 paying customers\n- 252 million visitors\n- 2.4 billion requests\n- 2.4 petabyte (PB) in bandwidth\n\n(~$8,000/mo if you add the $7,000/mo GPU bill and"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 322635,
-      "views_label": "322,635",
-      "likes": 8291,
-      "reposts": 409,
-      "bookmarks": 1127,
-      "replies": 646,
-      "created_at": "2026-11-04T14:48:59.000Z",
-      "hook": "dhh: Omarchy 4.5 ships with M1–M3 and Neo support — off-lane.",
-      "text": "Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so smooth, the dual boot makes it a no brainer. Apple hardware liberated. M4-6 on the way. WE CAN FIX EVERYTHING!",
-      "url": "https://x.com/dhh/status/2117992511407014110",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so smooth, the dual boot makes it a no brainer. Apple hardware liberated. M4-6 on the way. WE CAN FIX EVERYTHING!"
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 300098,
-      "views_label": "300,098",
-      "likes": 1924,
-      "reposts": 27,
-      "bookmarks": 329,
-      "replies": 83,
-      "created_at": "2026-11-03T19:21:16.000Z",
-      "hook": "levelsio: the Learjet 60 should be banned — off-lane.",
-      "text": "The Learjet 60 should be banned by the FAA immediately",
-      "url": "https://x.com/levelsio/status/2117698643843047690",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "The Learjet 60 should be banned by the FAA immediately"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 214873,
-      "views_label": "214,873",
-      "likes": 8298,
-      "reposts": 132,
-      "bookmarks": 588,
-      "replies": 400,
-      "created_at": "2026-11-04T14:33:23.000Z",
-      "hook": "Beautiful day for a big Omarchy release!",
-      "text": "Beautiful day for a big Omarchy release!",
-      "url": "https://x.com/dhh/status/2117988584942961066",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "Beautiful day for a big Omarchy release!"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 151615,
-      "views_label": "151,615",
-      "likes": 3273,
-      "reposts": 98,
-      "bookmarks": 93,
-      "replies": 641,
-      "created_at": "2026-11-03T14:27:02.000Z",
-      "hook": "Have you said thank you to your agent today? \n\nYou should.",
-      "text": "Have you said thank you to your agent today? \n\nYou should.",
-      "url": "https://x.com/dhh/status/2117624597868921189",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "thank your agent"
-        ]
-      },
-      "original_en": "Have you said thank you to your agent today? \n\nYou should."
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 150305,
-      "views_label": "150,305",
-      "likes": 560,
-      "reposts": 9,
-      "bookmarks": 707,
-      "replies": 158,
-      "created_at": "2026-11-04T23:53:00.000Z",
-      "hook": "levelsio asks for the best fluoride-free toothpaste — off-lane.",
-      "text": "Guys, it's that time again\n\nWhat's the best toothpaste?\n\nPreferrably without fluoride etc, and as clean and bio and healthy as possible\n\nThank you!!!",
-      "url": "https://x.com/levelsio/status/2118129415213244831",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "Guys, it's that time again\n\nWhat's the best toothpaste?\n\nPreferrably without fluoride etc, and as clean and bio and healthy as possible\n\nThank you!!!"
-    },
-    {
-      "handle": "@AlexFinn",
-      "name": "Alex Finn",
-      "views": 128546,
-      "views_label": "128,546",
-      "likes": 1519,
-      "reposts": 96,
-      "bookmarks": 1606,
-      "replies": 138,
-      "created_at": "2026-11-04T01:12:06.000Z",
-      "hook": "AlexFinn: Opus-level model running on a laptop, private and local.",
-      "text": "I got Qwen 3.8 running on a laptop and I'm blown away\n\nIt's Opus 4.6 performance, but unlimited, private, and local\n\nIt's on the RTX Spark and it's amazing\n\nIn this video I cover how to load local models on ANY device you have using Hermes and all the cool projects you can build",
-      "url": "https://x.com/AlexFinn/status/2117786932830982510",
-      "media": "video",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 70,
-        "verdict": "trend",
-        "matched_keywords": [
-          "local AI",
-          "Opus 5.5"
-        ]
-      },
-      "original_en": "I got Qwen 3.8 running on a laptop and I'm blown away\n\nIt's Opus 4.6 performance, but unlimited, private, and local\n\nIt's on the RTX Spark and it's amazing\n\nIn this video I cover how to load local models on ANY device you have using Hermes and all the cool projects you can build",
-      "draft_en": "AlexFinn has an Opus-level model running on a laptop. private and local.\n\nso \"AI is only for the big chains\" is over.\n\na six-person amsterdam boutique hotel can have one company brain that knows its rooms, rates and reviews, and covers the shift nobody was hired for.",
-      "draft_keywords": [
-        "local AI",
-        "company brain",
-        "missing headcount"
-      ],
-      "top10_rank": 2
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 113233,
-      "views_label": "113,233",
-      "likes": 2210,
-      "reposts": 62,
-      "bookmarks": 223,
-      "replies": 86,
-      "created_at": "2026-11-03T13:53:16.000Z",
-      "hook": "I knew we could unlock much better performance from the vintage macs by running Omarchy on them, but I didn't realize it was possible with the M chip generation too! So cool.",
-      "text": "I knew we could unlock much better performance from the vintage macs by running Omarchy on them, but I didn't realize it was possible with the M chip generation too! So cool.",
-      "url": "https://x.com/dhh/status/2117616102348148882",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "I knew we could unlock much better performance from the vintage macs by running Omarchy on them, but I didn't realize it was possible with the M chip generation too! So cool."
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 110049,
-      "views_label": "110,049",
-      "likes": 3402,
-      "reposts": 296,
-      "bookmarks": 748,
-      "replies": 278,
-      "created_at": "2026-11-05T02:22:14.000Z",
-      "hook": "rauchg: most human-made software was slow and full of vulnerabilities — security, off-lane.",
-      "text": "We will all be learning in coming weeks &amp; months, that most human-made software:\n\n▫️ Was really slow\n▫️ Had many security vulnerabilities\n▫️ Was under-specified and incorrect\n\nAI will rewrite it all. Many times. It will make it fast, cost-efficient, and secure. It will think",
-      "url": "https://x.com/rauchg/status/2118166970273292299",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      "original_en": "We will all be learning in coming weeks &amp; months, that most human-made software:\n\n▫️ Was really slow\n▫️ Had many security vulnerabilities\n▫️ Was under-specified and incorrect\n\nAI will rewrite it all. Many times. It will make it fast, cost-efficient, and secure. It will think"
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 87026,
-      "views_label": "87,026",
-      "likes": 1006,
-      "reposts": 40,
-      "bookmarks": 870,
-      "replies": 148,
-      "created_at": "2026-11-03T21:45:04.000Z",
-      "hook": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automaticall",
-      "text": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically.\n\nYou can now get the same power. Just enable it on all your repos (this",
-      "url": "https://x.com/rauchg/status/2117734833824948373",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      "original_en": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically.\n\nYou can now get the same power. Just enable it on all your repos (this"
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 83866,
-      "views_label": "83,866",
-      "likes": 210,
-      "reposts": 11,
-      "bookmarks": 39,
-      "replies": 58,
-      "created_at": "2026-11-03T11:54:04.000Z",
-      "hook": "Decompiled and got the Wake Island map working now, which is more fun because it has planes!\n\nI just can't figure out the controls yet to fly it 😬\n\nWill add this to the main server rotation soon once ",
-      "text": "Decompiled and got the Wake Island map working now, which is more fun because it has planes!\n\nI just can't figure out the controls yet to fly it 😬\n\nWill add this to the main server rotation soon once I tested it enough but you can play it here in multiplayer already:",
-      "url": "https://x.com/levelsio/status/2117586103158853806",
-      "media": "video",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "decompile"
-        ]
-      },
-      "original_en": "Decompiled and got the Wake Island map working now, which is more fun because it has planes!\n\nI just can't figure out the controls yet to fly it 😬\n\nWill add this to the main server rotation soon once I tested it enough but you can play it here in multiplayer already:"
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 83511,
-      "views_label": "83,511",
-      "likes": 1161,
-      "reposts": 48,
-      "bookmarks": 686,
-      "replies": 89,
-      "created_at": "2026-11-05T01:23:39.000Z",
-      "hook": "In just 24 hours 🤯\n✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified\n✓ 𝟱𝟴𝟬 critical or high\n✓ 𝟭,𝟰𝟭𝟭 already patched by Agent\n\nVercel Security Reviews are 100% free until Nov 10",
-      "text": "In just 24 hours 🤯\n✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified\n✓ 𝟱𝟴𝟬 critical or high\n✓ 𝟭,𝟰𝟭𝟭 already patched by Agent\n\nVercel Security Reviews are 100% free until Nov 10",
-      "url": "https://x.com/rauchg/status/2118152230260092940",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      "original_en": "In just 24 hours 🤯\n✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified\n✓ 𝟱𝟴𝟬 critical or high\n✓ 𝟭,𝟰𝟭𝟭 already patched by Agent\n\nVercel Security Reviews are 100% free until Nov 10"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 73486,
-      "views_label": "73,486",
-      "likes": 1399,
-      "reposts": 50,
-      "bookmarks": 327,
-      "replies": 113,
-      "created_at": "2026-11-04T00:23:57.000Z",
-      "hook": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word cloud option means you can get started without even having to download a model. Then you can switch to local-m",
-      "text": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word cloud option means you can get started without even having to download a model. Then you can switch to local-model dictation later if you like. It's so good!",
-      "url": "https://x.com/dhh/status/2117774816094904507",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "local AI",
-          "Omarchy",
-          "3D",
-          "dictation"
-        ]
-      },
-      "original_en": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word cloud option means you can get started without even having to download a model. Then you can switch to local-model dictation later if you like. It's so good!"
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 72027,
-      "views_label": "72,027",
-      "likes": 218,
-      "reposts": 7,
-      "bookmarks": 32,
-      "replies": 30,
-      "created_at": "2026-11-03T17:53:59.000Z",
-      "hook": "Listed it now as an official server! Playable both by real BF1942 clients and our own web-based client 🫡",
-      "text": "Listed it now as an official server! Playable both by real BF1942 clients and our own web-based client 🫡",
-      "url": "https://x.com/levelsio/status/2117676680122716377",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "Listed it now as an official server! Playable both by real BF1942 clients and our own web-based client 🫡"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 67563,
-      "views_label": "67,563",
-      "likes": 1037,
-      "reposts": 28,
-      "bookmarks": 54,
-      "replies": 56,
-      "created_at": "2026-11-04T02:19:08.000Z",
-      "hook": "It was great to see so many Omarchy users at Fireworks Forge today, but it was especially great to meet turbo install champion @AnushElangovan in person. \n\nHe even brought a gift! The insane 192GB AMD",
-      "text": "It was great to see so many Omarchy users at Fireworks Forge today, but it was especially great to meet turbo install champion @AnushElangovan in person. \n\nHe even brought a gift! The insane 192GB AMD 495+ HP monster machine 🤩",
-      "url": "https://x.com/dhh/status/2117803806058840389",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "It was great to see so many Omarchy users at Fireworks Forge today, but it was especially great to meet turbo install champion @AnushElangovan in person. \n\nHe even brought a gift! The insane 192GB AMD 495+ HP monster machine 🤩"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 59523,
-      "views_label": "59,523",
-      "likes": 922,
-      "reposts": 43,
-      "bookmarks": 210,
-      "replies": 103,
-      "created_at": "2026-11-03T16:31:33.000Z",
-      "hook": "Agentic, exploratory testing is so obviously the future. Love how we're pushing this envelope with Omarchy. Plan is to be able to fully automate the flow from agentic bug fixes -&gt; agentic PRs -&gt;",
-      "text": "Agentic, exploratory testing is so obviously the future. Love how we're pushing this envelope with Omarchy. Plan is to be able to fully automate the flow from agentic bug fixes -&gt; agentic PRs -&gt; agentic QA -&gt; agentic release.",
-      "url": "https://x.com/dhh/status/2117655933287555283",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "Agentic, exploratory testing is so obviously the future. Love how we're pushing this envelope with Omarchy. Plan is to be able to fully automate the flow from agentic bug fixes -&gt; agentic PRs -&gt; agentic QA -&gt; agentic release."
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 58503,
-      "views_label": "58,503",
-      "likes": 468,
-      "reposts": 15,
-      "bookmarks": 184,
-      "replies": 46,
-      "created_at": "2026-11-04T20:51:59.000Z",
-      "hook": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the latest version) on \n\nThat involved another round of decompiling it and lots of new bug fixes to make it work ",
-      "text": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the latest version) on \n\nThat involved another round of decompiling it and lots of new bug fixes to make it work in the web on multiplayer\n\nBut it works now and the game",
-      "url": "https://x.com/levelsio/status/2118083863318610403",
-      "media": "video",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "decompile"
-        ]
-      },
-      "original_en": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the latest version) on \n\nThat involved another round of decompiling it and lots of new bug fixes to make it work in the web on multiplayer\n\nBut it works now and the game"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 52688,
-      "views_label": "52,688",
-      "likes": 536,
-      "reposts": 23,
-      "bookmarks": 101,
-      "replies": 36,
-      "created_at": "2026-11-03T15:47:42.000Z",
-      "hook": "Looks awesome! I just added Install &gt; AI &gt; Amp Desktop to the Omarchy Dev version.",
-      "text": "Looks awesome! I just added Install &gt; AI &gt; Amp Desktop to the Omarchy Dev version.",
-      "url": "https://x.com/dhh/status/2117644899134914655",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "Looks awesome! I just added Install &gt; AI &gt; Amp Desktop to the Omarchy Dev version."
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 52663,
-      "views_label": "52,663",
-      "likes": 625,
-      "reposts": 22,
-      "bookmarks": 393,
-      "replies": 135,
-      "created_at": "2026-11-04T10:30:21.000Z",
-      "hook": "this guy had 7 years of nothing\n\nhe had a $7k/month job, a product, and $300 of MRR ..\nand he just sent me a DM replying to one of my post\n\nFilip built something very good but it was missing the last ",
-      "text": "this guy had 7 years of nothing\n\nhe had a $7k/month job, a product, and $300 of MRR ..\nand he just sent me a DM replying to one of my post\n\nFilip built something very good but it was missing the last 10% that makes a product go from \"good\" to \"great\"\n\nso we made a deal:\nhe",
-      "url": "https://x.com/tibo_maker/status/2117927423043924009",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "lean costs"
-        ]
-      },
-      "original_en": "this guy had 7 years of nothing\n\nhe had a $7k/month job, a product, and $300 of MRR ..\nand he just sent me a DM replying to one of my post\n\nFilip built something very good but it was missing the last 10% that makes a product go from \"good\" to \"great\"\n\nso we made a deal:\nhe"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 52337,
-      "views_label": "52,337",
-      "likes": 1422,
-      "reposts": 72,
-      "bookmarks": 125,
-      "replies": 80,
-      "created_at": "2026-11-03T14:35:29.000Z",
-      "hook": "Don't be so cool you can't appreciate cool stuff. Bring back some of that earnest childhood wonder, some of that pure unadulterated WOW! Retire your cynicism.",
-      "text": "Don't be so cool you can't appreciate cool stuff. Bring back some of that earnest childhood wonder, some of that pure unadulterated WOW! Retire your cynicism.",
-      "url": "https://x.com/dhh/status/2117626724397838521",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "Don't be so cool you can't appreciate cool stuff. Bring back some of that earnest childhood wonder, some of that pure unadulterated WOW! Retire your cynicism."
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 50261,
-      "views_label": "50,261",
-      "likes": 494,
-      "reposts": 11,
-      "bookmarks": 27,
-      "replies": 37,
-      "created_at": "2026-11-03T13:37:02.000Z",
-      "hook": "They literally vibe coded a new Spanish train system like I said 😂",
-      "text": "They literally vibe coded a new Spanish train system like I said 😂",
-      "url": "https://x.com/levelsio/status/2117612017599336882",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "vibe coding"
-        ]
-      },
-      "original_en": "They literally vibe coded a new Spanish train system like I said 😂"
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 50039,
-      "views_label": "50,039",
-      "likes": 353,
-      "reposts": 11,
-      "bookmarks": 207,
-      "replies": 157,
-      "created_at": "2026-11-04T14:45:56.000Z",
-      "hook": "Today’s reminder that running a company is now voice notes and inference",
-      "text": "Today’s reminder that running a company is now voice notes and inference",
-      "url": "https://x.com/gregisenberg/status/2117991742633124276",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "voice notes"
-        ]
-      },
-      "original_en": "Today’s reminder that running a company is now voice notes and inference"
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 48637,
-      "views_label": "48,637",
-      "likes": 606,
-      "reposts": 26,
-      "bookmarks": 219,
-      "replies": 97,
-      "created_at": "2026-11-03T17:27:45.000Z",
-      "hook": "So excited about this.\n\nWe're rolling out a mechanism that protects Vercel customers even in a Binance-style attack, where your engineers get targeted with infostealer malware.\n\nWith DBSC, renewing a ",
-      "text": "So excited about this.\n\nWe're rolling out a mechanism that protects Vercel customers even in a Binance-style attack, where your engineers get targeted with infostealer malware.\n\nWith DBSC, renewing a session requires a key bound to your device, which means stolen cookies can't be",
-      "url": "https://x.com/rauchg/status/2117670076828803088",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "So excited about this.\n\nWe're rolling out a mechanism that protects Vercel customers even in a Binance-style attack, where your engineers get targeted with infostealer malware.\n\nWith DBSC, renewing a session requires a key bound to your device, which means stolen cookies can't be"
-    },
-    {
-      "handle": "@bentossell",
-      "name": "Ben Tossell",
-      "views": 46969,
-      "views_label": "46,969",
-      "likes": 759,
-      "reposts": 26,
-      "bookmarks": 154,
-      "replies": 82,
-      "created_at": "2026-11-04T18:23:37.000Z",
-      "hook": "holy acquisition day\n\nhumanlayer → factory\nconductor → meta\npierre → openai",
-      "text": "holy acquisition day\n\nhumanlayer → factory\nconductor → meta\npierre → openai",
-      "url": "https://x.com/bentossell/status/2118046526291239163",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "acquisition",
-          "OpenAI"
-        ]
-      },
-      "original_en": "holy acquisition day\n\nhumanlayer → factory\nconductor → meta\npierre → openai"
-    },
-    {
-      "handle": "@AlexFinn",
-      "name": "Alex Finn",
-      "views": 44785,
-      "views_label": "44,785",
-      "likes": 552,
-      "reposts": 21,
-      "bookmarks": 201,
-      "replies": 125,
-      "created_at": "2026-11-03T20:43:52.000Z",
-      "hook": "This year we saw the 3 most important AI releases ever:\n\n• Grok Bot\n• Opus 5.5\n• Hermes Agent\n\nThe most powerful pieces of technology we've ever used\n\nAll 3 when used on conjunction can build you a bu",
-      "text": "This year we saw the 3 most important AI releases ever:\n\n• Grok Bot\n• Opus 5.5\n• Hermes Agent\n\nThe most powerful pieces of technology we've ever used\n\nAll 3 when used on conjunction can build you a business, make you revenue, and automate all the pieces of your life you don't",
-      "url": "https://x.com/AlexFinn/status/2117719430042202311",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "Opus 5.5",
-          "Grok",
-          "Grok Bot"
-        ]
-      },
-      "original_en": "This year we saw the 3 most important AI releases ever:\n\n• Grok Bot\n• Opus 5.5\n• Hermes Agent\n\nThe most powerful pieces of technology we've ever used\n\nAll 3 when used on conjunction can build you a business, make you revenue, and automate all the pieces of your life you don't"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 44135,
-      "views_label": "44,135",
-      "likes": 1648,
-      "reposts": 13,
-      "bookmarks": 38,
-      "replies": 69,
-      "created_at": "2026-11-03T14:37:56.000Z",
-      "hook": "Good morning, San Francisco!",
-      "text": "Good morning, San Francisco!",
-      "url": "https://x.com/dhh/status/2117627343200285180",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "Good morning, San Francisco!"
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 43456,
-      "views_label": "43,456",
-      "likes": 598,
-      "reposts": 47,
-      "bookmarks": 890,
-      "replies": 142,
-      "created_at": "2026-11-04T21:07:22.000Z",
-      "hook": "greg: 'If AI can build almost anything, what should I build?'",
-      "text": "One of the most important questions of our time:\n\n\"If AI can build almost anything, what should I build?\"\n\nIt's the question behind most of the anxiety I hear about AI right now\n\nI broke down the 8 kinds of businesses I think get stronger as AI gets better",
-      "url": "https://x.com/gregisenberg/status/2118087733205717440",
-      "media": "video",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "what should I build"
-        ]
-      },
-      "original_en": "One of the most important questions of our time:\n\n\"If AI can build almost anything, what should I build?\"\n\nIt's the question behind most of the anxiety I hear about AI right now\n\nI broke down the 8 kinds of businesses I think get stronger as AI gets better",
-      "draft_en": "greg's question of the year: if AI can build almost anything, what should you build?\n\nmy answer is boring. a 20-room amsterdam boutique hotel with no night desk.\n\none company brain that answers the 2am guest from its own house rules and reviews. build the missing hire.",
-      "draft_keywords": [
-        "what should I build",
-        "missing headcount",
-        "company brain"
-      ],
-      "top10_rank": 1,
-      "video_tip": "Video tip: 30s vertical screen recording. Open on greg's question 'if AI can build almost anything, what should I build?' as a caption, cut to a guest message landing at 02:07 asking for a 1am late check-in, then the hotel's company brain answering from its house rules and public reviews, end on 'the night desk you never hired'. Show it working, don't explain it: greg's question video drew 43.5K views / 890 bookmarks and minchoi's 'Grok Bot made a doctor's appointment for me while I was driving' screenshot is at 2.10M."
-    },
-    {
-      "handle": "@mattshumer_",
-      "name": "Matt Shumer",
-      "views": 42408,
-      "views_label": "42,408",
-      "likes": 90,
-      "reposts": 1,
-      "bookmarks": 82,
-      "replies": 32,
-      "created_at": "2026-11-03T17:42:00.000Z",
-      "hook": "Text +1 (646) 712-5624 to try.\n\nGiving $150 in free credits to anyone who signs up.",
-      "text": "Text +1 (646) 712-5624 to try.\n\nGiving $150 in free credits to anyone who signs up.",
-      "url": "https://x.com/mattshumer_/status/2117673664615203186",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "Text +1 (646) 712-5624 to try.\n\nGiving $150 in free credits to anyone who signs up."
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 42077,
-      "views_label": "42,077",
-      "likes": 544,
-      "reposts": 30,
-      "bookmarks": 450,
-      "replies": 88,
-      "created_at": "2026-11-03T20:44:50.000Z",
-      "hook": "npm i -g ai-cli \n\nSuch a simple idea. An 𝚊𝚒 CLI. Gives every agent access to video, voice, image, text generation. And 𝚊𝚒 𝚍𝚎𝚌𝚒𝚍𝚎 brings Jev-class models.\n\nAll behind AI Gateway with cost and ZDR contr",
-      "text": "npm i -g ai-cli \n\nSuch a simple idea. An 𝚊𝚒 CLI. Gives every agent access to video, voice, image, text generation. And 𝚊𝚒 𝚍𝚎𝚌𝚒𝚍𝚎 brings Jev-class models.\n\nAll behind AI Gateway with cost and ZDR controls.",
-      "url": "https://x.com/rauchg/status/2117719672951095772",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "ai-cli"
-        ]
-      },
-      "original_en": "npm i -g ai-cli \n\nSuch a simple idea. An 𝚊𝚒 CLI. Gives every agent access to video, voice, image, text generation. And 𝚊𝚒 𝚍𝚎𝚌𝚒𝚍𝚎 brings Jev-class models.\n\nAll behind AI Gateway with cost and ZDR controls."
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 37282,
-      "views_label": "37,282",
-      "likes": 1050,
-      "reposts": 33,
-      "bookmarks": 43,
-      "replies": 44,
-      "created_at": "2026-11-03T14:22:06.000Z",
-      "hook": "I'm so proud of how the Omarchy community welcomes new members. People are just genuinely excited to help others get more out of their machines and discover our agentic OS. We can fix everything, even",
-      "text": "I'm so proud of how the Omarchy community welcomes new members. People are just genuinely excited to help others get more out of their machines and discover our agentic OS. We can fix everything, even the unfriendly RTFM Linux culture!",
-      "url": "https://x.com/dhh/status/2117623358078824602",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "I'm so proud of how the Omarchy community welcomes new members. People are just genuinely excited to help others get more out of their machines and discover our agentic OS. We can fix everything, even the unfriendly RTFM Linux culture!"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 37262,
-      "views_label": "37,262",
-      "likes": 1088,
-      "reposts": 33,
-      "bookmarks": 29,
-      "replies": 46,
-      "created_at": "2026-11-04T14:52:30.000Z",
-      "hook": "Omarchy keeps making friends because magical things happen when you embrace the future with gusto, disregard the naysayers, and just KEEP FIXING EVERYTHING.",
-      "text": "Omarchy keeps making friends because magical things happen when you embrace the future with gusto, disregard the naysayers, and just KEEP FIXING EVERYTHING.",
-      "url": "https://x.com/dhh/status/2117993393855103007",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "Omarchy keeps making friends because magical things happen when you embrace the future with gusto, disregard the naysayers, and just KEEP FIXING EVERYTHING."
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 36135,
-      "views_label": "36,135",
-      "likes": 398,
-      "reposts": 6,
-      "bookmarks": 5,
-      "replies": 58,
-      "created_at": "2026-11-03T16:54:18.000Z",
-      "hook": "I just got this gift from a customer \nwell played",
-      "text": "I just got this gift from a customer \nwell played",
-      "url": "https://x.com/rauchg/status/2117661658059538586",
-      "media": "image",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "I just got this gift from a customer \nwell played"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 32462,
-      "views_label": "32,462",
-      "likes": 1047,
-      "reposts": 40,
-      "bookmarks": 75,
-      "replies": 73,
-      "created_at": "2026-11-05T05:43:25.000Z",
-      "hook": "Omarchy just got enormously, awesomely, fantastically better! And now you can run it on half of the M-chip Macs out there plus the MacBook Neo. Oh, and traditional desktop mode if you can't hang with ",
-      "text": "Omarchy just got enormously, awesomely, fantastically better! And now you can run it on half of the M-chip Macs out there plus the MacBook Neo. Oh, and traditional desktop mode if you can't hang with tiling. WE ARE FIXING EVERYTHING! 🤘",
-      "url": "https://x.com/dhh/status/2118217599763018123",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      "original_en": "Omarchy just got enormously, awesomely, fantastically better! And now you can run it on half of the M-chip Macs out there plus the MacBook Neo. Oh, and traditional desktop mode if you can't hang with tiling. WE ARE FIXING EVERYTHING! 🤘"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 31018,
-      "views_label": "31,018",
-      "likes": 292,
-      "reposts": 4,
-      "bookmarks": 46,
-      "replies": 47,
-      "created_at": "2026-11-05T01:25:04.000Z",
-      "hook": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years.",
-      "text": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years.",
-      "url": "https://x.com/swyx/status/2118152585911869634",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years."
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 28959,
-      "views_label": "28,959",
-      "likes": 179,
-      "reposts": 1,
-      "bookmarks": 204,
-      "replies": 33,
-      "created_at": "2026-11-03T11:44:55.000Z",
-      "hook": "every founder / creator / indie-hacker should have a shortcut to this: \n\nthanks Jack for putting this together for us 🙏",
-      "text": "every founder / creator / indie-hacker should have a shortcut to this: \n\nthanks Jack for putting this together for us 🙏",
-      "url": "https://x.com/tibo_maker/status/2117583800339484741",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "every founder / creator / indie-hacker should have a shortcut to this: \n\nthanks Jack for putting this together for us 🙏"
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 27923,
-      "views_label": "27,923",
-      "likes": 410,
-      "reposts": 12,
-      "bookmarks": 138,
-      "replies": 76,
-      "created_at": "2026-11-04T20:20:20.000Z",
-      "hook": "It’s so inspiring to work with people who care so much about building quality products. \n\nGreatness is the byproduct of a million iterations. Agents or otherwise.",
-      "text": "It’s so inspiring to work with people who care so much about building quality products. \n\nGreatness is the byproduct of a million iterations. Agents or otherwise.",
-      "url": "https://x.com/rauchg/status/2118075898830463048",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "AI agents"
-        ]
-      },
-      "original_en": "It’s so inspiring to work with people who care so much about building quality products. \n\nGreatness is the byproduct of a million iterations. Agents or otherwise."
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 27375,
-      "views_label": "27,375",
-      "likes": 126,
-      "reposts": 5,
-      "bookmarks": 37,
-      "replies": 28,
-      "created_at": "2026-11-03T23:46:50.000Z",
-      "hook": "Vercel CI accelerates any repo\nVercel Security Review protects them",
-      "text": "Vercel CI accelerates any repo\nVercel Security Review protects them",
-      "url": "https://x.com/rauchg/status/2117765475010822497",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      "original_en": "Vercel CI accelerates any repo\nVercel Security Review protects them"
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 27342,
-      "views_label": "27,342",
-      "likes": 251,
-      "reposts": 8,
-      "bookmarks": 91,
-      "replies": 142,
-      "created_at": "2026-11-04T02:15:15.000Z",
-      "hook": "`𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚘𝚌𝚝𝚘𝚛` - recommend you ship doctor subcommands in your CLIs!",
-      "text": "`𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚘𝚌𝚝𝚘𝚛` - recommend you ship doctor subcommands in your CLIs!",
-      "url": "https://x.com/rauchg/status/2117802827519250568",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "`𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚘𝚌𝚝𝚘𝚛` - recommend you ship doctor subcommands in your CLIs!"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 23884,
-      "views_label": "23,884",
-      "likes": 112,
-      "reposts": 0,
-      "bookmarks": 25,
-      "replies": 17,
-      "created_at": "2026-11-04T21:59:06.000Z",
-      "hook": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger\n\n50b783df7d2c335500f1b6206d52649c69fb51931a0d616bfa2e299778588511a2ea894496cff26ba08ca8c7a81f64796",
-      "text": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger\n\n50b783df7d2c335500f1b6206d52649c69fb51931a0d616bfa2e299778588511a2ea894496cff26ba08ca8c7a81f64796f30d0efd9d914b32d3a5c639fd45125",
-      "url": "https://x.com/swyx/status/2118100752732418268",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "3D"
-        ]
-      },
-      "original_en": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger\n\n50b783df7d2c335500f1b6206d52649c69fb51931a0d616bfa2e299778588511a2ea894496cff26ba08ca8c7a81f64796f30d0efd9d914b32d3a5c639fd45125"
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 22725,
-      "views_label": "22,725",
-      "likes": 139,
-      "reposts": 10,
-      "bookmarks": 81,
-      "replies": 126,
-      "created_at": "2026-11-03T17:14:03.000Z",
-      "hook": "coke vs pepsi one of the greatest rivalries of all time\n\nin 1985, new coke beat pepsi in 200,000 taste tests and got pulled in 79 days \n\nin 2026, i run the same kind of test on my own products with sy",
-      "text": "coke vs pepsi one of the greatest rivalries of all time\n\nin 1985, new coke beat pepsi in 200,000 taste tests and got pulled in 79 days \n\nin 2026, i run the same kind of test on my own products with synthetic users\n\nfathom calls → LLMs personas → browserbase → 30 simulated days",
-      "url": "https://x.com/gregisenberg/status/2117666628486008881",
-      "media": "video",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "coke vs pepsi one of the greatest rivalries of all time\n\nin 1985, new coke beat pepsi in 200,000 taste tests and got pulled in 79 days \n\nin 2026, i run the same kind of test on my own products with synthetic users\n\nfathom calls → LLMs personas → browserbase → 30 simulated days"
-    },
-    {
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 21432,
-      "views_label": "21,432",
-      "likes": 155,
-      "reposts": 4,
-      "bookmarks": 30,
-      "replies": 42,
-      "created_at": "2026-11-04T23:05:05.000Z",
-      "hook": "I managed to port Battlefield 1942 to mobile web too\n\nSo now it's playable as full multiplayer on iPhone and Android from their browser! 🤯\n\nClaude Code built its own graphic layer that translates Dire",
-      "text": "I managed to port Battlefield 1942 to mobile web too\n\nSo now it's playable as full multiplayer on iPhone and Android from their browser! 🤯\n\nClaude Code built its own graphic layer that translates Direct3D (DirectX) instructions to WebGL, sitting between the game's machine code",
-      "url": "https://x.com/levelsio/status/2118117357172191242",
-      "media": "video",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 70,
-        "verdict": "trend",
-        "matched_keywords": [
-          "Claude",
-          "Claude Code",
-          "3D"
-        ]
-      },
-      "original_en": "I managed to port Battlefield 1942 to mobile web too\n\nSo now it's playable as full multiplayer on iPhone and Android from their browser! 🤯\n\nClaude Code built its own graphic layer that translates Direct3D (DirectX) instructions to WebGL, sitting between the game's machine code"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 18780,
-      "views_label": "18,780",
-      "likes": 188,
-      "reposts": 10,
-      "bookmarks": 79,
-      "replies": 117,
-      "created_at": "2026-11-04T20:11:24.000Z",
-      "hook": "&gt; we developed and trained Ripple-65B Preview for only $32M, which is one-tenth the cost of the previous open-weight SOTA on agentic coding¹\n\nthis is like the avengers of open model SOTA\n\n¹ \"Note t",
-      "text": "&gt; we developed and trained Ripple-65B Preview for only $32M, which is one-tenth the cost of the previous open-weight SOTA on agentic coding¹\n\nthis is like the avengers of open model SOTA\n\n¹ \"Note that $32M is our full R&amp;D cost starting from scratch, including pretraining ladder",
-      "url": "https://x.com/swyx/status/2118073650356384239",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "&gt; we developed and trained Ripple-65B Preview for only $32M, which is one-tenth the cost of the previous open-weight SOTA on agentic coding¹\n\nthis is like the avengers of open model SOTA\n\n¹ \"Note that $32M is our full R&amp;D cost starting from scratch, including pretraining ladder"
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 16007,
-      "views_label": "16,007",
-      "likes": 110,
-      "reposts": 2,
-      "bookmarks": 7,
-      "replies": 11,
-      "created_at": "2026-11-04T10:22:19.000Z",
-      "hook": "For those suffering from amnesia, over the last 100 years humans carried out dozens of genocides and killed over 100 million people.\n\nAs of today, 195 humans are running countries. Not a single AI.\n\nI",
-      "text": "For those suffering from amnesia, over the last 100 years humans carried out dozens of genocides and killed over 100 million people.\n\nAs of today, 195 humans are running countries. Not a single AI.\n\nI don't even know what to say anymore. I feel sick.",
-      "url": "https://x.com/tibo_maker/status/2117925400294662598",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "For those suffering from amnesia, over the last 100 years humans carried out dozens of genocides and killed over 100 million people.\n\nAs of today, 195 humans are running countries. Not a single AI.\n\nI don't even know what to say anymore. I feel sick."
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 14696,
-      "views_label": "14,696",
-      "likes": 104,
-      "reposts": 2,
-      "bookmarks": 16,
-      "replies": 53,
-      "created_at": "2026-11-05T00:30:02.000Z",
-      "hook": "i actually respect breadth in an economy that only respects b2b saas\n\ncompetitor: we solved coding\n\noai: here’s sora\n\ncompetitor: we solved alignment\n\noai: here’s scarlett johannson’s voice\n\ncompetito",
-      "text": "i actually respect breadth in an economy that only respects b2b saas\n\ncompetitor: we solved coding\n\noai: here’s sora\n\ncompetitor: we solved alignment\n\noai: here’s scarlett johannson’s voice\n\ncompetitor: we are giving tokens and vms away for free to recapture mainstream attention",
-      "url": "https://x.com/swyx/status/2118138737419067758",
-      "media": "text",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "SaaS free"
-        ]
-      },
-      "original_en": "i actually respect breadth in an economy that only respects b2b saas\n\ncompetitor: we solved coding\n\noai: here’s sora\n\ncompetitor: we solved alignment\n\noai: here’s scarlett johannson’s voice\n\ncompetitor: we are giving tokens and vms away for free to recapture mainstream attention"
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 14191,
-      "views_label": "14,191",
-      "likes": 56,
-      "reposts": 4,
-      "bookmarks": 8,
-      "replies": 8,
-      "created_at": "2026-11-03T21:36:36.000Z",
-      "hook": "Holy smokes... this is an insane car🤯",
-      "text": "Holy smokes... this is an insane car🤯",
-      "url": "https://x.com/minchoi/status/2117732704540102820",
-      "media": "video",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "Holy smokes... this is an insane car🤯"
-    },
-    {
-      "handle": "@LinusEkenstam",
-      "name": "Linus ✦ Ekenstam",
-      "views": 12662,
-      "views_label": "12,662",
-      "likes": 177,
-      "reposts": 19,
-      "bookmarks": 265,
-      "replies": 13,
-      "created_at": "2026-11-04T17:40:32.000Z",
-      "hook": "Everyone assumes AI-written code at scale means a giant pile of slop. Me too at times.\n\nAxiom just put out the best counterexample I've seen.\n\nThey took the Stacks Project, the reference every algebra",
-      "text": "Everyone assumes AI-written code at scale means a giant pile of slop. Me too at times.\n\nAxiom just put out the best counterexample I've seen.\n\nThey took the Stacks Project, the reference every algebraic geometer works from, built up by the math community over two decades, and",
-      "url": "https://x.com/LinusEkenstam/status/2118035682946134351",
-      "media": "video",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "3D"
-        ]
-      },
-      "original_en": "Everyone assumes AI-written code at scale means a giant pile of slop. Me too at times.\n\nAxiom just put out the best counterexample I've seen.\n\nThey took the Stacks Project, the reference every algebraic geometer works from, built up by the math community over two decades, and"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 12274,
-      "views_label": "12,274",
-      "likes": 102,
-      "reposts": 7,
-      "bookmarks": 16,
-      "replies": 54,
-      "created_at": "2026-11-03T18:03:50.000Z",
-      "hook": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme:\n\n*Raising your Ambition*\n\nfeaturing @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhort",
-      "text": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme:\n\n*Raising your Ambition*\n\nfeaturing @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhorthy, @BuiltByJustin (StrongDM Dark Factory) \n\nand a special keynote from @echelon",
-      "url": "https://x.com/swyx/status/2117679157035602065",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme:\n\n*Raising your Ambition*\n\nfeaturing @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhorthy, @BuiltByJustin (StrongDM Dark Factory) \n\nand a special keynote from @echelon"
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 11137,
-      "views_label": "11,137",
-      "likes": 122,
-      "reposts": 1,
-      "bookmarks": 10,
-      "replies": 100,
-      "created_at": "2026-11-03T10:30:17.000Z",
-      "hook": "first call with a journalist in 10 years\n\nmy press career so far:\n\n2015-18: raised €500k+\n=&gt; got covered a TON\n2 companies went bankrupt, €250k in debt\n\n2026: no VC, $1M/month\n=&gt; 0 PR coverage\n\n",
-      "text": "first call with a journalist in 10 years\n\nmy press career so far:\n\n2015-18: raised €500k+\n=&gt; got covered a TON\n2 companies went bankrupt, €250k in debt\n\n2026: no VC, $1M/month\n=&gt; 0 PR coverage\n\nmakes sense when you think about it\na funding round comes with an announcement and a",
-      "url": "https://x.com/tibo_maker/status/2117565018342297931",
-      "media": "text",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "lean costs"
-        ]
-      },
-      "original_en": "first call with a journalist in 10 years\n\nmy press career so far:\n\n2015-18: raised €500k+\n=&gt; got covered a TON\n2 companies went bankrupt, €250k in debt\n\n2026: no VC, $1M/month\n=&gt; 0 PR coverage\n\nmakes sense when you think about it\na funding round comes with an announcement and a"
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 10153,
-      "views_label": "10,153",
-      "likes": 78,
-      "reposts": 6,
-      "bookmarks": 26,
-      "replies": 40,
-      "created_at": "2026-11-04T14:32:39.000Z",
-      "hook": "yes\n\ni just sent $10,030 to Outrank blog owners 💸\n\n+220% compared to last month",
-      "text": "yes\n\ni just sent $10,030 to Outrank blog owners 💸\n\n+220% compared to last month",
-      "url": "https://x.com/tibo_maker/status/2117988400708137370",
-      "media": "image",
-      "quote": true,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "yes\n\ni just sent $10,030 to Outrank blog owners 💸\n\n+220% compared to last month"
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 10117,
-      "views_label": "10,117",
-      "likes": 78,
-      "reposts": 7,
-      "bookmarks": 55,
-      "replies": 43,
-      "created_at": "2026-11-05T04:05:15.000Z",
-      "hook": "3D game development will never be the same.\n\nPeople are building FULL playable games with Claude Opus 5.5.\n\n3D tower defense. Drivable cities. Roblox sims. Multiplayer survival.\n\n10 wild examples ↓",
-      "text": "3D game development will never be the same.\n\nPeople are building FULL playable games with Claude Opus 5.5.\n\n3D tower defense. Drivable cities. Roblox sims. Multiplayer survival.\n\n10 wild examples ↓",
-      "url": "https://x.com/minchoi/status/2118192898785354185",
-      "media": "video",
-      "quote": false,
-      "highlight": true,
-      "why_hit": {
-        "trend_match": 70,
-        "verdict": "trend",
-        "matched_keywords": [
-          "Claude",
-          "Opus 5.5",
-          "3D"
-        ]
-      },
-      "original_en": "3D game development will never be the same.\n\nPeople are building FULL playable games with Claude Opus 5.5.\n\n3D tower defense. Drivable cities. Roblox sims. Multiplayer survival.\n\n10 wild examples ↓"
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 9840,
-      "views_label": "9,840",
-      "likes": 69,
-      "reposts": 1,
-      "bookmarks": 32,
-      "replies": 39,
-      "created_at": "2026-11-04T23:29:48.000Z",
-      "hook": "Claude Code background subagents now use less of your usage limit.\n\nEach one updates its status line every 30 seconds, and every update used to re-read its whole conversation.\n\nNow Haiku 5.5 writes it",
-      "text": "Claude Code background subagents now use less of your usage limit.\n\nEach one updates its status line every 30 seconds, and every update used to re-read its whole conversation.\n\nNow Haiku 5.5 writes it from short notes. About 99% cheaper per update.",
-      "url": "https://x.com/minchoi/status/2118123578382053726",
-      "media": "text",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "Claude",
-          "Claude Code",
-          "AI agents"
-        ]
-      },
-      "original_en": "Claude Code background subagents now use less of your usage limit.\n\nEach one updates its status line every 30 seconds, and every update used to re-read its whole conversation.\n\nNow Haiku 5.5 writes it from short notes. About 99% cheaper per update."
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 9347,
-      "views_label": "9,347",
-      "likes": 3,
-      "reposts": 2,
-      "bookmarks": 8,
-      "replies": 6,
-      "created_at": "2026-11-03T17:07:39.000Z",
-      "hook": "coca cola vs pepsi\n\none of the greatest rivalries of all time\n\nyou can learn a lot from business history\n\ncoke spent years building a drink that beat pepsi in 200,000 taste tests, then pulled it after",
-      "text": "coca cola vs pepsi\n\none of the greatest rivalries of all time\n\nyou can learn a lot from business history\n\ncoke spent years building a drink that beat pepsi in 200,000 taste tests, then pulled it after 79 days\n\n2 main takeaways:\n\n1. what you test decides what you build\n2. the",
-      "url": "https://x.com/gregisenberg/status/2117665020565688447",
-      "media": "video",
-      "quote": false,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "coca cola vs pepsi\n\none of the greatest rivalries of all time\n\nyou can learn a lot from business history\n\ncoke spent years building a drink that beat pepsi in 200,000 taste tests, then pulled it after 79 days\n\n2 main takeaways:\n\n1. what you test decides what you build\n2. the"
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 8882,
-      "views_label": "8,882",
-      "likes": 48,
-      "reposts": 4,
-      "bookmarks": 9,
-      "replies": 28,
-      "created_at": "2026-11-04T20:17:22.000Z",
-      "hook": "Grok Bot can make phone calls now.\n\nThis is the part most people want AI agent to do: handle those annoying stuff for you.\n\nPersonal assistant will never be the same",
-      "text": "Grok Bot can make phone calls now.\n\nThis is the part most people want AI agent to do: handle those annoying stuff for you.\n\nPersonal assistant will never be the same",
-      "url": "https://x.com/minchoi/status/2118075152701301213",
-      "media": "video",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "phone calls",
-          "Grok",
-          "AI agents",
-          "Grok Bot"
-        ]
-      },
-      "original_en": "Grok Bot can make phone calls now.\n\nThis is the part most people want AI agent to do: handle those annoying stuff for you.\n\nPersonal assistant will never be the same"
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 8842,
-      "views_label": "8,842",
-      "likes": 68,
-      "reposts": 3,
-      "bookmarks": 26,
-      "replies": 32,
-      "created_at": "2026-11-05T01:39:06.000Z",
-      "hook": "ChatGPT can make GIFs now.\n\nImages 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.\n\nPlus reference images, and 2 new API models with 50% faster generation",
-      "text": "ChatGPT can make GIFs now.\n\nImages 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.\n\nPlus reference images, and 2 new API models with 50% faster generation.\n\nLive today on all tiers.",
-      "url": "https://x.com/minchoi/status/2118156117083844700",
-      "media": "text",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "ChatGPT"
-        ]
-      },
-      "original_en": "ChatGPT can make GIFs now.\n\nImages 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.\n\nPlus reference images, and 2 new API models with 50% faster generation.\n\nLive today on all tiers."
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 8438,
-      "views_label": "8,438",
-      "likes": 108,
-      "reposts": 2,
-      "bookmarks": 22,
-      "replies": 97,
-      "created_at": "2026-11-05T05:08:39.000Z",
-      "hook": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2\n\nthis is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect",
-      "text": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2\n\nthis is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models",
-      "url": "https://x.com/swyx/status/2118208851506036989",
-      "media": "text",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2\n\nthis is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models"
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 8186,
-      "views_label": "8,186",
-      "likes": 63,
-      "reposts": 9,
-      "bookmarks": 53,
-      "replies": 25,
-      "created_at": "2026-11-04T12:43:51.000Z",
-      "hook": "people are earning real money through the Outrank marketplace 💸\n\nlink your blog (or create one in the new free blog platform by Outrank) \n\nyou can earn in less than 30 days",
-      "text": "people are earning real money through the Outrank marketplace 💸\n\nlink your blog (or create one in the new free blog platform by Outrank) \n\nyou can earn in less than 30 days",
-      "url": "https://x.com/tibo_maker/status/2117961017481195686",
-      "media": "text",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "people are earning real money through the Outrank marketplace 💸\n\nlink your blog (or create one in the new free blog platform by Outrank) \n\nyou can earn in less than 30 days"
-    },
-    {
-      "handle": "@LinusEkenstam",
-      "name": "Linus ✦ Ekenstam",
-      "views": 7736,
-      "views_label": "7,736",
-      "likes": 28,
-      "reposts": 0,
-      "bookmarks": 12,
-      "replies": 8,
-      "created_at": "2026-11-04T20:27:10.000Z",
-      "hook": "we’re just getting started. \n\n2027 will bring upon us so much advancements that by 2028 it will be unrecognizable",
-      "text": "we’re just getting started. \n\n2027 will bring upon us so much advancements that by 2028 it will be unrecognizable",
-      "url": "https://x.com/LinusEkenstam/status/2118077616829710416",
-      "media": "text",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      "original_en": "we’re just getting started. \n\n2027 will bring upon us so much advancements that by 2028 it will be unrecognizable"
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 5732,
-      "views_label": "5,732",
-      "likes": 50,
-      "reposts": 4,
-      "bookmarks": 14,
-      "replies": 32,
-      "created_at": "2026-11-04T13:16:41.000Z",
-      "hook": "we lost Tibo 😢\n\nhe tried going back to the life before AI\n\nS02E03 of my show Life of an indie maker, back after a really long break",
-      "text": "we lost Tibo 😢\n\nhe tried going back to the life before AI\n\nS02E03 of my show Life of an indie maker, back after a really long break",
-      "url": "https://x.com/tibo_maker/status/2117969281052815453",
-      "media": "video",
-      "quote": false,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "we lost Tibo 😢\n\nhe tried going back to the life before AI\n\nS02E03 of my show Life of an indie maker, back after a really long break"
-    },
-    {
-      "handle": "@LinusEkenstam",
-      "name": "Linus ✦ Ekenstam",
-      "views": 5097,
-      "views_label": "5,097",
-      "likes": 21,
-      "reposts": 3,
-      "bookmarks": 9,
-      "replies": 24,
-      "created_at": "2026-11-04T09:00:32.000Z",
-      "hook": "Ben gave his AI his inbox and told it to raise $10M. That first tweet got around 100,000 views and kickstarted Polsia's growth.",
-      "text": "Ben gave his AI his inbox and told it to raise $10M. That first tweet got around 100,000 views and kickstarted Polsia's growth.",
-      "url": "https://x.com/LinusEkenstam/status/2117904819381747933",
-      "media": "video",
-      "quote": false,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": []
-      },
-      "original_en": "Ben gave his AI his inbox and told it to raise $10M. That first tweet got around 100,000 views and kickstarted Polsia's growth."
-    },
-    {
-      "handle": "@LinusEkenstam",
-      "name": "Linus ✦ Ekenstam",
-      "views": 5064,
-      "views_label": "5,064",
-      "likes": 15,
-      "reposts": 3,
-      "bookmarks": 8,
-      "replies": 13,
-      "created_at": "2026-11-03T17:26:31.000Z",
-      "hook": "Agents are writing the software that runs the world...\n\nCool. Who's debugging it at 3am?\n\nTraversal is building the AI that investigates production when it breaks, so engineers can get back to buildin",
-      "text": "Agents are writing the software that runs the world...\n\nCool. Who's debugging it at 3am?\n\nTraversal is building the AI that investigates production when it breaks, so engineers can get back to building.\n\nAlso, the launch video is way better than it has any right to be.",
-      "url": "https://x.com/LinusEkenstam/status/2117669764923552151",
-      "media": "text",
-      "quote": true,
-      "highlight": false,
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "AI agents"
-        ]
-      },
-      "original_en": "Agents are writing the software that runs the world...\n\nCool. Who's debugging it at 3am?\n\nTraversal is building the AI that investigates production when it breaks, so engineers can get back to building.\n\nAlso, the launch video is way better than it has any right to be."
-    }
-  ],
-  "virals": [
-    {
-      "handle": "@thetripathi58",
-      "name": "Chidanand Tripathi",
-      "views": 150445,
-      "views_label": "150,445",
-      "likes": 272,
-      "reposts": 78,
-      "bookmarks": 178,
-      "hook": "Group-trip AI planner for ten people changing plans every hour (weak signal: 272 likes).",
-      "text": "Most AI tools are made for one person typing into a box. A family trip runs on ten people changing plans every hour. \n\nSo I set up Teamily AI the way a small travel agency would: the travel agent and the family in one group with two team agents from @Teamily_AI. \n\nA planning",
-      "url": "https://x.com/thetripathi58/status/2117619118480474426",
-      "media": "image",
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "AI agents"
-        ]
-      }
-    },
-    {
-      "handle": "@imryven",
-      "name": "Ryven",
-      "views": 10239,
-      "views_label": "10,239",
-      "likes": 140,
-      "reposts": 22,
-      "bookmarks": 183,
-      "hook": "10 repos that already built a Claude second brain.",
-      "text": "I still don’t understand why people keep building a Claude second brain by hand when these 10 repos already built the whole system\n\nThey turn your Claude sessions into a wiki, let Claude read and write your vault from your phone, and one of them comes straight from Obsidian’s own",
-      "url": "https://x.com/imryven/status/2117633481018622427",
-      "media": "video",
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "Claude",
-          "second brain",
-          "company brain"
-        ]
-      }
-    }
-  ],
-  "outsiders": [
-    {
-      "handle": "@thetripathi58",
-      "name": "Chidanand Tripathi",
-      "views": 150445,
-      "views_label": "150,445",
-      "likes": 272,
-      "reposts": 78,
-      "bookmarks": 178,
-      "hook": "Group-trip AI planner for ten people changing plans every hour (weak signal: 272 likes).",
-      "text": "Most AI tools are made for one person typing into a box. A family trip runs on ten people changing plans every hour. \n\nSo I set up Teamily AI the way a small travel agency would: the travel agent and the family in one group with two team agents from @Teamily_AI. \n\nA planning",
-      "url": "https://x.com/thetripathi58/status/2117619118480474426",
-      "media": "image",
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "AI agents"
-        ]
-      }
-    },
-    {
-      "handle": "@imryven",
-      "name": "Ryven",
-      "views": 10239,
-      "views_label": "10,239",
-      "likes": 140,
-      "reposts": 22,
-      "bookmarks": 183,
-      "hook": "10 repos that already built a Claude second brain.",
-      "text": "I still don’t understand why people keep building a Claude second brain by hand when these 10 repos already built the whole system\n\nThey turn your Claude sessions into a wiki, let Claude read and write your vault from your phone, and one of them comes straight from Obsidian’s own",
-      "url": "https://x.com/imryven/status/2117633481018622427",
-      "media": "video",
-      "why_hit": {
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "Claude",
-          "second brain",
-          "company brain"
-        ]
-      }
-    }
-  ],
-  "patterns": [
-    "Agents as coworkers keeps compounding: gregisenberg 'I talk to my agents more than my human teammates' grew to 683.7K / 16,171 bookmarks (most-saved post again), plus 'running a company is now voice notes and inference' 50.0K; dhh 'have you said thank you to your agent today?' 151.6K",
-    "Agents doing real-life errands: minchoi 'Grok Bot made a doctor's appointment for me while I was driving' now 2.10M; minchoi 'Grok Bot can make phone calls now' 8.9K",
-    "What to build when AI builds anything: gregisenberg 'If AI can build almost anything, what should I build?' 43.5K / 890 bookmarks and 'How to not write AI slop' 51.7K / 959 bookmarks",
-    "Lean ops and private local AI: levelsio '~$300/mo total biz expenses' 447.1K / 4,255 bookmarks; AlexFinn Opus-level model on a laptop, private and local, 128.5K / 1,606 bookmarks",
-    "Off-lane but loud: dhh Omarchy 4.5 release (322.6K), levelsio Learjet and toothpaste posts, rauchg AI security agent posts (110K, 87K, 83.5K; security angle is banned for drafts)"
-  ],
-  "no_hits": [
-    {
-      "handle": "@Sabrina_Ramonov",
-      "reason": "1 originals in window; none reached 5,000 views. Highest observed 425.",
-      "max_views": 425
-    },
-    {
-      "handle": "@mckaywrigley",
-      "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 3 10:00 → Nov 5 10:00 CET).",
-      "max_views": 0
-    },
-    {
-      "handle": "@heyBarsee",
-      "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 3 10:00 → Nov 5 10:00 CET).",
-      "max_views": 0
-    },
-    {
-      "handle": "@tdinh_me",
-      "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 3 10:00 → Nov 5 10:00 CET).",
-      "max_views": 0
-    }
-  ],
-  "virals_narrative": "Two outsiders cleared 10K: thetripathi58's group-trip AI planner post (150.4K, only 272 likes, weak signal) and imryven's Claude second-brain repos list (10.2K). No hotel + AI post cleared 10K; a 'will AI kill the OTAs' Space clip (1.1K) is a banned framing for us.",
-  "narrative_synthesis": "Nov 3–5 on the watchlist kept treating agents as coworkers. gregisenberg's 'I talk to my agents more than my human teammates' grew to 683.7K views and 16,171 bookmarks, by far the most-saved post, and he followed with 'running a company is now voice notes and inference' (50.0K) and 'If AI can build almost anything, what should I build?' (43.5K / 890 bookmarks). minchoi's 'Grok Bot booked a doctor's appointment while I was driving' reached 2.10M. levelsio's '~$300/mo total biz expenses' climbed to 447.1K / 4,255 bookmarks and AlexFinn's private local model on a laptop hit 128.5K / 1,606 bookmarks. dhh's Omarchy 4.5 release (322.6K) and rauchg's AI security agent posts were loud but off-lane.",
-  "virals_window": "last ~48h (since 2026-11-03 10:00 CET)",
-  "virals_target": 20,
-  "hits_count": 62,
-  "outsiders_count": 2,
-  "previous_day": {
-    "date": "2026-11-04",
-    "hits_count": 79,
-    "total_views": 9413053,
-    "stars_count": 70,
-    "top": "@levelsio 2,503,934"
+ "title": "Daily X narrative digest — 2026-11-06",
+ "date": "2026-11-06",
+ "timezone": "Europe/Amsterdam",
+ "updated": "2026-11-06T10:08:38+01:00",
+ "brand_title": "Grok Bot X Virality Score",
+ "brand_handle": "@RamonPrietoX",
+ "hits": [
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 291840,
+   "views_label": "291,840",
+   "likes": 7020,
+   "reposts": 0,
+   "bookmarks": 1619,
+   "replies": 0,
+   "created_at": "2026-11-05T02:22:14.000Z",
+   "hook": "We will all be learning in coming weeks &amp; months, that most human-made software:  ▫️ Was really slow ▫️ Had many security vulnerabilitie",
+   "text": "We will all be learning in coming weeks &amp; months, that most human-made software:  ▫️ Was really slow ▫️ Had many security vulnerabilities ▫️ Was under-specified and incorrect  AI will rewrite it all. Many times. It will make i",
+   "url": "https://x.com/rauchg/status/2118166970273292299",
+   "type": "original"
   },
-  "leaderboards": {
-    "as_of": "2026-11-05",
-    "tracking_start": "2026-10-26",
-    "days_included": [
-      "2026-10-30",
-      "2026-10-31",
-      "2026-11-01",
-      "2026-11-02",
-      "2026-11-03",
-      "2026-11-04",
-      "2026-11-05"
-    ],
-    "month_days_included": [
-      "2026-11-01",
-      "2026-11-02",
-      "2026-11-03",
-      "2026-11-04",
-      "2026-11-05"
-    ],
-    "week": {
-      "label": "Rolling week · Oct 30–Nov 5",
-      "range": [
-        "2026-10-30",
-        "2026-11-05"
-      ],
-      "entries": [
-        {
-          "handle": "@levelsio",
-          "name": "@levelsio",
-          "hits": 65,
-          "days": 7,
-          "best": 2867632,
-          "views": 16377540,
-          "is_you": false
-        },
-        {
-          "handle": "@dhh",
-          "name": "DHH",
-          "hits": 34,
-          "days": 6,
-          "best": 384988,
-          "views": 3991696,
-          "is_you": false
-        },
-        {
-          "handle": "@LinusEkenstam",
-          "name": "Linus ✦ Ekenstam",
-          "hits": 33,
-          "days": 7,
-          "best": 237917,
-          "views": 883436,
-          "is_you": false
-        },
-        {
-          "handle": "@rauchg",
-          "name": "Guillermo Rauch",
-          "hits": 28,
-          "days": 7,
-          "best": 258221,
-          "views": 1689738,
-          "is_you": false
-        },
-        {
-          "handle": "@minchoi",
-          "name": "Min Choi",
-          "hits": 25,
-          "days": 7,
-          "best": 2098232,
-          "views": 2596165,
-          "is_you": false
-        },
-        {
-          "handle": "@tibo_maker",
-          "name": "Tibo",
-          "hits": 21,
-          "days": 7,
-          "best": 85808,
-          "views": 494118,
-          "is_you": false
-        },
-        {
-          "handle": "@gregisenberg",
-          "name": "GREG ISENBERG",
-          "hits": 19,
-          "days": 7,
-          "best": 683692,
-          "views": 1976893,
-          "is_you": false
-        },
-        {
-          "handle": "@swyx",
-          "name": "swyx",
-          "hits": 18,
-          "days": 7,
-          "best": 262208,
-          "views": 674162,
-          "is_you": false
-        },
-        {
-          "handle": "@tdinh_me",
-          "name": "Tony Dinh",
-          "hits": 17,
-          "days": 4,
-          "best": 67210,
-          "views": 301798,
-          "is_you": false
-        },
-        {
-          "handle": "@AlexFinn",
-          "name": "Alex Finn",
-          "hits": 7,
-          "days": 6,
-          "best": 321571,
-          "views": 956179,
-          "is_you": false
-        },
-        {
-          "handle": "@mattshumer_",
-          "name": "Matt Shumer",
-          "hits": 6,
-          "days": 3,
-          "best": 125969,
-          "views": 423752,
-          "is_you": false
-        },
-        {
-          "handle": "@bentossell",
-          "name": "Ben Tossell",
-          "hits": 3,
-          "days": 3,
-          "best": 46969,
-          "views": 91737,
-          "is_you": false
-        },
-        {
-          "handle": "@RamonPrietoX",
-          "name": "Ramón",
-          "hits": 0,
-          "days": 0,
-          "best": 0,
-          "views": 0,
-          "is_you": true
-        }
-      ]
-    },
-    "month": {
-      "label": "November 2026 · Nov 1–5",
-      "range": [
-        "2026-11-01",
-        "2026-11-05"
-      ],
-      "entries": [
-        {
-          "handle": "@levelsio",
-          "name": "@levelsio",
-          "hits": 43,
-          "days": 5,
-          "best": 2867632,
-          "views": 12842618,
-          "is_you": false
-        },
-        {
-          "handle": "@dhh",
-          "name": "DHH",
-          "hits": 29,
-          "days": 4,
-          "best": 384988,
-          "views": 3267878,
-          "is_you": false
-        },
-        {
-          "handle": "@LinusEkenstam",
-          "name": "Linus ✦ Ekenstam",
-          "hits": 22,
-          "days": 5,
-          "best": 237917,
-          "views": 478917,
-          "is_you": false
-        },
-        {
-          "handle": "@rauchg",
-          "name": "Guillermo Rauch",
-          "hits": 21,
-          "days": 5,
-          "best": 258221,
-          "views": 1403949,
-          "is_you": false
-        },
-        {
-          "handle": "@tibo_maker",
-          "name": "Tibo",
-          "hits": 17,
-          "days": 5,
-          "best": 55435,
-          "views": 351847,
-          "is_you": false
-        },
-        {
-          "handle": "@minchoi",
-          "name": "Min Choi",
-          "hits": 16,
-          "days": 5,
-          "best": 2098232,
-          "views": 2430638,
-          "is_you": false
-        },
-        {
-          "handle": "@gregisenberg",
-          "name": "GREG ISENBERG",
-          "hits": 16,
-          "days": 5,
-          "best": 683692,
-          "views": 1619314,
-          "is_you": false
-        },
-        {
-          "handle": "@swyx",
-          "name": "swyx",
-          "hits": 13,
-          "days": 5,
-          "best": 262208,
-          "views": 601785,
-          "is_you": false
-        },
-        {
-          "handle": "@tdinh_me",
-          "name": "Tony Dinh",
-          "hits": 13,
-          "days": 3,
-          "best": 31281,
-          "views": 203494,
-          "is_you": false
-        },
-        {
-          "handle": "@AlexFinn",
-          "name": "Alex Finn",
-          "hits": 5,
-          "days": 4,
-          "best": 131776,
-          "views": 431104,
-          "is_you": false
-        },
-        {
-          "handle": "@mattshumer_",
-          "name": "Matt Shumer",
-          "hits": 3,
-          "days": 2,
-          "best": 125969,
-          "views": 230465,
-          "is_you": false
-        },
-        {
-          "handle": "@bentossell",
-          "name": "Ben Tossell",
-          "hits": 2,
-          "days": 2,
-          "best": 46969,
-          "views": 85512,
-          "is_you": false
-        },
-        {
-          "handle": "@RamonPrietoX",
-          "name": "Ramón",
-          "hits": 0,
-          "days": 0,
-          "best": 0,
-          "views": 0,
-          "is_you": true
-        }
-      ]
-    }
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 234212,
+   "views_label": "234,212",
+   "likes": 753,
+   "reposts": 0,
+   "bookmarks": 912,
+   "replies": 0,
+   "created_at": "2026-11-04T23:53:00.000Z",
+   "hook": "Guys, it's that time again  What's the best toothpaste?  Preferrably without fluoride etc, and as clean and bio and healthy as possible  Tha",
+   "text": "Guys, it's that time again  What's the best toothpaste?  Preferrably without fluoride etc, and as clean and bio and healthy as possible  Thank you!!!",
+   "url": "https://x.com/levelsio/status/2118129415213244831",
+   "type": "original"
   },
-  "board_features": {
-    "count_up": true,
-    "live_pulse": true,
-    "theme_toggle": true,
-    "themes": [
-      "night",
-      "day"
-    ],
-    "grok_ambient": true,
-    "week_month_boards": true,
-    "day_roster_best_total": true,
-    "day_compare_chart": true,
-    "week_strip": true,
-    "no_hits_reasons": true,
-    "marker_class": "xvs-dash-2026",
-    "top10_drafts_v4": true,
-    "trend_keywords": true,
-    "trend_radar": true,
-    "x_keyword_table": true,
-    "experiment": true,
-    "self_quote_badge": true
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 170809,
+   "views_label": "170,809",
+   "likes": 2259,
+   "reposts": 0,
+   "bookmarks": 1318,
+   "replies": 0,
+   "created_at": "2026-11-05T01:23:39.000Z",
+   "hook": "In just 24 hours 🤯 ✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified ✓ 𝟱𝟴𝟬 critical or high ✓ 𝟭,𝟰𝟭𝟭 already patched by Agent  Vercel Security Reviews are 1",
+   "text": "In just 24 hours 🤯 ✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified ✓ 𝟱𝟴𝟬 critical or high ✓ 𝟭,𝟰𝟭𝟭 already patched by Agent  Vercel Security Reviews are 100% free until Nov 10 https://t.co/e4mHdykByr",
+   "url": "https://x.com/rauchg/status/2118152230260092940",
+   "type": "quote"
   },
-  "operator": {
-    "handle": "@RamonPrietoX",
-    "name": "Ramón Prieto",
-    "profile_url": "https://x.com/RamonPrietoX"
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 154493,
+   "views_label": "154,493",
+   "likes": 964,
+   "reposts": 0,
+   "bookmarks": 406,
+   "replies": 0,
+   "created_at": "2026-11-06T01:13:18.000Z",
+   "hook": "uhh so this is how i found out that i'm not only no longer a Sequoia Scout, my main partner (and boardmember since @Temporalio) is also gone",
+   "text": "uhh so this is how i found out that i'm not only no longer a Sequoia Scout, my main partner (and boardmember since @Temporalio) is also gone.  no email from sequoia yet about anything in the past month. no response to my texts fro",
+   "url": "https://x.com/swyx/status/2118512013228077063",
+   "type": "quote"
   },
-  "ui": {
-    "default_theme": "night"
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 125478,
+   "views_label": "125,478",
+   "likes": 365,
+   "reposts": 0,
+   "bookmarks": 60,
+   "replies": 0,
+   "created_at": "2026-11-05T11:26:58.000Z",
+   "hook": "Any way we can auto pay bills with @Revolut?   Claude won't do it:  \"I can't do that, even through Chrome. I don't send money or make transf",
+   "text": "Any way we can auto pay bills with @Revolut?   Claude won't do it:  \"I can't do that, even through Chrome. I don't send money or make transfers, even when you ask and even in a browser where you're already logged in. That's a fixe",
+   "url": "https://x.com/levelsio/status/2118304057110532242",
+   "type": "original"
   },
-  "day_roster": [
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "views": 2098232,
-      "total_views": 2150104,
-      "hit": true,
-      "hits": 6,
-      "posts": 6,
-      "best_url": "https://x.com/minchoi/status/2117633564736938471"
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "views": 683692,
-      "total_views": 873314,
-      "hit": true,
-      "hits": 5,
-      "posts": 8,
-      "best_url": "https://x.com/gregisenberg/status/2117734977312047537"
-    },
-    {
-      "handle": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 447145,
-      "total_views": 1192227,
-      "hit": true,
-      "hits": 8,
-      "posts": 9,
-      "best_url": "https://x.com/levelsio/status/2117694259558293692"
-    },
-    {
-      "handle": "@dhh",
-      "name": "DHH",
-      "views": 322635,
-      "total_views": 1290917,
-      "hit": true,
-      "hits": 13,
-      "posts": 14,
-      "best_url": "https://x.com/dhh/status/2117992511407014110"
-    },
-    {
-      "handle": "@AlexFinn",
-      "name": "Alex Finn",
-      "views": 128546,
-      "total_views": 173331,
-      "hit": true,
-      "hits": 2,
-      "posts": 2,
-      "best_url": "https://x.com/AlexFinn/status/2117786932830982510"
-    },
-    {
-      "handle": "@rauchg",
-      "name": "Guillermo Rauch",
-      "views": 110049,
-      "total_views": 492729,
-      "hit": true,
-      "hits": 9,
-      "posts": 10,
-      "best_url": "https://x.com/rauchg/status/2118166970273292299"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 106957,
-      "total_views": 220206,
-      "hit": true,
-      "hits": 6,
-      "posts": 8,
-      "best_url": "https://x.com/swyx/status/2118048180168483229"
-    },
-    {
-      "handle": "@tibo_maker",
-      "name": "Tibo",
-      "views": 52663,
-      "total_views": 133866,
-      "hit": true,
-      "hits": 7,
-      "posts": 8,
-      "best_url": "https://x.com/tibo_maker/status/2117927423043924009"
-    },
-    {
-      "handle": "@bentossell",
-      "name": "Ben Tossell",
-      "views": 46969,
-      "total_views": 46969,
-      "hit": true,
-      "hits": 1,
-      "posts": 1,
-      "best_url": "https://x.com/bentossell/status/2118046526291239163"
-    },
-    {
-      "handle": "@mattshumer_",
-      "name": "Matt Shumer",
-      "views": 42408,
-      "total_views": 42408,
-      "hit": true,
-      "hits": 1,
-      "posts": 1,
-      "best_url": "https://x.com/mattshumer_/status/2117673664615203186"
-    },
-    {
-      "handle": "@LinusEkenstam",
-      "name": "Linus Ekenstam",
-      "views": 12662,
-      "total_views": 50689,
-      "hit": true,
-      "hits": 4,
-      "posts": 8,
-      "best_url": "https://x.com/LinusEkenstam/status/2118035682946134351"
-    },
-    {
-      "handle": "@Sabrina_Ramonov",
-      "name": "Sabrina Ramonov",
-      "views": 425,
-      "total_views": 425,
-      "hit": false,
-      "hits": 0,
-      "posts": 1,
-      "best_url": "https://x.com/Sabrina_Ramonov/status/2117644402738741570"
-    },
-    {
-      "handle": "@mckaywrigley",
-      "name": "Mckay Wrigley",
-      "views": 0,
-      "total_views": 0,
-      "hit": false,
-      "hits": 0,
-      "posts": 0,
-      "best_url": null
-    },
-    {
-      "handle": "@heyBarsee",
-      "name": "Barsee",
-      "views": 0,
-      "total_views": 0,
-      "hit": false,
-      "hits": 0,
-      "posts": 0,
-      "best_url": null
-    },
-    {
-      "handle": "@tdinh_me",
-      "name": "Tony Dinh",
-      "views": 0,
-      "total_views": 0,
-      "hit": false,
-      "hits": 0,
-      "posts": 0,
-      "best_url": null
-    },
-    {
-      "handle": "@RamonPrietoX",
-      "name": "Ramón",
-      "views": 0,
-      "total_views": 0,
-      "hit": false,
-      "hits": 0,
-      "posts": 1,
-      "best_url": "https://x.com/RamonPrietoX/status/2118252231602340129",
-      "is_you": true
-    }
-  ],
-  "you_rank": {
-    "best_views": 0,
-    "total_views": 0,
-    "best_url": "https://x.com/RamonPrietoX/status/2118252231602340129",
-    "rank_among_watchlist": 16,
-    "total_accounts": 16,
-    "vs_5k": "pending",
-    "vs_10k": "pending",
-    "note": "1 original from @RamonPrietoX in the window (posted Nov 5 09:01 CET, 0 views at fetch, too fresh to score)."
+  {
+   "handle": "@dhh",
+   "name": "dhh",
+   "views": 111276,
+   "views_label": "111,276",
+   "likes": 3385,
+   "reposts": 0,
+   "bookmarks": 111,
+   "replies": 0,
+   "created_at": "2026-11-05T13:36:07.000Z",
+   "hook": "If we just keep fixing things eventually we will have fixed everything.",
+   "text": "If we just keep fixing things eventually we will have fixed everything.",
+   "url": "https://x.com/dhh/status/2118336558793474437",
+   "type": "original"
   },
-  "trend_input_only_posts": [],
-  "stars_count": 52,
-  "total_views": 6427363,
-  "excluded_low_commentary_quotes": [
-    {
-      "handle": "@swyx",
-      "views": 106957,
-      "url": "https://x.com/swyx/status/2118048180168483229",
-      "reason": "quote with minimal original commentary"
-    },
-    {
-      "handle": "@gregisenberg",
-      "views": 51710,
-      "url": "https://x.com/gregisenberg/status/2117975597045682468",
-      "reason": "quote with minimal original commentary"
-    },
-    {
-      "handle": "@dhh",
-      "views": 31823,
-      "url": "https://x.com/dhh/status/2117632471571534265",
-      "reason": "quote with minimal original commentary"
-    },
-    {
-      "handle": "@LinusEkenstam",
-      "views": 7501,
-      "url": "https://x.com/LinusEkenstam/status/2117711978042905088",
-      "reason": "quote with minimal original commentary"
-    }
-  ],
-  "previous_day_note": "Compared with the Nov 4 digest. Windows overlap by 24h, so some posts carry over with updated views; leaderboards count each hit post once.",
-  "trend_input_only_note": "@IndieHackers and @rowancheung had no original posts in the 48h window; no trend input used from them today.",
-  "trend_keywords": {
-    "keywords": [
-      {
-        "rank": 1,
-        "keyword": "talk to my agents more than my team"
-      },
-      {
-        "rank": 2,
-        "keyword": "what should I build"
-      },
-      {
-        "rank": 3,
-        "keyword": "agent makes the call"
-      },
-      {
-        "rank": 4,
-        "keyword": "~$300/mo biz costs"
-      },
-      {
-        "rank": 5,
-        "keyword": "private local AI"
-      },
-      {
-        "rank": 6,
-        "keyword": "AI slop"
-      },
-      {
-        "rank": 7,
-        "keyword": "voice notes and inference"
-      },
-      {
-        "rank": 8,
-        "keyword": "thank your agent"
-      },
-      {
-        "rank": 9,
-        "keyword": "company brain"
-      },
-      {
-        "rank": 10,
-        "keyword": "acquisition day"
-      }
-    ]
+  {
+   "handle": "@dhh",
+   "name": "dhh",
+   "views": 109272,
+   "views_label": "109,272",
+   "likes": 2967,
+   "reposts": 0,
+   "bookmarks": 265,
+   "replies": 0,
+   "created_at": "2026-11-05T05:43:25.000Z",
+   "hook": "Omarchy just got enormously, awesomely, fantastically better! And now you can run it on half of the M-chip Macs out there plus the MacBook N",
+   "text": "Omarchy just got enormously, awesomely, fantastically better! And now you can run it on half of the M-chip Macs out there plus the MacBook Neo. Oh, and traditional desktop mode if you can't hang with tiling. WE ARE FIXING EVERYTHI",
+   "url": "https://x.com/dhh/status/2118217599763018123",
+   "type": "quote"
   },
-  "drafts": [
-    {
-      "rank": 1,
-      "text": "greg's question of the year: if AI can build almost anything, what should you build?\n\nmy answer is boring. a 20-room amsterdam boutique hotel with no night desk.\n\none company brain that answers the 2am guest from its own house rules and reviews. build the missing hire.",
-      "keywords": [
-        "what should I build",
-        "missing headcount",
-        "company brain"
-      ],
-      "rides": "gregisenberg 'If AI can build almost anything, what should I build?' (43.5K, 890 bookmarks) + greg 'running a company is now voice notes and inference' (50.0K)"
-    },
-    {
-      "rank": 2,
-      "text": "AlexFinn has an Opus-level model running on a laptop. private and local.\n\nso \"AI is only for the big chains\" is over.\n\na six-person amsterdam boutique hotel can have one company brain that knows its rooms, rates and reviews, and covers the shift nobody was hired for.",
-      "keywords": [
-        "local AI",
-        "company brain",
-        "missing headcount"
-      ],
-      "rides": "AlexFinn 'I got Qwen 3.8 running on a laptop... Opus 4.6 performance, but unlimited, private, and local' (128.5K, 1,606 bookmarks)"
-    },
-    {
-      "rank": 3,
-      "text": "greg's fix for AI slop is context, not better prompts.\n\nsame for hotels. an agent fed a boutique hotel's own public reviews sounds like the hotel, not a chatbot.\n\nwe ship amsterdam hotels a free sample built from public reviews only, so they see it work before deciding.",
-      "keywords": [
-        "AI slop",
-        "shipping samples",
-        "public reviews"
-      ],
-      "rides": "gregisenberg 'How to not write AI slop' (51.7K, 959 bookmarks)"
-    }
-  ],
-  "video_tip": "Video tip: 30s vertical screen recording. Open on greg's question 'if AI can build almost anything, what should I build?' as a caption, cut to a guest message landing at 02:07 asking for a 1am late check-in, then the hotel's company brain answering from its house rules and public reviews, end on 'the night desk you never hired'. Show it working, don't explain it: greg's question video drew 43.5K views / 890 bookmarks and minchoi's 'Grok Bot made a doctor's appointment for me while I was driving' screenshot is at 2.10M.",
-  "trend_radar": {
-    "summary": {
-      "headline": "Build the boring missing hire: agents as coworkers, now asking what to build.",
-      "takeaway": "Ride greg's 'what should I build?' question with a boring answer: a 20-room Amsterdam boutique hotel has no night desk, so one company brain answering the 2am guest is the hire they never made. Show it working, built from public reviews.",
-      "top10_line": "Top lanes today: agents as coworkers, agents doing errands, what to build, lean ops and local AI, Claude Code big builds.",
-      "stats": {
-        "all": {
-          "verdicts": {
-            "trend": 28,
-            "visual": 17,
-            "author": 17
-          }
-        }
-      }
-    },
-    "corpus": {
-      "posts": 64,
-      "min_views": 5000
-    },
-    "window": {
-      "label48": "Nov 3 10:00 → Nov 5 10:00 CET"
-    },
-    "topics": [
-      {
-        "name": "Agents as teammates / company brain",
-        "heat": 96,
-        "momentum": "↑ rising",
-        "keywords": [
-          "agents as teammates",
-          "thank your agent",
-          "voice notes"
-        ],
-        "posts_48h": 3,
-        "views_48h": 885346,
-        "posts_24h": 1,
-        "views_24h": 50039,
-        "evidence": [
-          {
-            "handle": "@gregisenberg",
-            "views": 683692,
-            "url": "https://x.com/gregisenberg/status/2117734977312047537",
-            "hook": "greg: 50+ people in 12 countries, but he talks to his agents more than his human teammates"
-          },
-          {
-            "handle": "@dhh",
-            "views": 151615,
-            "url": "https://x.com/dhh/status/2117624597868921189",
-            "hook": "Have you said thank you to your agent today? \n\nYou should."
-          },
-          {
-            "handle": "@gregisenberg",
-            "views": 50039,
-            "url": "https://x.com/gregisenberg/status/2117991742633124276",
-            "hook": "Today’s reminder that running a company is now voice notes and inference"
-          }
-        ]
-      },
-      {
-        "name": "Agents doing errands",
-        "heat": 88,
-        "momentum": "→ steady",
-        "keywords": [
-          "agent errands",
-          "phone calls",
-          "Grok Bot"
-        ],
-        "posts_48h": 3,
-        "views_48h": 2151899,
-        "posts_24h": 1,
-        "views_24h": 8882,
-        "evidence": [
-          {
-            "handle": "@minchoi",
-            "views": 2098232,
-            "url": "https://x.com/minchoi/status/2117633564736938471",
-            "hook": "Grok Bot made a doctor's appointment for minchoi while he was driving."
-          },
-          {
-            "handle": "@AlexFinn",
-            "views": 44785,
-            "url": "https://x.com/AlexFinn/status/2117719430042202311",
-            "hook": "This year we saw the 3 most important AI releases ever:\n\n• Grok Bot\n• Opus 5.5\n• Hermes Ag"
-          },
-          {
-            "handle": "@minchoi",
-            "views": 8882,
-            "url": "https://x.com/minchoi/status/2118075152701301213",
-            "hook": "Grok Bot can make phone calls now.\n\nThis is the part most people want AI agent to do: hand"
-          }
-        ]
-      },
-      {
-        "name": "What to build / AI slop",
-        "heat": 74,
-        "momentum": "↑ new",
-        "keywords": [
-          "what should I build",
-          "AI slop"
-        ],
-        "posts_48h": 1,
-        "views_48h": 43456,
-        "posts_24h": 1,
-        "views_24h": 43456,
-        "evidence": [
-          {
-            "handle": "@gregisenberg",
-            "views": 43456,
-            "url": "https://x.com/gregisenberg/status/2118087733205717440",
-            "hook": "greg: 'If AI can build almost anything, what should I build?'"
-          }
-        ]
-      },
-      {
-        "name": "Lean ops and local AI",
-        "heat": 78,
-        "momentum": "→ steady",
-        "keywords": [
-          "lean costs",
-          "local AI"
-        ],
-        "posts_48h": 5,
-        "views_48h": 712977,
-        "posts_24h": 1,
-        "views_24h": 52663,
-        "evidence": [
-          {
-            "handle": "@levelsio",
-            "views": 447145,
-            "url": "https://x.com/levelsio/status/2117694259558293692",
-            "hook": "levelsio: total biz expenses down to ~$300/mo for 20,000 paying customers."
-          },
-          {
-            "handle": "@AlexFinn",
-            "views": 128546,
-            "url": "https://x.com/AlexFinn/status/2117786932830982510",
-            "hook": "AlexFinn: Opus-level model running on a laptop, private and local."
-          },
-          {
-            "handle": "@dhh",
-            "views": 73486,
-            "url": "https://x.com/dhh/status/2117774816094904507",
-            "hook": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word "
-          }
-        ]
-      },
-      {
-        "name": "Claude Code big builds",
-        "heat": 62,
-        "momentum": "→ steady",
-        "keywords": [
-          "Claude Code",
-          "decompile",
-          "3D"
-        ],
-        "posts_48h": 8,
-        "views_48h": 293790,
-        "posts_24h": 6,
-        "views_24h": 136438,
-        "evidence": [
-          {
-            "handle": "@levelsio",
-            "views": 83866,
-            "url": "https://x.com/levelsio/status/2117586103158853806",
-            "hook": "Decompiled and got the Wake Island map working now, which is more fun because it has plane"
-          },
-          {
-            "handle": "@dhh",
-            "views": 73486,
-            "url": "https://x.com/dhh/status/2117774816094904507",
-            "hook": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word "
-          },
-          {
-            "handle": "@levelsio",
-            "views": 58503,
-            "url": "https://x.com/levelsio/status/2118083863318610403",
-            "hook": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the"
-          }
-        ]
-      }
-    ],
-    "ideas": [
-      {
-        "title": "Build the missing hire: the 2am guest answered",
-        "format": "text or 30s screen demo",
-        "source": "watchlist",
-        "topic": "What to build / AI slop"
-      },
-      {
-        "title": "Company brain without an IT department",
-        "format": "text",
-        "source": "watchlist",
-        "topic": "Lean ops and local AI"
-      },
-      {
-        "title": "Public-review sample that sounds like the hotel",
-        "format": "text + screenshot",
-        "source": "watchlist",
-        "topic": "What to build / AI slop"
-      }
-    ],
-    "why_hit": [
-      {
-        "handle": "@minchoi",
-        "lane": "image",
-        "views": 2098232,
-        "media": "image",
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "agent errands",
-          "Grok",
-          "Grok Bot"
-        ]
-      },
-      {
-        "handle": "@gregisenberg",
-        "lane": "text",
-        "views": 683692,
-        "media": "text",
-        "trend_match": 100,
-        "verdict": "trend",
-        "matched_keywords": [
-          "agents as teammates",
-          "Grok",
-          "AI agents",
-          "skills"
-        ]
-      },
-      {
-        "handle": "@levelsio",
-        "lane": "image",
-        "views": 447145,
-        "media": "image",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "lean costs"
-        ]
-      },
-      {
-        "handle": "@dhh",
-        "lane": "image",
-        "views": 322635,
-        "media": "image",
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      {
-        "handle": "@levelsio",
-        "lane": "text",
-        "views": 300098,
-        "media": "text",
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      {
-        "handle": "@dhh",
-        "lane": "image",
-        "views": 214873,
-        "media": "image",
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      {
-        "handle": "@dhh",
-        "lane": "text",
-        "views": 151615,
-        "media": "text",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "thank your agent"
-        ]
-      },
-      {
-        "handle": "@levelsio",
-        "lane": "text",
-        "views": 150305,
-        "media": "text",
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": []
-      },
-      {
-        "handle": "@AlexFinn",
-        "lane": "video",
-        "views": 128546,
-        "media": "video",
-        "trend_match": 70,
-        "verdict": "trend",
-        "matched_keywords": [
-          "local AI",
-          "Opus 5.5"
-        ]
-      },
-      {
-        "handle": "@dhh",
-        "lane": "text",
-        "views": 113233,
-        "media": "text",
-        "trend_match": 0,
-        "verdict": "author",
-        "matched_keywords": [
-          "Omarchy"
-        ]
-      },
-      {
-        "handle": "@rauchg",
-        "lane": "text",
-        "views": 110049,
-        "media": "text",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      {
-        "handle": "@rauchg",
-        "lane": "text",
-        "views": 87026,
-        "media": "text",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      {
-        "handle": "@levelsio",
-        "lane": "video",
-        "views": 83866,
-        "media": "video",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "decompile"
-        ]
-      },
-      {
-        "handle": "@rauchg",
-        "lane": "text",
-        "views": 83511,
-        "media": "text",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "security"
-        ]
-      },
-      {
-        "handle": "@dhh",
-        "lane": "text",
-        "views": 73486,
-        "media": "text",
-        "trend_match": 35,
-        "verdict": "trend",
-        "matched_keywords": [
-          "local AI",
-          "Omarchy",
-          "3D",
-          "dictation"
-        ]
-      }
-    ],
-    "legend": "Source: X API recent search, originals only (-is:reply -is:retweet), 5 batched watchlist queries + 6 follow-up pages, 2 keyword queries for outsiders (AI agents terms; hotel/hospitality + AI), 1 operator + trend-input query. Hit ≥5,000 impressions, star ≥10,000. Quotes kept only with real commentary. trend_match/verdict are a keyword heuristic (35% per trending keyword matched; else visual if media, else author pull). All metrics are as returned by the X API at fetch time."
+  {
+   "handle": "@dhh",
+   "name": "dhh",
+   "views": 105692,
+   "views_label": "105,692",
+   "likes": 3016,
+   "reposts": 0,
+   "bookmarks": 314,
+   "replies": 0,
+   "created_at": "2026-11-05T14:33:20.000Z",
+   "hook": "MacBook M2 Pro connected to the XDR 6K running Omarchy 4.5. Whatever my beefs with Apple, they aren't with the hardware. This is a solid set",
+   "text": "MacBook M2 Pro connected to the XDR 6K running Omarchy 4.5. Whatever my beefs with Apple, they aren't with the hardware. This is a solid setup. https://t.co/coGtGuNEt0",
+   "url": "https://x.com/dhh/status/2118350961152291225",
+   "type": "original"
   },
-  "scan_meta": {
-    "x_calls": 13,
-    "fetched_at": "2026-11-05T10:12:01+01:00",
-    "window_start_utc": "2026-11-03T09:00:00Z"
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 95278,
+   "views_label": "95,278",
+   "likes": 1549,
+   "reposts": 0,
+   "bookmarks": 967,
+   "replies": 0,
+   "created_at": "2026-11-05T16:08:50.000Z",
+   "hook": "You can't call this AI slop anymore.  One self-taught working mom made this 9-minute AI fantasy film.  An she won 4 awards at the New York I",
+   "text": "You can't call this AI slop anymore.  One self-taught working mom made this 9-minute AI fantasy film.  An she won 4 awards at the New York International Film Awards, including Best AI Film and Best Screenplay.  This is what real A",
+   "url": "https://x.com/minchoi/status/2118374993696575996",
+   "type": "original"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 74130,
+   "views_label": "74,130",
+   "likes": 533,
+   "reposts": 0,
+   "bookmarks": 214,
+   "replies": 0,
+   "created_at": "2026-11-04T20:51:59.000Z",
+   "hook": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the latest version) on https://t.co/Wjh4ZCYLly  That ",
+   "text": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the latest version) on https://t.co/Wjh4ZCYLly  That involved another round of decompiling it and lots of new bug fixes to make it work in the ",
+   "url": "https://x.com/levelsio/status/2118083863318610403",
+   "type": "quote"
+  },
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 64442,
+   "views_label": "64,442",
+   "likes": 1919,
+   "reposts": 0,
+   "bookmarks": 217,
+   "replies": 0,
+   "created_at": "2026-11-05T17:25:19.000Z",
+   "hook": "\"you will own nothing and be happy\" \"you will know nothing and be happy\"  ^ Gotta prevent this at all costs.  Use AI to know and understand.",
+   "text": "\"you will own nothing and be happy\" \"you will know nothing and be happy\"  ^ Gotta prevent this at all costs.  Use AI to know and understand.",
+   "url": "https://x.com/rauchg/status/2118394240636215480",
+   "type": "original"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 63709,
+   "views_label": "63,709",
+   "likes": 640,
+   "reposts": 0,
+   "bookmarks": 193,
+   "replies": 0,
+   "created_at": "2026-11-05T20:22:42.000Z",
+   "hook": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on  It just proves my point that",
+   "text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on  It just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t",
+   "url": "https://x.com/levelsio/status/2118438879787196685",
+   "type": "quote"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 58627,
+   "views_label": "58,627",
+   "likes": 308,
+   "reposts": 0,
+   "bookmarks": 9,
+   "replies": 0,
+   "created_at": "2026-11-05T19:55:04.000Z",
+   "hook": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+   "text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+   "url": "https://x.com/levelsio/status/2118431924968464743",
+   "type": "quote"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 54037,
+   "views_label": "54,037",
+   "likes": 405,
+   "reposts": 0,
+   "bookmarks": 25,
+   "replies": 0,
+   "created_at": "2026-11-05T13:02:52.000Z",
+   "hook": "Even with this on on all my posts I still have to block like 50 AI reply accounts per day, it's getting crazy on here  I think it's because ",
+   "text": "Even with this on on all my posts I still have to block like 50 AI reply accounts per day, it's getting crazy on here  I think it's because @spacexai lets you let Grok use your X account  It's crazy cause now they post shitty AI r",
+   "url": "https://x.com/levelsio/status/2118328194239529218",
+   "type": "quote"
+  },
+  {
+   "handle": "@AlexFinn",
+   "name": "AlexFinn",
+   "views": 52241,
+   "views_label": "52,241",
+   "likes": 721,
+   "reposts": 0,
+   "bookmarks": 898,
+   "replies": 0,
+   "created_at": "2026-11-05T18:00:03.000Z",
+   "hook": "Grok Bot is easily the best AI agent on planet Earth right now  The issue is, people want MORE tokens  Good news: I figured out 7 ways to ge",
+   "text": "Grok Bot is easily the best AI agent on planet Earth right now  The issue is, people want MORE tokens  Good news: I figured out 7 ways to get WAY more usage out of grok Bot  In this video I cover all 7 tricks so you can 10x the am",
+   "url": "https://x.com/AlexFinn/status/2118402980340961507",
+   "type": "original"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 47345,
+   "views_label": "47,345",
+   "likes": 427,
+   "reposts": 0,
+   "bookmarks": 67,
+   "replies": 0,
+   "created_at": "2026-11-05T01:25:04.000Z",
+   "hook": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. https://t.co/i56rhUUFg0",
+   "text": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. https://t.co/i56rhUUFg0",
+   "url": "https://x.com/swyx/status/2118152585911869634",
+   "type": "quote"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 47174,
+   "views_label": "47,174",
+   "likes": 205,
+   "reposts": 0,
+   "bookmarks": 42,
+   "replies": 0,
+   "created_at": "2026-11-04T23:05:05.000Z",
+   "hook": "I managed to port Battlefield 1942 to mobile web too  So now it's playable as full multiplayer on iPhone and Android from their browser! 🤯  ",
+   "text": "I managed to port Battlefield 1942 to mobile web too  So now it's playable as full multiplayer on iPhone and Android from their browser! 🤯  Claude Code built its own graphic layer that translates Direct3D (DirectX) instructions to",
+   "url": "https://x.com/levelsio/status/2118117357172191242",
+   "type": "quote"
+  },
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 46986,
+   "views_label": "46,986",
+   "likes": 877,
+   "reposts": 0,
+   "bookmarks": 151,
+   "replies": 0,
+   "created_at": "2026-11-05T22:03:13.000Z",
+   "hook": "SpaceXSI 🤝 Vercel Grok and Cursor can now build, deploy, and scale https://t.co/DSlgyVqzWA https://t.co/MxH4LvvcKL",
+   "text": "SpaceXSI 🤝 Vercel Grok and Cursor can now build, deploy, and scale https://t.co/DSlgyVqzWA https://t.co/MxH4LvvcKL",
+   "url": "https://x.com/rauchg/status/2118464177211940997",
+   "type": "quote"
+  },
+  {
+   "handle": "@dhh",
+   "name": "dhh",
+   "views": 46707,
+   "views_label": "46,707",
+   "likes": 1058,
+   "reposts": 0,
+   "bookmarks": 29,
+   "replies": 0,
+   "created_at": "2026-11-05T13:40:08.000Z",
+   "hook": "Need a boost today? Try making your computer a little better or a little more beautiful.",
+   "text": "Need a boost today? Try making your computer a little better or a little more beautiful.",
+   "url": "https://x.com/dhh/status/2118337573269733853",
+   "type": "original"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 43143,
+   "views_label": "43,143",
+   "likes": 246,
+   "reposts": 0,
+   "bookmarks": 17,
+   "replies": 0,
+   "created_at": "2026-11-05T22:30:28.000Z",
+   "hook": "Rate my painting skills  We had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by na",
+   "text": "Rate my painting skills  We had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself  Maybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+   "url": "https://x.com/levelsio/status/2118471033816527358",
+   "type": "original"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 39980,
+   "views_label": "39,980",
+   "likes": 199,
+   "reposts": 0,
+   "bookmarks": 9,
+   "replies": 0,
+   "created_at": "2026-11-05T13:44:56.000Z",
+   "hook": "\"here's a complete regurgitation of your post but with strong AI tells.\"   Exactly why AI replies suck https://t.co/40mvDScWIc",
+   "text": "\"here's a complete regurgitation of your post but with strong AI tells.\"   Exactly why AI replies suck https://t.co/40mvDScWIc",
+   "url": "https://x.com/levelsio/status/2118338780469801138",
+   "type": "quote"
+  },
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 39125,
+   "views_label": "39,125",
+   "likes": 830,
+   "reposts": 0,
+   "bookmarks": 368,
+   "replies": 0,
+   "created_at": "2026-11-05T22:44:19.000Z",
+   "hook": "① Get an X sub ② Build with Bot / Cursor ③ Deploy to Vercel, scales from 0 to 🌙 ④ Launch and distribute on X ⑤ Monetize with X Money / Creat",
+   "text": "① Get an X sub ② Build with Bot / Cursor ③ Deploy to Vercel, scales from 0 to 🌙 ④ Launch and distribute on X ⑤ Monetize with X Money / Creators  The loop is nearly complete ♾️ https://t.co/gqqLMgi02H",
+   "url": "https://x.com/rauchg/status/2118474519925158186",
+   "type": "quote"
+  },
+  {
+   "handle": "@gregisenberg",
+   "name": "gregisenberg",
+   "views": 38771,
+   "views_label": "38,771",
+   "likes": 299,
+   "reposts": 0,
+   "bookmarks": 327,
+   "replies": 0,
+   "created_at": "2026-11-05T13:41:34.000Z",
+   "hook": "How I'm using Grokbot (specialized jobs, more routines, chief of staff agent) https://t.co/n7ap9FzDj3",
+   "text": "How I'm using Grokbot (specialized jobs, more routines, chief of staff agent) https://t.co/n7ap9FzDj3",
+   "url": "https://x.com/gregisenberg/status/2118337933681873316",
+   "type": "original"
+  },
+  {
+   "handle": "@dhh",
+   "name": "dhh",
+   "views": 36945,
+   "views_label": "36,945",
+   "likes": 1459,
+   "reposts": 0,
+   "bookmarks": 69,
+   "replies": 0,
+   "created_at": "2026-11-05T13:32:48.000Z",
+   "hook": "We all have super computers now. It's a crime that macOS and Windows installs so slowly on them. Everything is more fun when it's fast. http",
+   "text": "We all have super computers now. It's a crime that macOS and Windows installs so slowly on them. Everything is more fun when it's fast. https://t.co/u3qI9OjbG4",
+   "url": "https://x.com/dhh/status/2118335724517027851",
+   "type": "quote"
+  },
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 34613,
+   "views_label": "34,613",
+   "likes": 353,
+   "reposts": 0,
+   "bookmarks": 99,
+   "replies": 0,
+   "created_at": "2026-11-05T20:13:17.000Z",
+   "hook": "I had a hard time believing this… but I had https://t.co/3Z4NESzNKd build a repro with 𝚊𝚕𝚙𝚒𝚗𝚎:𝟹.𝟸𝟺.  ① Type in a wrong password ② Type in a ",
+   "text": "I had a hard time believing this… but I had https://t.co/3Z4NESzNKd build a repro with 𝚊𝚕𝚙𝚒𝚗𝚎:𝟹.𝟸𝟺.  ① Type in a wrong password ② Type in a &gt; 256 chars password ③ root   Alpine team has pushed a fixed apk for 𝚘𝚙𝚎𝚗𝚜𝚜𝚑-𝚜𝚎𝚛𝚟𝚎𝚛 (𝟷𝟶",
+   "url": "https://x.com/rauchg/status/2118436510026580169",
+   "type": "quote"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 31147,
+   "views_label": "31,147",
+   "likes": 200,
+   "reposts": 0,
+   "bookmarks": 23,
+   "replies": 0,
+   "created_at": "2026-11-05T22:51:51.000Z",
+   "hook": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+   "text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+   "url": "https://x.com/levelsio/status/2118476416501285129",
+   "type": "quote"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 30082,
+   "views_label": "30,082",
+   "likes": 129,
+   "reposts": 0,
+   "bookmarks": 30,
+   "replies": 0,
+   "created_at": "2026-11-04T21:59:06.000Z",
+   "hook": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger  50b783df7d2c335500f1b6206d52649c69fb5",
+   "text": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger  50b783df7d2c335500f1b6206d52649c69fb51931a0d616bfa2e299778588511a2ea894496cff26ba08ca8c7a81f64796f30d0efd9d914b32d3a5c639fd4512",
+   "url": "https://x.com/swyx/status/2118100752732418268",
+   "type": "quote"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 23837,
+   "views_label": "23,837",
+   "likes": 100,
+   "reposts": 0,
+   "bookmarks": 14,
+   "replies": 0,
+   "created_at": "2026-11-05T12:28:56.000Z",
+   "hook": "Fixed the mobile stretched interface on portrait mode in BF1942  by modding the engine  Claude Code told me how it did it:  \"1. Spotting the",
+   "text": "Fixed the mobile stretched interface on portrait mode in BF1942  by modding the engine  Claude Code told me how it did it:  \"1. Spotting the HUD: 3D world draws use a perspective projection, where far things look smaller. The HUD ",
+   "url": "https://x.com/levelsio/status/2118319655353749848",
+   "type": "quote"
+  },
+  {
+   "handle": "@rauchg",
+   "name": "rauchg",
+   "views": 23650,
+   "views_label": "23,650",
+   "likes": 270,
+   "reposts": 0,
+   "bookmarks": 157,
+   "replies": 0,
+   "created_at": "2026-11-05T20:30:27.000Z",
+   "hook": "“Doing stuff for you over time” is the killer app of agents.  Muse and Instinct consolidate memories at night, remind you of stuff in the mo",
+   "text": "“Doing stuff for you over time” is the killer app of agents.  Muse and Instinct consolidate memories at night, remind you of stuff in the morning, message you after N days passed since your last interaction…  Vercel Schedules are ",
+   "url": "https://x.com/rauchg/status/2118440831355068671",
+   "type": "quote"
+  },
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 23135,
+   "views_label": "23,135",
+   "likes": 202,
+   "reposts": 0,
+   "bookmarks": 115,
+   "replies": 0,
+   "created_at": "2026-11-05T04:05:15.000Z",
+   "hook": "3D game development will never be the same.  People are building FULL playable games with Claude Opus 5.5.  3D tower defense. Drivable citie",
+   "text": "3D game development will never be the same.  People are building FULL playable games with Claude Opus 5.5.  3D tower defense. Drivable cities. Roblox sims. Multiplayer survival.  10 wild examples ↓ https://t.co/A4kgg0tgzO",
+   "url": "https://x.com/minchoi/status/2118192898785354185",
+   "type": "original"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 20954,
+   "views_label": "20,954",
+   "likes": 142,
+   "reposts": 0,
+   "bookmarks": 21,
+   "replies": 0,
+   "created_at": "2026-11-05T00:30:02.000Z",
+   "hook": "i actually respect breadth in an economy that only respects b2b saas  competitor: we solved coding  oai: here’s sora  competitor: we solved ",
+   "text": "i actually respect breadth in an economy that only respects b2b saas  competitor: we solved coding  oai: here’s sora  competitor: we solved alignment  oai: here’s scarlett johannson’s voice  competitor: we are giving tokens and vm",
+   "url": "https://x.com/swyx/status/2118138737419067758",
+   "type": "quote"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 19852,
+   "views_label": "19,852",
+   "likes": 63,
+   "reposts": 0,
+   "bookmarks": 7,
+   "replies": 0,
+   "created_at": "2026-11-05T23:09:19.000Z",
+   "hook": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t",
+   "text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+   "url": "https://x.com/levelsio/status/2118480812010348741",
+   "type": "quote"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 19521,
+   "views_label": "19,521",
+   "likes": 228,
+   "reposts": 0,
+   "bookmarks": 64,
+   "replies": 0,
+   "created_at": "2026-11-05T05:08:39.000Z",
+   "hook": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2  this is distillation without tradeoffs. i think @thinkymachines inkling is",
+   "text": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2  this is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these es",
+   "url": "https://x.com/swyx/status/2118208851506036989",
+   "type": "quote"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "LinusEkenstam",
+   "views": 19319,
+   "views_label": "19,319",
+   "likes": 281,
+   "reposts": 0,
+   "bookmarks": 409,
+   "replies": 0,
+   "created_at": "2026-11-04T17:40:32.000Z",
+   "hook": "Everyone assumes AI-written code at scale means a giant pile of slop. Me too at times.  Axiom just put out the best counterexample I've seen",
+   "text": "Everyone assumes AI-written code at scale means a giant pile of slop. Me too at times.  Axiom just put out the best counterexample I've seen.  They took the Stacks Project, the reference every algebraic geometer works from, built ",
+   "url": "https://x.com/LinusEkenstam/status/2118035682946134351",
+   "type": "quote"
+  },
+  {
+   "handle": "@tibo_maker",
+   "name": "tibo_maker",
+   "views": 18937,
+   "views_label": "18,937",
+   "likes": 200,
+   "reposts": 0,
+   "bookmarks": 165,
+   "replies": 0,
+   "created_at": "2026-11-05T10:30:35.000Z",
+   "hook": "this is the most successful launch video in Silicon Valley history  18 years ago, the founder of Dropbox recorded his screen to make this de",
+   "text": "this is the most successful launch video in Silicon Valley history  18 years ago, the founder of Dropbox recorded his screen to make this demo  it took their waitlist from 5,000 to 75,000 overnight  imo, here's what made it work: ",
+   "url": "https://x.com/tibo_maker/status/2118289869428380138",
+   "type": "original"
+  },
+  {
+   "handle": "@bentossell",
+   "name": "bentossell",
+   "views": 14510,
+   "views_label": "14,510",
+   "likes": 253,
+   "reposts": 0,
+   "bookmarks": 177,
+   "replies": 0,
+   "created_at": "2026-11-05T16:41:56.000Z",
+   "hook": "i pulled my kindle, podcast, youtube history to re-affirm what i think is interesting to me  then quickly spun up this book timeline https:/",
+   "text": "i pulled my kindle, podcast, youtube history to re-affirm what i think is interesting to me  then quickly spun up this book timeline https://t.co/VFGfLpRVSB",
+   "url": "https://x.com/bentossell/status/2118383324548702228",
+   "type": "original"
+  },
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 13642,
+   "views_label": "13,642",
+   "likes": 123,
+   "reposts": 0,
+   "bookmarks": 64,
+   "replies": 0,
+   "created_at": "2026-11-05T22:31:44.000Z",
+   "hook": "Google just dropped Gemini Omni 1.2 Flash.  AI video is getting insanely good.  More natural multi-speaker dialogue. Multi-turn motion trans",
+   "text": "Google just dropped Gemini Omni 1.2 Flash.  AI video is getting insanely good.  More natural multi-speaker dialogue. Multi-turn motion transfer.  Better consistency. Precise control.  9 wild demos:  1. Multi-turn motion transfer h",
+   "url": "https://x.com/minchoi/status/2118471354244800573",
+   "type": "original"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 13317,
+   "views_label": "13,317",
+   "likes": 112,
+   "reposts": 0,
+   "bookmarks": 4,
+   "replies": 0,
+   "created_at": "2026-11-05T07:39:39.000Z",
+   "hook": "absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners.   the first AIE in China is actually",
+   "text": "absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners.   the first AIE in China is actually happening!!!  and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft, @M",
+   "url": "https://x.com/swyx/status/2118246851136909731",
+   "type": "quote"
+  },
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 13221,
+   "views_label": "13,221",
+   "likes": 102,
+   "reposts": 0,
+   "bookmarks": 39,
+   "replies": 0,
+   "created_at": "2026-11-04T23:29:48.000Z",
+   "hook": "Claude Code background subagents now use less of your usage limit.  Each one updates its status line every 30 seconds, and every update used",
+   "text": "Claude Code background subagents now use less of your usage limit.  Each one updates its status line every 30 seconds, and every update used to re-read its whole conversation.  Now Haiku 5.5 writes it from short notes. About 99% c",
+   "url": "https://x.com/minchoi/status/2118123578382053726",
+   "type": "quote"
+  },
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 13119,
+   "views_label": "13,119",
+   "likes": 98,
+   "reposts": 0,
+   "bookmarks": 36,
+   "replies": 0,
+   "created_at": "2026-11-05T01:39:06.000Z",
+   "hook": "ChatGPT can make GIFs now.  Images 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.  Plus refer",
+   "text": "ChatGPT can make GIFs now.  Images 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.  Plus reference images, and 2 new API models with 50% faster generation.  Live today on all tiers.  h",
+   "url": "https://x.com/minchoi/status/2118156117083844700",
+   "type": "quote"
+  },
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 12675,
+   "views_label": "12,675",
+   "likes": 107,
+   "reposts": 0,
+   "bookmarks": 47,
+   "replies": 0,
+   "created_at": "2026-11-05T20:02:36.000Z",
+   "hook": "AI film is winning awards in New York film festival now. https://t.co/d0apPkIHX6 https://t.co/O2kW7IjTOA",
+   "text": "AI film is winning awards in New York film festival now. https://t.co/d0apPkIHX6 https://t.co/O2kW7IjTOA",
+   "url": "https://x.com/minchoi/status/2118433821498515927",
+   "type": "quote"
+  },
+  {
+   "handle": "@minchoi",
+   "name": "minchoi",
+   "views": 12459,
+   "views_label": "12,459",
+   "likes": 78,
+   "reposts": 0,
+   "bookmarks": 14,
+   "replies": 0,
+   "created_at": "2026-11-04T20:17:22.000Z",
+   "hook": "Grok Bot can make phone calls now.  This is the part most people want AI agent to do: handle those annoying stuff for you.  Personal assista",
+   "text": "Grok Bot can make phone calls now.  This is the part most people want AI agent to do: handle those annoying stuff for you.  Personal assistant will never be the same  https://t.co/IyVYy4LQeb https://t.co/QkdnyppMd3",
+   "url": "https://x.com/minchoi/status/2118075152701301213",
+   "type": "quote"
+  },
+  {
+   "handle": "@mattshumer_",
+   "name": "mattshumer_",
+   "views": 12442,
+   "views_label": "12,442",
+   "likes": 18,
+   "reposts": 0,
+   "bookmarks": 7,
+   "replies": 0,
+   "created_at": "2026-11-06T01:36:57.000Z",
+   "hook": "The SB team is doing this with their biz-focused agent (text +1 (404) 432-1113 to try it)  It's $1,000/mo, but is a monster of an agent, wit",
+   "text": "The SB team is doing this with their biz-focused agent (text +1 (404) 432-1113 to try it)  It's $1,000/mo, but is a monster of an agent, with no compromises. https://t.co/qMyFwBXBLL",
+   "url": "https://x.com/mattshumer_/status/2118517964005863617",
+   "type": "quote"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 11737,
+   "views_label": "11,737",
+   "likes": 102,
+   "reposts": 0,
+   "bookmarks": 5,
+   "replies": 0,
+   "created_at": "2026-11-05T22:37:22.000Z",
+   "hook": "[non tech, non work post]  Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after",
+   "text": "[non tech, non work post]  Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)!  https://t.co/Jlx1Lz0P5U Nov 14 3pm/7pm shows left (Nov 13 sold out)  ft. our ",
+   "url": "https://x.com/swyx/status/2118472770002792902",
+   "type": "quote"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "LinusEkenstam",
+   "views": 9841,
+   "views_label": "9,841",
+   "likes": 34,
+   "reposts": 0,
+   "bookmarks": 15,
+   "replies": 0,
+   "created_at": "2026-11-04T20:27:10.000Z",
+   "hook": "we’re just getting started.   2027 will bring upon us so much advancements that by 2028 it will be unrecognizable https://t.co/Qdn6gQqViG",
+   "text": "we’re just getting started.   2027 will bring upon us so much advancements that by 2028 it will be unrecognizable https://t.co/Qdn6gQqViG",
+   "url": "https://x.com/LinusEkenstam/status/2118077616829710416",
+   "type": "quote"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "LinusEkenstam",
+   "views": 8471,
+   "views_label": "8,471",
+   "likes": 60,
+   "reposts": 0,
+   "bookmarks": 43,
+   "replies": 0,
+   "created_at": "2026-11-05T13:10:17.000Z",
+   "hook": "I’ve not tested this, but it has peaked my interest enough that I’ll try to spend my flight over to Adobe Max playing around with this.   Sh",
+   "text": "I’ve not tested this, but it has peaked my interest enough that I’ll try to spend my flight over to Adobe Max playing around with this.   Shared memory, across any agentic provider essentially is the most painful thing at the mome",
+   "url": "https://x.com/LinusEkenstam/status/2118330059635237189",
+   "type": "quote"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "LinusEkenstam",
+   "views": 7646,
+   "views_label": "7,646",
+   "likes": 58,
+   "reposts": 0,
+   "bookmarks": 60,
+   "replies": 0,
+   "created_at": "2026-11-05T23:25:00.000Z",
+   "hook": "This is the first time I've seen someone nailing the sentiment I have with the agents I'm using.   They are making me regain my time, read o",
+   "text": "This is the first time I've seen someone nailing the sentiment I have with the agents I'm using.   They are making me regain my time, read on the beach, go for a run, reply on emails within minutes instead of weeks.   I got no clu",
+   "url": "https://x.com/LinusEkenstam/status/2118484758913016141",
+   "type": "quote"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "LinusEkenstam",
+   "views": 7436,
+   "views_label": "7,436",
+   "likes": 30,
+   "reposts": 0,
+   "bookmarks": 10,
+   "replies": 0,
+   "created_at": "2026-11-04T23:30:36.000Z",
+   "hook": "My first move as a video game character was asking a sleepy old fisherman what he thinks about AGI.  His answer was honestly better than mos",
+   "text": "My first move as a video game character was asking a sleepy old fisherman what he thinks about AGI.  His answer was honestly better than most takes I see on here:   \"If it can help me pull in the lobster net, sign me up.\"  All mad",
+   "url": "https://x.com/LinusEkenstam/status/2118123778454769901",
+   "type": "original"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "levelsio",
+   "views": 7020,
+   "views_label": "7,020",
+   "likes": 1,
+   "reposts": 0,
+   "bookmarks": 0,
+   "replies": 0,
+   "created_at": "2026-11-05T13:01:34.000Z",
+   "hook": "Even with this on on all my posts I still have to block like 50 AI reply accounts per day, it's getting crazy on here  I think it's because ",
+   "text": "Even with this on on all my posts I still have to block like 50 AI reply accounts per day, it's getting crazy on here  I think it's because @spacexai lets you let Grok use your X account  It's crazy cause now they post shitty AI r",
+   "url": "https://x.com/levelsio/status/2118327865137578041",
+   "type": "quote"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 5634,
+   "views_label": "5,634",
+   "likes": 61,
+   "reposts": 0,
+   "bookmarks": 4,
+   "replies": 0,
+   "created_at": "2026-11-05T17:51:15.000Z",
+   "hook": "we're recording an AAv5 pod with @_micah_h and @grmcameron today and this reminds me why you basically need @ArtificialAnlys AA-* rebuilds o",
+   "text": "we're recording an AAv5 pod with @_micah_h and @grmcameron today and this reminds me why you basically need @ArtificialAnlys AA-* rebuilds of every single eval   because you -CANNOT- trust labs not to intentionally or accidentally",
+   "url": "https://x.com/swyx/status/2118400768957202439",
+   "type": "quote"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "LinusEkenstam",
+   "views": 5272,
+   "views_label": "5,272",
+   "likes": 22,
+   "reposts": 0,
+   "bookmarks": 9,
+   "replies": 0,
+   "created_at": "2026-11-04T09:00:32.000Z",
+   "hook": "Ben gave his AI his inbox and told it to raise $10M. That first tweet got around 100,000 views and kickstarted Polsia's growth. https://t.co",
+   "text": "Ben gave his AI his inbox and told it to raise $10M. That first tweet got around 100,000 views and kickstarted Polsia's growth. https://t.co/pcf7mjhRhy",
+   "url": "https://x.com/LinusEkenstam/status/2117904819381747933",
+   "type": "original"
   }
+ ],
+ "virals": [],
+ "outsiders": [],
+ "patterns": [
+  "Agents that act over time: rauchg 'doing stuff for you over time is the killer app of agents' 23.6K (157 bm) and memory-consolidation agents",
+  "Greg's agent setup (specialized jobs, chief of staff) 38.8K; dhh 'keep fixing things' 111.3K; rauchg 'human-made software was slow/under-specified, AI will rewrite it' 291.8K",
+  "Platform news dominates reach (Grok/Vercel/X loop, levelsio on AI reply bots); not mappable to hotels, skip"
+ ],
+ "no_hits": [
+  {
+   "handle": "@Sabrina_Ramonov",
+   "reason": "1 originals in window; none reached 5,000 views. Highest observed 425.",
+   "max_views": 425
+  },
+  {
+   "handle": "@mckaywrigley",
+   "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 3 10:00 → Nov 5 10:00 CET).",
+   "max_views": 0
+  },
+  {
+   "handle": "@heyBarsee",
+   "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 3 10:00 → Nov 5 10:00 CET).",
+   "max_views": 0
+  },
+  {
+   "handle": "@tdinh_me",
+   "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 3 10:00 → Nov 5 10:00 CET).",
+   "max_views": 0
+  }
+ ],
+ "virals_narrative": "Outsider scan skipped today (call budget); watchlist only.",
+ "narrative_synthesis": "Nov 4–6: 51 hits above 5K, 2,585,201 views, 44 stars. Top: @rauchg 291,840. Most hotel-mappable: agents acting over time (rauchg) and specialized jobs plus chief of staff (greg).",
+ "virals_window": "last ~48h (since 2026-11-04 10:00 CET)",
+ "virals_target": 20,
+ "hits_count": 51,
+ "outsiders_count": 0,
+ "previous_day": {
+  "date": "2026-11-05",
+  "hits_count": 62,
+  "total_views": 6427363,
+  "stars_count": 52,
+  "top": "@minchoi 2,098,232"
+ },
+ "leaderboards": {
+  "as_of": "2026-11-05",
+  "tracking_start": "2026-10-26",
+  "days_included": [
+   "2026-10-30",
+   "2026-10-31",
+   "2026-11-01",
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04",
+   "2026-11-05"
+  ],
+  "month_days_included": [
+   "2026-11-01",
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04",
+   "2026-11-05"
+  ],
+  "week": {
+   "label": "Rolling week · Oct 30–Nov 5",
+   "range": [
+    "2026-10-30",
+    "2026-11-05"
+   ],
+   "entries": [
+    {
+     "handle": "@levelsio",
+     "name": "@levelsio",
+     "hits": 65,
+     "days": 7,
+     "best": 2867632,
+     "views": 16377540,
+     "is_you": false
+    },
+    {
+     "handle": "@dhh",
+     "name": "DHH",
+     "hits": 34,
+     "days": 6,
+     "best": 384988,
+     "views": 3991696,
+     "is_you": false
+    },
+    {
+     "handle": "@LinusEkenstam",
+     "name": "Linus ✦ Ekenstam",
+     "hits": 33,
+     "days": 7,
+     "best": 237917,
+     "views": 883436,
+     "is_you": false
+    },
+    {
+     "handle": "@rauchg",
+     "name": "Guillermo Rauch",
+     "hits": 28,
+     "days": 7,
+     "best": 258221,
+     "views": 1689738,
+     "is_you": false
+    },
+    {
+     "handle": "@minchoi",
+     "name": "Min Choi",
+     "hits": 25,
+     "days": 7,
+     "best": 2098232,
+     "views": 2596165,
+     "is_you": false
+    },
+    {
+     "handle": "@tibo_maker",
+     "name": "Tibo",
+     "hits": 21,
+     "days": 7,
+     "best": 85808,
+     "views": 494118,
+     "is_you": false
+    },
+    {
+     "handle": "@gregisenberg",
+     "name": "GREG ISENBERG",
+     "hits": 19,
+     "days": 7,
+     "best": 683692,
+     "views": 1976893,
+     "is_you": false
+    },
+    {
+     "handle": "@swyx",
+     "name": "swyx",
+     "hits": 18,
+     "days": 7,
+     "best": 262208,
+     "views": 674162,
+     "is_you": false
+    },
+    {
+     "handle": "@tdinh_me",
+     "name": "Tony Dinh",
+     "hits": 17,
+     "days": 4,
+     "best": 67210,
+     "views": 301798,
+     "is_you": false
+    },
+    {
+     "handle": "@AlexFinn",
+     "name": "Alex Finn",
+     "hits": 7,
+     "days": 6,
+     "best": 321571,
+     "views": 956179,
+     "is_you": false
+    },
+    {
+     "handle": "@mattshumer_",
+     "name": "Matt Shumer",
+     "hits": 6,
+     "days": 3,
+     "best": 125969,
+     "views": 423752,
+     "is_you": false
+    },
+    {
+     "handle": "@bentossell",
+     "name": "Ben Tossell",
+     "hits": 3,
+     "days": 3,
+     "best": 46969,
+     "views": 91737,
+     "is_you": false
+    },
+    {
+     "handle": "@RamonPrietoX",
+     "name": "Ramón",
+     "hits": 0,
+     "days": 0,
+     "best": 0,
+     "views": 0,
+     "is_you": true
+    }
+   ]
+  },
+  "month": {
+   "label": "November 2026 · Nov 1–5",
+   "range": [
+    "2026-11-01",
+    "2026-11-05"
+   ],
+   "entries": [
+    {
+     "handle": "@levelsio",
+     "name": "@levelsio",
+     "hits": 43,
+     "days": 5,
+     "best": 2867632,
+     "views": 12842618,
+     "is_you": false
+    },
+    {
+     "handle": "@dhh",
+     "name": "DHH",
+     "hits": 29,
+     "days": 4,
+     "best": 384988,
+     "views": 3267878,
+     "is_you": false
+    },
+    {
+     "handle": "@LinusEkenstam",
+     "name": "Linus ✦ Ekenstam",
+     "hits": 22,
+     "days": 5,
+     "best": 237917,
+     "views": 478917,
+     "is_you": false
+    },
+    {
+     "handle": "@rauchg",
+     "name": "Guillermo Rauch",
+     "hits": 21,
+     "days": 5,
+     "best": 258221,
+     "views": 1403949,
+     "is_you": false
+    },
+    {
+     "handle": "@tibo_maker",
+     "name": "Tibo",
+     "hits": 17,
+     "days": 5,
+     "best": 55435,
+     "views": 351847,
+     "is_you": false
+    },
+    {
+     "handle": "@minchoi",
+     "name": "Min Choi",
+     "hits": 16,
+     "days": 5,
+     "best": 2098232,
+     "views": 2430638,
+     "is_you": false
+    },
+    {
+     "handle": "@gregisenberg",
+     "name": "GREG ISENBERG",
+     "hits": 16,
+     "days": 5,
+     "best": 683692,
+     "views": 1619314,
+     "is_you": false
+    },
+    {
+     "handle": "@swyx",
+     "name": "swyx",
+     "hits": 13,
+     "days": 5,
+     "best": 262208,
+     "views": 601785,
+     "is_you": false
+    },
+    {
+     "handle": "@tdinh_me",
+     "name": "Tony Dinh",
+     "hits": 13,
+     "days": 3,
+     "best": 31281,
+     "views": 203494,
+     "is_you": false
+    },
+    {
+     "handle": "@AlexFinn",
+     "name": "Alex Finn",
+     "hits": 5,
+     "days": 4,
+     "best": 131776,
+     "views": 431104,
+     "is_you": false
+    },
+    {
+     "handle": "@mattshumer_",
+     "name": "Matt Shumer",
+     "hits": 3,
+     "days": 2,
+     "best": 125969,
+     "views": 230465,
+     "is_you": false
+    },
+    {
+     "handle": "@bentossell",
+     "name": "Ben Tossell",
+     "hits": 2,
+     "days": 2,
+     "best": 46969,
+     "views": 85512,
+     "is_you": false
+    },
+    {
+     "handle": "@RamonPrietoX",
+     "name": "Ramón",
+     "hits": 0,
+     "days": 0,
+     "best": 0,
+     "views": 0,
+     "is_you": true
+    }
+   ]
+  }
+ },
+ "board_features": {
+  "count_up": true,
+  "live_pulse": true,
+  "theme_toggle": true,
+  "themes": [
+   "night",
+   "day"
+  ],
+  "grok_ambient": true,
+  "week_month_boards": true,
+  "day_roster_best_total": true,
+  "day_compare_chart": true,
+  "week_strip": true,
+  "no_hits_reasons": true,
+  "marker_class": "xvs-dash-2026",
+  "top10_drafts_v4": true,
+  "trend_keywords": true,
+  "trend_radar": true,
+  "x_keyword_table": true,
+  "experiment": true,
+  "self_quote_badge": true
+ },
+ "operator": {
+  "handle": "@RamonPrietoX",
+  "name": "Ramón Prieto",
+  "profile_url": "https://x.com/RamonPrietoX"
+ },
+ "ui": {
+  "default_theme": "night"
+ },
+ "day_roster": [
+  {
+   "handle": "@minchoi",
+   "name": "Min Choi",
+   "views": 2098232,
+   "total_views": 2150104,
+   "hit": true,
+   "hits": 6,
+   "posts": 6,
+   "best_url": "https://x.com/minchoi/status/2117633564736938471"
+  },
+  {
+   "handle": "@gregisenberg",
+   "name": "Greg Isenberg",
+   "views": 683692,
+   "total_views": 873314,
+   "hit": true,
+   "hits": 5,
+   "posts": 8,
+   "best_url": "https://x.com/gregisenberg/status/2117734977312047537"
+  },
+  {
+   "handle": "@levelsio",
+   "name": "Pieter Levels",
+   "views": 447145,
+   "total_views": 1192227,
+   "hit": true,
+   "hits": 8,
+   "posts": 9,
+   "best_url": "https://x.com/levelsio/status/2117694259558293692"
+  },
+  {
+   "handle": "@dhh",
+   "name": "DHH",
+   "views": 322635,
+   "total_views": 1290917,
+   "hit": true,
+   "hits": 13,
+   "posts": 14,
+   "best_url": "https://x.com/dhh/status/2117992511407014110"
+  },
+  {
+   "handle": "@AlexFinn",
+   "name": "Alex Finn",
+   "views": 128546,
+   "total_views": 173331,
+   "hit": true,
+   "hits": 2,
+   "posts": 2,
+   "best_url": "https://x.com/AlexFinn/status/2117786932830982510"
+  },
+  {
+   "handle": "@rauchg",
+   "name": "Guillermo Rauch",
+   "views": 110049,
+   "total_views": 492729,
+   "hit": true,
+   "hits": 9,
+   "posts": 10,
+   "best_url": "https://x.com/rauchg/status/2118166970273292299"
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 106957,
+   "total_views": 220206,
+   "hit": true,
+   "hits": 6,
+   "posts": 8,
+   "best_url": "https://x.com/swyx/status/2118048180168483229"
+  },
+  {
+   "handle": "@tibo_maker",
+   "name": "Tibo",
+   "views": 52663,
+   "total_views": 133866,
+   "hit": true,
+   "hits": 7,
+   "posts": 8,
+   "best_url": "https://x.com/tibo_maker/status/2117927423043924009"
+  },
+  {
+   "handle": "@bentossell",
+   "name": "Ben Tossell",
+   "views": 46969,
+   "total_views": 46969,
+   "hit": true,
+   "hits": 1,
+   "posts": 1,
+   "best_url": "https://x.com/bentossell/status/2118046526291239163"
+  },
+  {
+   "handle": "@mattshumer_",
+   "name": "Matt Shumer",
+   "views": 42408,
+   "total_views": 42408,
+   "hit": true,
+   "hits": 1,
+   "posts": 1,
+   "best_url": "https://x.com/mattshumer_/status/2117673664615203186"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "name": "Linus Ekenstam",
+   "views": 12662,
+   "total_views": 50689,
+   "hit": true,
+   "hits": 4,
+   "posts": 8,
+   "best_url": "https://x.com/LinusEkenstam/status/2118035682946134351"
+  },
+  {
+   "handle": "@Sabrina_Ramonov",
+   "name": "Sabrina Ramonov",
+   "views": 425,
+   "total_views": 425,
+   "hit": false,
+   "hits": 0,
+   "posts": 1,
+   "best_url": "https://x.com/Sabrina_Ramonov/status/2117644402738741570"
+  },
+  {
+   "handle": "@mckaywrigley",
+   "name": "Mckay Wrigley",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "hits": 0,
+   "posts": 0,
+   "best_url": null
+  },
+  {
+   "handle": "@heyBarsee",
+   "name": "Barsee",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "hits": 0,
+   "posts": 0,
+   "best_url": null
+  },
+  {
+   "handle": "@tdinh_me",
+   "name": "Tony Dinh",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "hits": 0,
+   "posts": 0,
+   "best_url": null
+  },
+  {
+   "handle": "@RamonPrietoX",
+   "name": "Ramón",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "hits": 0,
+   "posts": 1,
+   "best_url": "https://x.com/RamonPrietoX/status/2118252231602340129",
+   "is_you": true
+  }
+ ],
+ "you_rank": {
+  "best_views": 0,
+  "total_views": 0,
+  "best_url": "https://x.com/RamonPrietoX/status/2118252231602340129",
+  "rank_among_watchlist": 16,
+  "total_accounts": 16,
+  "vs_5k": "pending",
+  "vs_10k": "pending",
+  "note": "Check @RamonPrietoX Nov 5 09:01 post metrics manually; not re-fetched today."
+ },
+ "trend_input_only_posts": [],
+ "stars_count": 44,
+ "total_views": 2585201,
+ "excluded_low_commentary_quotes": [
+  {
+   "handle": "@swyx",
+   "views": 106957,
+   "url": "https://x.com/swyx/status/2118048180168483229",
+   "reason": "quote with minimal original commentary"
+  },
+  {
+   "handle": "@gregisenberg",
+   "views": 51710,
+   "url": "https://x.com/gregisenberg/status/2117975597045682468",
+   "reason": "quote with minimal original commentary"
+  },
+  {
+   "handle": "@dhh",
+   "views": 31823,
+   "url": "https://x.com/dhh/status/2117632471571534265",
+   "reason": "quote with minimal original commentary"
+  },
+  {
+   "handle": "@LinusEkenstam",
+   "views": 7501,
+   "url": "https://x.com/LinusEkenstam/status/2117711978042905088",
+   "reason": "quote with minimal original commentary"
+  }
+ ],
+ "previous_day_note": "Compared with the Nov 4 digest. Windows overlap by 24h, so some posts carry over with updated views; leaderboards count each hit post once.",
+ "trend_input_only_note": "@IndieHackers and @rowancheung had no original posts in the 48h window; no trend input used from them today.",
+ "trend_keywords": {
+  "keywords": [
+   {
+    "rank": 1,
+    "keyword": "talk to my agents more than my team"
+   },
+   {
+    "rank": 2,
+    "keyword": "what should I build"
+   },
+   {
+    "rank": 3,
+    "keyword": "agent makes the call"
+   },
+   {
+    "rank": 4,
+    "keyword": "~$300/mo biz costs"
+   },
+   {
+    "rank": 5,
+    "keyword": "private local AI"
+   },
+   {
+    "rank": 6,
+    "keyword": "AI slop"
+   },
+   {
+    "rank": 7,
+    "keyword": "voice notes and inference"
+   },
+   {
+    "rank": 8,
+    "keyword": "thank your agent"
+   },
+   {
+    "rank": 9,
+    "keyword": "company brain"
+   },
+   {
+    "rank": 10,
+    "keyword": "acquisition day"
+   }
+  ]
+ },
+ "drafts": [
+  {
+   "rank": 1,
+   "text": "vercel's take: the killer app of agents is doing things for you over time.\n\nfor a 20-room amsterdam boutique hotel that's a company brain that remembers last spring's guest and writes before the tulips. recoverable margin, no extra hire.",
+   "keywords": [
+    "agents over time",
+    "company brain",
+    "recoverable margin"
+   ],
+   "source": "https://x.com/rauchg/status/2118440831355068671",
+   "source_views": 23650,
+   "note": "rauchg 'doing stuff over time is the killer app' (23.6K, 157 bm) → direct-rebooking memory; recommended"
+  },
+  {
+   "rank": 2,
+   "text": "greg is using agents with specialized jobs and a chief of staff.\n\nsame idea for a boutique hotel: one brain that knows the house rules, plus a few skills (late check-in, 2am questions, rebooking). the hire you never made. built from public reviews.",
+   "keywords": [
+    "specialized jobs",
+    "one brain + skills",
+    "missing hire"
+   ],
+   "source": "https://x.com/gregisenberg/status/2118337933681873316",
+   "source_views": 38771,
+   "note": "greg agents/chief of staff (38.8K) → one brain + skills"
+  },
+  {
+   "rank": 3,
+   "text": "dhh: if we just keep fixing things eventually we will have fixed everything.\n\nmy version: a boutique hotel's 2am guest email, the late check-in, the missed rebooking. fix them one at a time with one company brain and the margin comes back.",
+   "keywords": [
+    "keep fixing things",
+    "recoverable margin",
+    "company brain"
+   ],
+   "source": "https://x.com/dhh/status/2118336558793474437",
+   "source_views": 111276,
+   "note": "dhh 'keep fixing things' (111.3K) → small fixes = recoverable margin"
+  }
+ ],
+ "video_tip": "Video tip: 30s vertical screen recording. A guest who stayed last spring gets a message from the hotel's company brain before the tulip weekend, written from house rules and public reviews. End on 'rebooking you never had to chase'. Show it working, no promises.",
+ "trend_radar": {
+  "summary": {
+   "headline": "Build the boring missing hire: agents as coworkers, now asking what to build.",
+   "takeaway": "Ride greg's 'what should I build?' question with a boring answer: a 20-room Amsterdam boutique hotel has no night desk, so one company brain answering the 2am guest is the hire they never made. Show it working, built from public reviews.",
+   "top10_line": "Top lanes today: agents as coworkers, agents doing errands, what to build, lean ops and local AI, Claude Code big builds.",
+   "stats": {
+    "all": {
+     "verdicts": {
+      "trend": 28,
+      "visual": 17,
+      "author": 17
+     }
+    }
+   }
+  },
+  "corpus": {
+   "posts": 64,
+   "min_views": 5000
+  },
+  "window": {
+   "label48": "Nov 3 10:00 → Nov 5 10:00 CET"
+  },
+  "topics": [
+   {
+    "name": "Agents as teammates / company brain",
+    "heat": 96,
+    "momentum": "↑ rising",
+    "keywords": [
+     "agents as teammates",
+     "thank your agent",
+     "voice notes"
+    ],
+    "posts_48h": 3,
+    "views_48h": 885346,
+    "posts_24h": 1,
+    "views_24h": 50039,
+    "evidence": [
+     {
+      "handle": "@gregisenberg",
+      "views": 683692,
+      "url": "https://x.com/gregisenberg/status/2117734977312047537",
+      "hook": "greg: 50+ people in 12 countries, but he talks to his agents more than his human teammates"
+     },
+     {
+      "handle": "@dhh",
+      "views": 151615,
+      "url": "https://x.com/dhh/status/2117624597868921189",
+      "hook": "Have you said thank you to your agent today? \n\nYou should."
+     },
+     {
+      "handle": "@gregisenberg",
+      "views": 50039,
+      "url": "https://x.com/gregisenberg/status/2117991742633124276",
+      "hook": "Today’s reminder that running a company is now voice notes and inference"
+     }
+    ]
+   },
+   {
+    "name": "Agents doing errands",
+    "heat": 88,
+    "momentum": "→ steady",
+    "keywords": [
+     "agent errands",
+     "phone calls",
+     "Grok Bot"
+    ],
+    "posts_48h": 3,
+    "views_48h": 2151899,
+    "posts_24h": 1,
+    "views_24h": 8882,
+    "evidence": [
+     {
+      "handle": "@minchoi",
+      "views": 2098232,
+      "url": "https://x.com/minchoi/status/2117633564736938471",
+      "hook": "Grok Bot made a doctor's appointment for minchoi while he was driving."
+     },
+     {
+      "handle": "@AlexFinn",
+      "views": 44785,
+      "url": "https://x.com/AlexFinn/status/2117719430042202311",
+      "hook": "This year we saw the 3 most important AI releases ever:\n\n• Grok Bot\n• Opus 5.5\n• Hermes Ag"
+     },
+     {
+      "handle": "@minchoi",
+      "views": 8882,
+      "url": "https://x.com/minchoi/status/2118075152701301213",
+      "hook": "Grok Bot can make phone calls now.\n\nThis is the part most people want AI agent to do: hand"
+     }
+    ]
+   },
+   {
+    "name": "What to build / AI slop",
+    "heat": 74,
+    "momentum": "↑ new",
+    "keywords": [
+     "what should I build",
+     "AI slop"
+    ],
+    "posts_48h": 1,
+    "views_48h": 43456,
+    "posts_24h": 1,
+    "views_24h": 43456,
+    "evidence": [
+     {
+      "handle": "@gregisenberg",
+      "views": 43456,
+      "url": "https://x.com/gregisenberg/status/2118087733205717440",
+      "hook": "greg: 'If AI can build almost anything, what should I build?'"
+     }
+    ]
+   },
+   {
+    "name": "Lean ops and local AI",
+    "heat": 78,
+    "momentum": "→ steady",
+    "keywords": [
+     "lean costs",
+     "local AI"
+    ],
+    "posts_48h": 5,
+    "views_48h": 712977,
+    "posts_24h": 1,
+    "views_24h": 52663,
+    "evidence": [
+     {
+      "handle": "@levelsio",
+      "views": 447145,
+      "url": "https://x.com/levelsio/status/2117694259558293692",
+      "hook": "levelsio: total biz expenses down to ~$300/mo for 20,000 paying customers."
+     },
+     {
+      "handle": "@AlexFinn",
+      "views": 128546,
+      "url": "https://x.com/AlexFinn/status/2117786932830982510",
+      "hook": "AlexFinn: Opus-level model running on a laptop, private and local."
+     },
+     {
+      "handle": "@dhh",
+      "views": 73486,
+      "url": "https://x.com/dhh/status/2117774816094904507",
+      "hook": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word "
+     }
+    ]
+   },
+   {
+    "name": "Claude Code big builds",
+    "heat": 62,
+    "momentum": "→ steady",
+    "keywords": [
+     "Claude Code",
+     "decompile",
+     "3D"
+    ],
+    "posts_48h": 8,
+    "views_48h": 293790,
+    "posts_24h": 6,
+    "views_24h": 136438,
+    "evidence": [
+     {
+      "handle": "@levelsio",
+      "views": 83866,
+      "url": "https://x.com/levelsio/status/2117586103158853806",
+      "hook": "Decompiled and got the Wake Island map working now, which is more fun because it has plane"
+     },
+     {
+      "handle": "@dhh",
+      "views": 73486,
+      "url": "https://x.com/dhh/status/2117774816094904507",
+      "hook": "Superwhisper is shipping as the default dictation setup in Omarchy 4.5. The free 10k word "
+     },
+     {
+      "handle": "@levelsio",
+      "views": 58503,
+      "url": "https://x.com/levelsio/status/2118083863318610403",
+      "hook": "Okay I just upgraded Battlefield 1942's game and server from v1.0 (the demo) to v1.61 (the"
+     }
+    ]
+   }
+  ],
+  "ideas": [
+   {
+    "title": "Build the missing hire: the 2am guest answered",
+    "format": "text or 30s screen demo",
+    "source": "watchlist",
+    "topic": "What to build / AI slop"
+   },
+   {
+    "title": "Company brain without an IT department",
+    "format": "text",
+    "source": "watchlist",
+    "topic": "Lean ops and local AI"
+   },
+   {
+    "title": "Public-review sample that sounds like the hotel",
+    "format": "text + screenshot",
+    "source": "watchlist",
+    "topic": "What to build / AI slop"
+   }
+  ],
+  "why_hit": [
+   {
+    "handle": "@minchoi",
+    "lane": "image",
+    "views": 2098232,
+    "media": "image",
+    "trend_match": 100,
+    "verdict": "trend",
+    "matched_keywords": [
+     "agent errands",
+     "Grok",
+     "Grok Bot"
+    ]
+   },
+   {
+    "handle": "@gregisenberg",
+    "lane": "text",
+    "views": 683692,
+    "media": "text",
+    "trend_match": 100,
+    "verdict": "trend",
+    "matched_keywords": [
+     "agents as teammates",
+     "Grok",
+     "AI agents",
+     "skills"
+    ]
+   },
+   {
+    "handle": "@levelsio",
+    "lane": "image",
+    "views": 447145,
+    "media": "image",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "lean costs"
+    ]
+   },
+   {
+    "handle": "@dhh",
+    "lane": "image",
+    "views": 322635,
+    "media": "image",
+    "trend_match": 0,
+    "verdict": "visual",
+    "matched_keywords": [
+     "Omarchy"
+    ]
+   },
+   {
+    "handle": "@levelsio",
+    "lane": "text",
+    "views": 300098,
+    "media": "text",
+    "trend_match": 0,
+    "verdict": "author",
+    "matched_keywords": []
+   },
+   {
+    "handle": "@dhh",
+    "lane": "image",
+    "views": 214873,
+    "media": "image",
+    "trend_match": 0,
+    "verdict": "visual",
+    "matched_keywords": [
+     "Omarchy"
+    ]
+   },
+   {
+    "handle": "@dhh",
+    "lane": "text",
+    "views": 151615,
+    "media": "text",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "thank your agent"
+    ]
+   },
+   {
+    "handle": "@levelsio",
+    "lane": "text",
+    "views": 150305,
+    "media": "text",
+    "trend_match": 0,
+    "verdict": "author",
+    "matched_keywords": []
+   },
+   {
+    "handle": "@AlexFinn",
+    "lane": "video",
+    "views": 128546,
+    "media": "video",
+    "trend_match": 70,
+    "verdict": "trend",
+    "matched_keywords": [
+     "local AI",
+     "Opus 5.5"
+    ]
+   },
+   {
+    "handle": "@dhh",
+    "lane": "text",
+    "views": 113233,
+    "media": "text",
+    "trend_match": 0,
+    "verdict": "author",
+    "matched_keywords": [
+     "Omarchy"
+    ]
+   },
+   {
+    "handle": "@rauchg",
+    "lane": "text",
+    "views": 110049,
+    "media": "text",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "security"
+    ]
+   },
+   {
+    "handle": "@rauchg",
+    "lane": "text",
+    "views": 87026,
+    "media": "text",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "security"
+    ]
+   },
+   {
+    "handle": "@levelsio",
+    "lane": "video",
+    "views": 83866,
+    "media": "video",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "decompile"
+    ]
+   },
+   {
+    "handle": "@rauchg",
+    "lane": "text",
+    "views": 83511,
+    "media": "text",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "security"
+    ]
+   },
+   {
+    "handle": "@dhh",
+    "lane": "text",
+    "views": 73486,
+    "media": "text",
+    "trend_match": 35,
+    "verdict": "trend",
+    "matched_keywords": [
+     "local AI",
+     "Omarchy",
+     "3D",
+     "dictation"
+    ]
+   }
+  ],
+  "legend": "Source: X API recent search, originals only (-is:reply -is:retweet), 5 batched watchlist queries + 6 follow-up pages, 2 keyword queries for outsiders (AI agents terms; hotel/hospitality + AI), 1 operator + trend-input query. Hit ≥5,000 impressions, star ≥10,000. Quotes kept only with real commentary. trend_match/verdict are a keyword heuristic (35% per trending keyword matched; else visual if media, else author pull). All metrics are as returned by the X API at fetch time."
+ },
+ "scan_meta": {
+  "x_calls": 3,
+  "fetched_at": "2026-11-05T10:12:01+01:00",
+  "window_start_utc": "2026-11-04T09:00:00Z",
+  "note": "3 grouped queries, 25 results each, relevancy order; low-commentary quotes excluded; greg coverage partial"
+ }
 }
