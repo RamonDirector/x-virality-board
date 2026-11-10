@@ -1,1512 +1,2739 @@
 {
- "title": "Daily X narrative digest — 2026-11-09",
- "date": "2026-11-09",
- "timezone": "Europe/Amsterdam",
- "updated": "2026-11-09T10:05:16+01:00",
- "brand_title": "Grok Bot X Virality Score",
- "brand_handle": "@RamonPrietoX",
- "hits": [
-  {
-   "handle": "@dhh",
-   "name": "@dhh",
-   "views": 378331,
-   "views_label": "378,331",
-   "likes": 14127,
-   "reposts": 640,
-   "bookmarks": 874,
-   "replies": 485,
-   "created_at": "2026-11-08T14:25:56.000Z",
-   "hook": "dhh: Omarchy is forever free. There's no monetization scheme coming. I'm already rich and the Omacom Foundation is ",
-   "text": "Omarchy is forever free. There's no monetization scheme coming. I'm already rich and the Omacom Foundation is a well-founded nonprofit. \n\nThe only ulterior motive here is to make Linux win on the desktop and create the perfect, malleable computer for all to enjoy!",
-   "url": "https://x.com/dhh/status/2119436260280352969",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@levelsio",
-   "name": "@levelsio",
-   "views": 278988,
-   "views_label": "278,988",
-   "likes": 439,
-   "reposts": 12,
-   "bookmarks": 546,
-   "replies": 53,
-   "created_at": "2026-11-08T00:41:57.000Z",
-   "hook": "levelsio: ssh https://t.co/IECCbaSeDt",
-   "text": "ssh https://t.co/IECCbaSeDt",
-   "url": "https://x.com/levelsio/status/2119228899754209356",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@levelsio",
-   "name": "@levelsio",
-   "views": 166832,
-   "views_label": "166,832",
-   "likes": 10885,
-   "reposts": 335,
-   "bookmarks": 549,
-   "replies": 92,
-   "created_at": "2026-11-08T12:37:06.000Z",
-   "hook": "levelsio: POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
-   "text": "POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
-   "url": "https://x.com/levelsio/status/2119408873488703574",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@rauchg",
-   "name": "@rauchg",
-   "views": 133253,
-   "views_label": "133,253",
-   "likes": 2521,
-   "reposts": 172,
-   "bookmarks": 1457,
-   "replies": 203,
-   "created_at": "2026-11-08T21:03:30.000Z",
-   "hook": "rauchg: Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: https://",
-   "text": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: https://t.co/2xdW62DfxC.\n\nInstead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a http",
-   "url": "https://x.com/rauchg/status/2119536313712230802",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@dhh",
-   "name": "@dhh",
-   "views": 118417,
-   "views_label": "118,417",
-   "likes": 2306,
-   "reposts": 66,
-   "bookmarks": 183,
-   "replies": 241,
-   "created_at": "2026-11-08T12:10:23.000Z",
-   "hook": "dhh: \"LLMs engender harms to the pillars of Asahi Linux: software freedom, the open-source community, the open Inte",
-   "text": "\"LLMs engender harms to the pillars of Asahi Linux: software freedom, the open-source community, the open Internet, the environment, digital privacy, user consent, and software developers themselves... we broadly forbid the use of generative AI.\" 🙄 https://t.co/AxlIQTmGQ8",
-   "url": "https://x.com/dhh/status/2119402147083379052",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@dhh",
-   "name": "@dhh",
-   "views": 94389,
-   "views_label": "94,389",
-   "likes": 1118,
-   "reposts": 20,
-   "bookmarks": 231,
-   "replies": 57,
-   "created_at": "2026-11-07T09:26:54.000Z",
-   "hook": "dhh: Crazy days when comparably-priced laptops, like the XPS and Omnibook, can beat MacBook Neo at the battery game",
-   "text": "Crazy days when comparably-priced laptops, like the XPS and Omnibook, can beat MacBook Neo at the battery game so decisively. I would not have guessed the $700 laptop category would have gotten such competitive, awesome PC options this quickly. https://t.co/ktQMnQ4PgK https://t.c",
-   "url": "https://x.com/dhh/status/2118998618883674204",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@gregisenberg",
-   "name": "@gregisenberg",
-   "views": 58254,
-   "views_label": "58,254",
-   "likes": 1077,
-   "reposts": 46,
-   "bookmarks": 152,
-   "replies": 84,
-   "created_at": "2026-11-07T23:41:52.000Z",
-   "hook": "gregisenberg: I think the coolest part of having kids is reliving your own childhood in a different way.    You remember wha",
-   "text": "I think the coolest part of having kids is reliving your own childhood in a different way.  \n\nYou remember what it felt like to be scared of the dark, to wait all year for a birthday or to think a cardboard box was the best toy in the world. \n\nThe difference is that now you're on",
-   "url": "https://x.com/gregisenberg/status/2119213778294435966",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@dhh",
-   "name": "@dhh",
-   "views": 46490,
-   "views_label": "46,490",
-   "likes": 1094,
-   "reposts": 42,
-   "bookmarks": 67,
-   "replies": 144,
-   "created_at": "2026-11-08T14:00:41.000Z",
-   "hook": "dhh: Agents have returned the computer to those glorious early days when the Commodore 64 and Amstrad 464 booted st",
-   "text": "Agents have returned the computer to those glorious early days when the Commodore 64 and Amstrad 464 booted straight into a BASIC prompt: An open invitation to create things! https://t.co/DFLp5zBB1C",
-   "url": "https://x.com/dhh/status/2119429908309127410",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@LinusEkenstam",
-   "name": "@LinusEkenstam",
-   "views": 40862,
-   "views_label": "40,862",
-   "likes": 397,
-   "reposts": 32,
-   "bookmarks": 151,
-   "replies": 26,
-   "created_at": "2026-11-07T10:31:05.000Z",
-   "hook": "LinusEkenstam: Unlimited AI, unlimited comedy  https://t.co/zDoF5qi4XL",
-   "text": "Unlimited AI, unlimited comedy  https://t.co/zDoF5qi4XL",
-   "url": "https://x.com/LinusEkenstam/status/2119014770577748341",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@levelsio",
-   "name": "@levelsio",
-   "views": 37002,
-   "views_label": "37,002",
-   "likes": 141,
-   "reposts": 0,
-   "bookmarks": 15,
-   "replies": 39,
-   "created_at": "2026-11-08T13:20:39.000Z",
-   "hook": "levelsio: I like to illustrate my dreams (if I ever remember them) with AI   Here's last night's dream involving @DJFres",
-   "text": "I like to illustrate my dreams (if I ever remember them) with AI \n\nHere's last night's dream involving @DJFreshUK https://t.co/FIM0KP6QkR",
-   "url": "https://x.com/levelsio/status/2119419832097812760",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@AlexFinn",
-   "name": "@AlexFinn",
-   "views": 34447,
-   "views_label": "34,447",
-   "likes": 217,
-   "reposts": 3,
-   "bookmarks": 51,
-   "replies": 69,
-   "created_at": "2026-11-09T01:52:58.000Z",
-   "hook": "AlexFinn: The new MacBook Pro PROLED is incredible  Not only mind blowingly gorgeous hardware, but an incredible local A",
-   "text": "The new MacBook Pro PROLED is incredible\n\nNot only mind blowingly gorgeous hardware, but an incredible local AI machine\n\nRunning a bunch of local models on the M5 Max version. Getting 70 words a second on some smaller models\n\nLightning fast\n\nAnd of course the screen makes using h",
-   "url": "https://x.com/AlexFinn/status/2119609159289336006",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@levelsio",
-   "name": "@levelsio",
-   "views": 33245,
-   "views_label": "33,245",
-   "likes": 103,
-   "reposts": 1,
-   "bookmarks": 21,
-   "replies": 34,
-   "created_at": "2026-11-08T14:02:31.000Z",
-   "hook": "levelsio: When you try to install your new Midea dehumidifier in your gym to your Photo AI website https://t.co/CAmKxhmv",
-   "text": "When you try to install your new Midea dehumidifier in your gym to your Photo AI website https://t.co/CAmKxhmv85",
-   "url": "https://x.com/levelsio/status/2119430368390414598",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@gregisenberg",
-   "name": "@gregisenberg",
-   "views": 24223,
-   "views_label": "24,223",
-   "likes": 213,
-   "reposts": 17,
-   "bookmarks": 71,
-   "replies": 67,
-   "created_at": "2026-11-08T19:42:58.000Z",
-   "hook": "gregisenberg: they are building data centers in the ocean now https://t.co/Hy7l2f9Tll",
-   "text": "they are building data centers in the ocean now https://t.co/Hy7l2f9Tll",
-   "url": "https://x.com/gregisenberg/status/2119516046134788499",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@gregisenberg",
-   "name": "@gregisenberg",
-   "views": 24120,
-   "views_label": "24,120",
-   "likes": 206,
-   "reposts": 9,
-   "bookmarks": 90,
-   "replies": 44,
-   "created_at": "2026-11-07T20:02:12.000Z",
-   "hook": "gregisenberg: the story of how stripe started is pretty fascinating (now it's a $159B company)   john and patrick were 2 bro",
-   "text": "the story of how stripe started is pretty fascinating (now it's a $159B company) \n\njohn and patrick were 2 brothers from small town ireland, only 19 and 21 when they started stripe!\n\nit's a good reminder that you don't need to be older or super experienced to build something big ",
-   "url": "https://x.com/gregisenberg/status/2119158496524714097",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@mattshumer_",
-   "name": "@mattshumer_",
-   "views": 23734,
-   "views_label": "23,734",
-   "likes": 96,
-   "reposts": 5,
-   "bookmarks": 17,
-   "replies": 25,
-   "created_at": "2026-11-08T21:58:43.000Z",
-   "hook": "mattshumer_: So @spawn is about to go parabolic  You’ll see this week",
-   "text": "So @spawn is about to go parabolic\n\nYou’ll see this week",
-   "url": "https://x.com/mattshumer_/status/2119550206698205412",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@minchoi",
-   "name": "@minchoi",
-   "views": 22369,
-   "views_label": "22,369",
-   "likes": 121,
-   "reposts": 11,
-   "bookmarks": 119,
-   "replies": 64,
-   "created_at": "2026-11-07T19:11:06.000Z",
-   "hook": "minchoi: This guy literally built Cursor for research papers.  Lattice combines Claude Code/Codex, Overleaf, PDFs, cita",
-   "text": "This guy literally built Cursor for research papers.\n\nLattice combines Claude Code/Codex, Overleaf, PDFs, citations, notes + slides in ONE app.\n\nFREE + open source.\n\n6 wild features. Bookmark this ↓ https://t.co/chjU52fZGM",
-   "url": "https://x.com/minchoi/status/2119145638319550828",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@LinusEkenstam",
-   "name": "@LinusEkenstam",
-   "views": 18345,
-   "views_label": "18,345",
-   "likes": 225,
-   "reposts": 27,
-   "bookmarks": 675,
-   "replies": 14,
-   "created_at": "2026-11-08T20:18:59.000Z",
-   "hook": "LinusEkenstam: This 1-hour lecture is free, and will put you ahead of everyone else around you.   Today 95% of people still u",
-   "text": "This 1-hour lecture is free, and will put you ahead of everyone else around you. \n\nToday 95% of people still use AI like a calculator. \n\nThe 5% who treat it like infrastructure will run everything\n\nIf you watch anything today, what’s Demi’s lecture👇 https://t.co/41uB2JcWue",
-   "url": "https://x.com/LinusEkenstam/status/2119525107571863595",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@tdinh_me",
-   "name": "@tdinh_me",
-   "views": 16501,
-   "views_label": "16,501",
-   "likes": 87,
-   "reposts": 2,
-   "bookmarks": 2,
-   "replies": 95,
-   "created_at": "2026-11-08T11:22:03.000Z",
-   "hook": "tdinh_me: I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on",
-   "text": "I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on the UI 😂😂😂 https://t.co/8XfploU9v2",
-   "url": "https://x.com/tdinh_me/status/2119389986953023985",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@minchoi",
-   "name": "@minchoi",
-   "views": 13494,
-   "views_label": "13,494",
-   "likes": 76,
-   "reposts": 5,
-   "bookmarks": 40,
-   "replies": 72,
-   "created_at": "2026-11-08T16:34:05.000Z",
-   "hook": "minchoi: My kids and I literally built our own Roblox game with AI.  And I didn't write a SINGLE line of code.  We turn",
-   "text": "My kids and I literally built our own Roblox game with AI.\n\nAnd I didn't write a SINGLE line of code.\n\nWe turned their imagination into an actual playable game.\n\nHere's how we did it. Bookmark this 👇\n\n1. The idea: Brainstormed with my kids, then refined the concept with Claude ht",
-   "url": "https://x.com/minchoi/status/2119468509184901327",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@minchoi",
-   "name": "@minchoi",
-   "views": 12077,
-   "views_label": "12,077",
-   "likes": 75,
-   "reposts": 8,
-   "bookmarks": 10,
-   "replies": 5,
-   "created_at": "2026-11-08T23:51:10.000Z",
-   "hook": "minchoi: Me: Thank God It's Friday! The Weekend: https://t.co/5Png2EKTwG",
-   "text": "Me: Thank God It's Friday!\nThe Weekend: https://t.co/5Png2EKTwG",
-   "url": "https://x.com/minchoi/status/2119578505302139228",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@minchoi",
-   "name": "@minchoi",
-   "views": 10387,
-   "views_label": "10,387",
-   "likes": 48,
-   "reposts": 5,
-   "bookmarks": 17,
-   "replies": 17,
-   "created_at": "2026-11-09T04:50:34.000Z",
-   "hook": "minchoi: AI reimagines how the pyramids were built 😂 https://t.co/7FMN8hRPBm",
-   "text": "AI reimagines how the pyramids were built 😂 https://t.co/7FMN8hRPBm",
-   "url": "https://x.com/minchoi/status/2119653851481694698",
-   "media": "text",
-   "quote": false,
-   "highlight": true
-  },
-  {
-   "handle": "@LinusEkenstam",
-   "name": "@LinusEkenstam",
-   "views": 8771,
-   "views_label": "8,771",
-   "likes": 17,
-   "reposts": 1,
-   "bookmarks": 0,
-   "replies": 7,
-   "created_at": "2026-11-07T21:54:17.000Z",
-   "hook": "LinusEkenstam: Hello Miami   who is here? who should I meet? https://t.co/CXyHSL9DRC",
-   "text": "Hello Miami \n\nwho is here? who should I meet? https://t.co/CXyHSL9DRC",
-   "url": "https://x.com/LinusEkenstam/status/2119186703462052092",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@tibo_maker",
-   "name": "@tibo_maker",
-   "views": 8054,
-   "views_label": "8,054",
-   "likes": 119,
-   "reposts": 1,
-   "bookmarks": 5,
-   "replies": 101,
-   "created_at": "2026-11-07T12:58:19.000Z",
-   "hook": "tibo_maker: have always fought for:  quantity &gt; quality   counter-intuitive but that's how you get the highest quality ",
-   "text": "have always fought for:\n\nquantity &gt; quality \n\ncounter-intuitive but that's how you get the highest quality imo\n\nwith AI I'm not so sure anymore \n\nyour reputation is one of the most important thing to protect - so don't ship slop",
-   "url": "https://x.com/tibo_maker/status/2119051825206714794",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@levelsio",
-   "name": "@levelsio",
-   "views": 7887,
-   "views_label": "7,887",
-   "likes": 14,
-   "reposts": 0,
-   "bookmarks": 0,
-   "replies": 4,
-   "created_at": "2026-11-08T12:34:18.000Z",
-   "hook": "levelsio: POV: you're Jensen Huang https://t.co/ZmVKYsOUnL",
-   "text": "POV: you're Jensen Huang https://t.co/ZmVKYsOUnL",
-   "url": "https://x.com/levelsio/status/2119408167461454228",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@gregisenberg",
-   "name": "@gregisenberg",
-   "views": 7570,
-   "views_label": "7,570",
-   "likes": 1,
-   "reposts": 0,
-   "bookmarks": 0,
-   "replies": 1,
-   "created_at": "2026-11-07T20:01:14.000Z",
-   "hook": "gregisenberg: the story of how stripe started is pretty fascinating   john and patrick were 2 brothers from small town irela",
-   "text": "the story of how stripe started is pretty fascinating \n\njohn and patrick were 2 brothers from small town ireland, only 19 and 21 when they started stripe!\n\nit's a good reminder that you don't need to be older or super experienced to build something big https://t.co/uo4jhtL0sm",
-   "url": "https://x.com/gregisenberg/status/2119158254232084908",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@tibo_maker",
-   "name": "@tibo_maker",
-   "views": 7367,
-   "views_label": "7,367",
-   "likes": 94,
-   "reposts": 2,
-   "bookmarks": 3,
-   "replies": 60,
-   "created_at": "2026-11-08T17:58:51.000Z",
-   "hook": "tibo_maker: sometimes I feel so overwhelmed: AI breakthrough every day, painful customer support, unexpected traffic decli",
-   "text": "sometimes I feel so overwhelmed: AI breakthrough every day, painful customer support, unexpected traffic decline 🤷‍♂️\n\n... then you remember what's really important in life: leveling on WoW",
-   "url": "https://x.com/tibo_maker/status/2119489842937483629",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@LinusEkenstam",
-   "name": "@LinusEkenstam",
-   "views": 7021,
-   "views_label": "7,021",
-   "likes": 31,
-   "reposts": 0,
-   "bookmarks": 2,
-   "replies": 5,
-   "created_at": "2026-11-08T20:50:30.000Z",
-   "hook": "LinusEkenstam: I'm in Miami and itäs like having early access to GTA 6 https://t.co/5GF5HkfjUw",
-   "text": "I'm in Miami and itäs like having early access to GTA 6 https://t.co/5GF5HkfjUw",
-   "url": "https://x.com/LinusEkenstam/status/2119533039403307218",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@LinusEkenstam",
-   "name": "@LinusEkenstam",
-   "views": 6432,
-   "views_label": "6,432",
-   "likes": 37,
-   "reposts": 5,
-   "bookmarks": 35,
-   "replies": 8,
-   "created_at": "2026-11-09T03:40:09.000Z",
-   "hook": "LinusEkenstam: Old is gold ☠️🏆  But I'm old. Learned the old way and for many years used the old way.  My wife taught the old",
-   "text": "Old is gold ☠️🏆\n\nBut I'm old. Learned the old way and for many years used the old way.\n\nMy wife taught the old and new school method. Here's the difference.\n\n&gt; The old way was and is fast and efficient.\n\n&gt; The new school method helps children have a deep understanding of wh",
-   "url": "https://x.com/LinusEkenstam/status/2119636130681303053",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  },
-  {
-   "handle": "@dhh",
-   "name": "@dhh",
-   "views": 5384,
-   "views_label": "5,384",
-   "likes": 170,
-   "reposts": 5,
-   "bookmarks": 7,
-   "replies": 14,
-   "created_at": "2026-11-09T08:44:45.000Z",
-   "hook": "dhh: Secure boot is coming to Omarchy. We're doing the dance so you can install the best operating system without h",
-   "text": "Secure boot is coming to Omarchy. We're doing the dance so you can install the best operating system without having to fiddle with the bios. (And so OEMs can preinstall it from the factory!)",
-   "url": "https://x.com/dhh/status/2119712789237538994",
-   "media": "text",
-   "quote": false,
-   "highlight": false
-  }
- ],
- "virals": [],
- "outsiders": [],
- "patterns": [
-  "Free first: dhh 'Omarchy is forever free, no monetization scheme' (378.3K, 874 bm) — the free-sample-first idea",
-  "Agents as open invitation: dhh C64/BASIC-prompt post (46.5K) and his 'agents let people bring up Apple Silicon' follow-ups (56.9K)",
-  "Local AI on a laptop: AlexFinn M5 Max local models at 70 words/sec (34.4K); dhh 'Local AI is getting really good'",
-  "Viral toys and builds: levelsio ssh coffee-shop-style site (279.0K), rauchg WebGL record player (133.3K)",
-  "Bookmark-heavy playbooks (greg iOS app with agents, 6,917 bm on 230.7K) are quote posts and were excluded from hits"
- ],
- "no_hits": [
-  {
-   "handle": "@mckaywrigley",
-   "reason": "No original posts above 5K (non-reply, non-quote) in the window.",
-   "max_views": 0
-  },
-  {
-   "handle": "@heyBarsee",
-   "reason": "No original posts above 5K (non-reply, non-quote) in the window.",
-   "max_views": 0
-  },
-  {
-   "handle": "@bentossell",
-   "reason": "No original posts above 5K (non-reply, non-quote) in the window.",
-   "max_views": 0
-  }
- ],
- "virals_narrative": "Outsider scan skipped today (call budget); watchlist only.",
- "narrative_synthesis": "Nov 7–9: 29 originals above 5K, 1,644,246 views, 21 stars. Top: @dhh 'Omarchy is forever free' 378,331. Most hotel-mappable: dhh agents as an open invitation to create, Omarchy free-first, and Alex's local AI laptop.",
- "virals_window": "last ~48h (since 2026-11-07 10:00 CET)",
- "virals_target": 20,
- "hits_count": 29,
- "outsiders_count": 0,
- "previous_day": {
-  "date": "2026-11-08",
-  "hits_count": 64,
-  "total_views": 4110547,
-  "stars_count": 54,
-  "top": "@gregisenberg 406,506"
- },
- "leaderboards": {
-  "as_of": "2026-11-08",
-  "tracking_start": "2026-10-26",
-  "days_included": [
-   "2026-11-02",
-   "2026-11-03",
-   "2026-11-04",
-   "2026-11-05",
-   "2026-11-06",
-   "2026-11-07",
-   "2026-11-08"
-  ],
-  "month_days_included": [
-   "2026-11-01",
-   "2026-11-02",
-   "2026-11-03",
-   "2026-11-04",
-   "2026-11-05",
-   "2026-11-06",
-   "2026-11-07",
-   "2026-11-08"
-  ],
-  "week": {
-   "label": "Rolling week · Nov 2–8",
-   "range": [
-    "2026-11-02",
-    "2026-11-08"
-   ],
-   "entries": [
+  "title": "Daily X narrative digest — 2026-11-10",
+  "date": "2026-11-10",
+  "timezone": "Europe/Amsterdam",
+  "updated": "2026-11-10T10:05:02+01:00",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@RamonPrietoX",
+  "hits": [
     {
-     "handle": "@levelsio",
-     "name": "@levelsio",
-     "hits": 65,
-     "days": 7,
-     "best": 2867632,
-     "views": 12655862,
-     "is_you": false
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 781602,
+      "views_label": "781,602",
+      "likes": 3258,
+      "reposts": 70,
+      "bookmarks": 1891,
+      "replies": 134,
+      "created_at": "2026-11-09T20:15:40.000Z",
+      "hook": "mattshumer_: spent over 400B tokens testing Fable 5.2; thread of the craziest things he made with it.",
+      "text": "I spent over 400B tokens testing Fable 5.2.\n\nHere are the craziest things I made with it:",
+      "url": "https://x.com/mattshumer_/status/2119886664017547687",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "I spent over 400B tokens testing Fable 5.2.\n\nHere are the craziest things I made with it:"
     },
     {
-     "handle": "@dhh",
-     "name": "DHH",
-     "hits": 39,
-     "days": 5,
-     "best": 322635,
-     "views": 3649335,
-     "is_you": false
-    },
-    {
-     "handle": "@LinusEkenstam",
-     "name": "Linus ✦ Ekenstam",
-     "hits": 29,
-     "days": 7,
-     "best": 237917,
-     "views": 597648,
-     "is_you": false
-    },
-    {
-     "handle": "@rauchg",
-     "name": "Guillermo Rauch",
-     "hits": 26,
-     "days": 7,
-     "best": 291840,
-     "views": 2000020,
-     "is_you": false
-    },
-    {
-     "handle": "@gregisenberg",
-     "name": "GREG ISENBERG",
-     "hits": 23,
-     "days": 6,
-     "best": 683692,
-     "views": 2322565,
-     "is_you": false
-    },
-    {
-     "handle": "@swyx",
-     "name": "swyx",
-     "hits": 21,
-     "days": 7,
-     "best": 247144,
-     "views": 751497,
-     "is_you": false
-    },
-    {
-     "handle": "@tibo_maker",
-     "name": "Tibo",
-     "hits": 20,
-     "days": 7,
-     "best": 55435,
-     "views": 362523,
-     "is_you": false
-    },
-    {
-     "handle": "@minchoi",
-     "name": "Min Choi",
-     "hits": 18,
-     "days": 7,
-     "best": 2098232,
-     "views": 2712420,
-     "is_you": false
-    },
-    {
-     "handle": "@tdinh_me",
-     "name": "Tony Dinh",
-     "hits": 10,
-     "days": 3,
-     "best": 31281,
-     "views": 155734,
-     "is_you": false
-    },
-    {
-     "handle": "@AlexFinn",
-     "name": "Alex Finn",
-     "hits": 6,
-     "days": 5,
-     "best": 131776,
-     "views": 523761,
-     "is_you": false
-    },
-    {
-     "handle": "@mattshumer_",
-     "name": "Matt Shumer",
-     "hits": 4,
-     "days": 3,
-     "best": 46398,
-     "views": 121891,
-     "is_you": false
-    },
-    {
-     "handle": "@bentossell",
-     "name": "Ben Tossell",
-     "hits": 3,
-     "days": 3,
-     "best": 46969,
-     "views": 81653,
-     "is_you": false
-    },
-    {
-     "handle": "@RamonPrietoX",
-     "name": "Ramón",
-     "hits": 0,
-     "days": 0,
-     "best": 0,
-     "views": 0,
-     "is_you": true
-    }
-   ]
-  },
-  "month": {
-   "label": "November 2026 · Nov 1–8",
-   "range": [
-    "2026-11-01",
-    "2026-11-08"
-   ],
-   "entries": [
-    {
-     "handle": "@levelsio",
-     "name": "@levelsio",
-     "hits": 73,
-     "days": 8,
-     "best": 2867632,
-     "views": 15200294,
-     "is_you": false
-    },
-    {
-     "handle": "@dhh",
-     "name": "DHH",
-     "hits": 44,
-     "days": 6,
-     "best": 384988,
-     "views": 4641884,
-     "is_you": false
-    },
-    {
-     "handle": "@LinusEkenstam",
-     "name": "Linus ✦ Ekenstam",
-     "hits": 33,
-     "days": 8,
-     "best": 237917,
-     "views": 655496,
-     "is_you": false
-    },
-    {
-     "handle": "@rauchg",
-     "name": "Guillermo Rauch",
-     "hits": 30,
-     "days": 8,
-     "best": 291840,
-     "views": 2277075,
-     "is_you": false
-    },
-    {
-     "handle": "@gregisenberg",
-     "name": "GREG ISENBERG",
-     "hits": 25,
-     "days": 7,
-     "best": 683692,
-     "views": 2460680,
-     "is_you": false
-    },
-    {
-     "handle": "@swyx",
-     "name": "swyx",
-     "hits": 24,
-     "days": 8,
-     "best": 262208,
-     "views": 1051406,
-     "is_you": false
-    },
-    {
-     "handle": "@minchoi",
-     "name": "Min Choi",
-     "hits": 22,
-     "days": 8,
-     "best": 2098232,
-     "views": 2786034,
-     "is_you": false
-    },
-    {
-     "handle": "@tibo_maker",
-     "name": "Tibo",
-     "hits": 22,
-     "days": 8,
-     "best": 55435,
-     "views": 397888,
-     "is_you": false
-    },
-    {
-     "handle": "@tdinh_me",
-     "name": "Tony Dinh",
-     "hits": 14,
-     "days": 4,
-     "best": 31281,
-     "views": 210307,
-     "is_you": false
-    },
-    {
-     "handle": "@AlexFinn",
-     "name": "Alex Finn",
-     "hits": 7,
-     "days": 6,
-     "best": 131776,
-     "views": 601137,
-     "is_you": false
-    },
-    {
-     "handle": "@mattshumer_",
-     "name": "Matt Shumer",
-     "hits": 6,
-     "days": 4,
-     "best": 125969,
-     "views": 309948,
-     "is_you": false
-    },
-    {
-     "handle": "@bentossell",
-     "name": "Ben Tossell",
-     "hits": 4,
-     "days": 4,
-     "best": 46969,
-     "views": 120196,
-     "is_you": false
-    },
-    {
-     "handle": "@RamonPrietoX",
-     "name": "Ramón",
-     "hits": 0,
-     "days": 0,
-     "best": 0,
-     "views": 0,
-     "is_you": true
-    }
-   ]
-  }
- },
- "board_features": {
-  "count_up": true,
-  "live_pulse": true,
-  "theme_toggle": true,
-  "themes": [
-   "night",
-   "day"
-  ],
-  "grok_ambient": true,
-  "week_month_boards": true,
-  "day_roster_best_total": true,
-  "day_compare_chart": true,
-  "week_strip": true,
-  "no_hits_reasons": true,
-  "marker_class": "xvs-dash-2026",
-  "top10_drafts_v4": true,
-  "trend_keywords": true,
-  "trend_radar": true,
-  "x_keyword_table": true,
-  "experiment": true,
-  "self_quote_badge": true
- },
- "operator": {
-  "handle": "@RamonPrietoX",
-  "name": "Ramón Prieto",
-  "profile_url": "https://x.com/RamonPrietoX"
- },
- "ui": {
-  "default_theme": "night"
- },
- "day_roster": [
-  {
-   "handle": "@swyx",
-   "name": "swyx",
-   "views": 834538,
-   "total_views": 970959,
-   "hit": true,
-   "hits": 7,
-   "posts": 9,
-   "best_url": "https://x.com/swyx/status/2118642061515936142"
-  },
-  {
-   "handle": "@gregisenberg",
-   "name": "Greg Isenberg",
-   "views": 406506,
-   "total_views": 834795,
-   "hit": true,
-   "hits": 8,
-   "posts": 9,
-   "best_url": "https://x.com/gregisenberg/status/2118867930113057131"
-  },
-  {
-   "handle": "@levelsio",
-   "name": "Pieter Levels",
-   "views": 207451,
-   "total_views": 1758343,
-   "hit": true,
-   "hits": 19,
-   "posts": 22,
-   "best_url": "https://x.com/levelsio/status/2118769886881055063"
-  },
-  {
-   "handle": "@dhh",
-   "name": "DHH",
-   "views": 200557,
-   "total_views": 996576,
-   "hit": true,
-   "hits": 11,
-   "posts": 11,
-   "best_url": "https://x.com/dhh/status/2118707480368673151"
-  },
-  {
-   "handle": "@rauchg",
-   "name": "Guillermo Rauch",
-   "views": 173007,
-   "total_views": 313807,
-   "hit": true,
-   "hits": 4,
-   "posts": 4,
-   "best_url": "https://x.com/rauchg/status/2118856239719608353"
-  },
-  {
-   "handle": "@AlexFinn",
-   "name": "Alex Finn",
-   "views": 98733,
-   "total_views": 98733,
-   "hit": true,
-   "hits": 1,
-   "posts": 1,
-   "best_url": "https://x.com/AlexFinn/status/2118882927610360204"
-  },
-  {
-   "handle": "@LinusEkenstam",
-   "name": "Linus Ekenstam",
-   "views": 46241,
-   "total_views": 144791,
-   "hit": true,
-   "hits": 6,
-   "posts": 10,
-   "best_url": "https://x.com/LinusEkenstam/status/2118980188176290085"
-  },
-  {
-   "handle": "@mattshumer_",
-   "name": "Matt Shumer",
-   "views": 16914,
-   "total_views": 16914,
-   "hit": true,
-   "hits": 1,
-   "posts": 1,
-   "best_url": "https://x.com/mattshumer_/status/2118806274280169799"
-  },
-  {
-   "handle": "@minchoi",
-   "name": "Min Choi",
-   "views": 14380,
-   "total_views": 39950,
-   "hit": true,
-   "hits": 3,
-   "posts": 3,
-   "best_url": "https://x.com/minchoi/status/2118742466077593604"
-  },
-  {
-   "handle": "@tibo_maker",
-   "name": "Tibo",
-   "views": 7018,
-   "total_views": 20388,
-   "hit": true,
-   "hits": 3,
-   "posts": 3,
-   "best_url": "https://x.com/tibo_maker/status/2118713787918569795"
-  },
-  {
-   "handle": "@bentossell",
-   "name": "Ben Tossell",
-   "views": 6572,
-   "total_views": 6572,
-   "hit": true,
-   "hits": 1,
-   "posts": 1,
-   "best_url": "https://x.com/bentossell/status/2118675030330716322"
-  },
-  {
-   "handle": "@mckaywrigley",
-   "name": "Mckay Wrigley",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "hits": 0,
-   "posts": 0,
-   "best_url": null
-  },
-  {
-   "handle": "@heyBarsee",
-   "name": "Barsee",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "hits": 0,
-   "posts": 0,
-   "best_url": null
-  },
-  {
-   "handle": "@Sabrina_Ramonov",
-   "name": "Sabrina Ramonov",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "hits": 0,
-   "posts": 0,
-   "best_url": null
-  },
-  {
-   "handle": "@tdinh_me",
-   "name": "Tony Dinh",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "hits": 0,
-   "posts": 0,
-   "best_url": null
-  },
-  {
-   "handle": "@RamonPrietoX",
-   "name": "Ramón",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "hits": 0,
-   "posts": 0,
-   "best_url": null,
-   "is_you": true
-  }
- ],
- "you_rank": {
-  "best_views": 0,
-  "total_views": 0,
-  "best_url": null,
-  "rank_among_watchlist": 16,
-  "total_accounts": 16,
-  "vs_5k": "pending",
-  "vs_10k": "pending",
-  "note": "No original posts from @RamonPrietoX in the 48h window."
- },
- "trend_input_only_posts": [
-  {
-   "handle": "@rowancheung",
-   "views": 44804,
-   "url": "https://x.com/rowancheung/status/2118758232139366404",
-   "text": "Personal news: I’m joining Sound Ventures as an advisor.\n\nFun story, Guy Oseary first reached out back when The Rundown had 150K subscribers.\n\nI had no idea what I was doing, and I’m still not sure why he took the call...\n\nBut we’re at 3.5M now, and I’ve learned he has a real"
-  }
- ],
- "stars_count": 21,
- "total_views": 1644246,
- "excluded_low_commentary_quotes": [
-  {
-   "handle": "@swyx",
-   "views": 834538,
-   "url": "https://x.com/swyx/status/2118642061515936142",
-   "reason": "quote with minimal original commentary"
-  },
-  {
-   "handle": "@levelsio",
-   "views": 103889,
-   "url": "https://x.com/levelsio/status/2118844848304460179",
-   "reason": "quote with minimal original commentary"
-  },
-  {
-   "handle": "@levelsio",
-   "views": 81122,
-   "url": "https://x.com/levelsio/status/2118682589565268144",
-   "reason": "quote with minimal original commentary"
-  },
-  {
-   "handle": "@gregisenberg",
-   "views": 39269,
-   "url": "https://x.com/gregisenberg/status/2119134064091484422",
-   "reason": "quote with minimal original commentary"
-  },
-  {
-   "handle": "@swyx",
-   "views": 9572,
-   "url": "https://x.com/swyx/status/2119164641301696891",
-   "reason": "quote with minimal original commentary"
-  }
- ],
- "previous_day_note": "Compared with the Nov 8 digest. Windows overlap by ~24h, so some posts carry over with updated views.",
- "trend_input_only_note": "@rowancheung personal news post (Sound Ventures advisor) carried over at 44.8K; not used for drafts. @IndieHackers had no originals in the results.",
- "trend_keywords": {
-  "keywords": [
-   {
-    "rank": 1,
-    "keyword": "forever free"
-   },
-   {
-    "rank": 2,
-    "keyword": "open invitation to create"
-   },
-   {
-    "rank": 3,
-    "keyword": "local AI"
-   },
-   {
-    "rank": 4,
-    "keyword": "Omarchy"
-   },
-   {
-    "rank": 5,
-    "keyword": "Apple Silicon"
-   },
-   {
-    "rank": 6,
-    "keyword": "company as a loop"
-   },
-   {
-    "rank": 7,
-    "keyword": "cracked marketer"
-   },
-   {
-    "rank": 8,
-    "keyword": "ssh"
-   },
-   {
-    "rank": 9,
-    "keyword": "agents"
-   },
-   {
-    "rank": 10,
-    "keyword": "public-review sample"
-   }
-  ]
- },
- "drafts": [
-  {
-   "rank": 1,
-   "text": "dhh says agents turned the computer back into an open invitation to create things.\n\nfor an amsterdam boutique hotel that's the hire you never made: a company brain that answers guest questions from your own house info, day or night.",
-   "keywords": [
-    "open invitation to create",
-    "missing headcount",
-    "company brain"
-   ],
-   "rides": "dhh 'Agents have returned the computer to those glorious early days... An open invitation to create things' (46.5K)",
-   "source": "https://x.com/dhh/status/2119429908309127410",
-   "source_views": 46490
-  },
-  {
-   "rank": 2,
-   "text": "dhh made Omarchy free to show it works.\n\nsame move for amsterdam boutique hotels: a free sample built from public reviews shows the recoverable margin before anyone pays for anything.\n\nshow it working first.",
-   "keywords": [
-    "forever free",
-    "public-review sample",
-    "recoverable margin"
-   ],
-   "rides": "dhh 'Omarchy is forever free. There's no monetization scheme coming' (378.3K, 874 bm)",
-   "source": "https://x.com/dhh/status/2119436260280352969",
-   "source_views": 378331
-  },
-  {
-   "rank": 3,
-   "text": "alex runs local AI models on a laptop at 70 words a second.\n\na 20-room amsterdam boutique hotel doesn't need a data center, just a company brain that knows its house rules and past guest questions. the missing hire, built small.",
-   "keywords": [
-    "local AI",
-    "company brain",
-    "missing headcount"
-   ],
-   "rides": "AlexFinn 'incredible local AI machine... 70 words a second' (34.4K)",
-   "source": "https://x.com/AlexFinn/status/2119609159289336006",
-   "source_views": 34447
-  }
- ],
- "video_tip": "Video tip: 20–30s vertical screen recording. Open on dhh's 'open invitation to create things', then show a real-looking late-night guest question answered by the hotel's company brain from its own house info. End on 'the hire you never made'. Show it working, no numbers you can't back.",
- "trend_radar": {
-  "summary": {
-   "headline": "Free-first and local AI: dhh's 'Omarchy is forever free' (378.3K) tops the watchlist; agents-as-invitation and laptop AI follow.",
-   "takeaway": "Ride free-first and agents-as-invitation with the boutique-hotel version: a free public-review sample shows the recoverable margin, and a company brain is the hire never made.",
-   "top10_line": "Top lanes today: marketing over engineering, company-as-context-loop, agents doing unwanted work, AI-reply backlash, Omarchy/Linux.",
-   "stats": {
-    "all": {
-     "verdicts": {
-      "trend": 22,
-      "author": 24,
-      "visual": 18
-     }
-    }
-   }
-  },
-  "corpus": {
-   "posts": 64,
-   "min_views": 5000
-  },
-  "window": {
-   "label48": "Nov 6 10:00 → Nov 8 10:00 CET"
-  },
-  "topics": [
-   {
-    "name": "Marketing over engineering",
-    "heat": 90,
-    "momentum": "new",
-    "keywords": [
-     "cracked marketer",
-     "learn to market"
-    ],
-    "posts_48h": 1,
-    "views_48h": 406506,
-    "posts_24h": 0,
-    "views_24h": 0,
-    "evidence": [
-     {
-      "handle": "@gregisenberg",
-      "views": 406506,
-      "url": "https://x.com/gregisenberg/status/2118867930113057131",
-      "hook": "gregisenberg: the cracked marketer is now more in demand than the cracked engineer."
-     }
-    ]
-   },
-   {
-    "name": "Company brain / context loop",
-    "heat": 85,
-    "momentum": "steady",
-    "keywords": [
-     "company loop",
-     "company brain",
-     "workflow"
-    ],
-    "posts_48h": 2,
-    "views_48h": 124769,
-    "posts_24h": 1,
-    "views_24h": 26574,
-    "evidence": [
-     {
-      "handle": "@gregisenberg",
-      "views": 98195,
-      "url": "https://x.com/gregisenberg/status/2118780538052100354",
-      "hook": "gregisenberg: building a company is a loop: acquire context, orchestrate agents, feed data"
-     },
-     {
-      "handle": "@gregisenberg",
-      "views": 26574,
-      "url": "https://x.com/gregisenberg/status/2119151666083643870",
-      "hook": "the state of startups in 1 chart: acquire niche data, orchestrate ai agents and run the lo"
-     }
-    ]
-   },
-   {
-    "name": "Agents doing unwanted work",
-    "heat": 75,
-    "momentum": "rising",
-    "keywords": [
-     "Grok Bot",
-     "AI agents",
-     "bill of materials"
-    ],
-    "posts_48h": 9,
-    "views_48h": 810812,
-    "posts_24h": 6,
-    "views_24h": 440877,
-    "evidence": [
-     {
-      "handle": "@levelsio",
-      "views": 186939,
-      "url": "https://x.com/levelsio/status/2119132202952798369",
-      "hook": "levelsio: Claude Code designs furniture part by part and gives a bill of materials, cheape"
-     },
-     {
-      "handle": "@rauchg",
-      "views": 173007,
-      "url": "https://x.com/rauchg/status/2118856239719608353",
-      "hook": "rauchg: generative UI for conversational agents, straight from LLM to UI in Slack and Team"
-     },
-     {
-      "handle": "@gregisenberg",
-      "views": 101948,
-      "url": "https://x.com/gregisenberg/status/2119229734563271124",
-      "hook": "gregisenberg: how he'd find, build and grow an iOS app with AI agents now that Xcode is in"
-     }
-    ]
-   },
-   {
-    "name": "AI-reply backlash",
-    "heat": 70,
-    "momentum": "new",
-    "keywords": [
-     "AI replies",
-     "AI slop"
-    ],
-    "posts_48h": 3,
-    "views_48h": 429209,
-    "posts_24h": 0,
-    "views_24h": 0,
-    "evidence": [
-     {
-      "handle": "@levelsio",
-      "views": 196799,
-      "url": "https://x.com/levelsio/status/2118737314943754500",
-      "hook": "levelsio: will publish his list of 10,000+ blocked AI-reply spammer accounts."
-     },
-     {
-      "handle": "@levelsio",
-      "views": 194960,
-      "url": "https://x.com/levelsio/status/2118725702757339184",
-      "hook": "I will collect all accounts I blocked for AI spam recently and submit them to @dillon_mulr"
-     },
-     {
-      "handle": "@levelsio",
-      "views": 37450,
-      "url": "https://x.com/levelsio/status/2118746285071028248",
-      "hook": "The worst part about AI replies it's a negative cost to all of us on here\n\nYou squeeze out"
-     }
-    ]
-   },
-   {
-    "name": "Simplicity and generative UI",
-    "heat": 60,
-    "momentum": "steady",
-    "keywords": [
-     "could this be simpler",
-     "generative UI"
-    ],
-    "posts_48h": 2,
-    "views_48h": 277362,
-    "posts_24h": 0,
-    "views_24h": 0,
-    "evidence": [
-     {
-      "handle": "@rauchg",
-      "views": 173007,
-      "url": "https://x.com/rauchg/status/2118856239719608353",
-      "hook": "rauchg: generative UI for conversational agents, straight from LLM to UI in Slack and Team"
-     },
-     {
       "handle": "@dhh",
-      "views": 104355,
-      "url": "https://x.com/dhh/status/2118712924218773709",
-      "hook": "dhh: 'could this be simpler?' is the one redirecting prompt he keeps typing; it improves t"
-     }
-    ]
-   }
+      "name": "DHH",
+      "views": 521284,
+      "views_label": "521,284",
+      "likes": 15808,
+      "reposts": 729,
+      "bookmarks": 1016,
+      "replies": 548,
+      "created_at": "2026-11-08T14:25:56.000Z",
+      "hook": "dhh: Omarchy is forever free; no monetization scheme, the goal is making Linux win on the desktop.",
+      "text": "Omarchy is forever free. There's no monetization scheme coming. I'm already rich and the Omacom Foundation is a well-founded nonprofit. \n\nThe only ulterior motive here is to make Linux win on the desktop and create the perfect, malleable computer for all to enjoy!",
+      "url": "https://x.com/dhh/status/2119436260280352969",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": [
+          "Omarchy"
+        ]
+      },
+      "original_en": "Omarchy is forever free. There's no monetization scheme coming. I'm already rich and the Omacom Foundation is a well-founded nonprofit. \n\nThe only ulterior motive here is to make Linux win on the desktop and create the perfect, malleable computer for all to enjoy!"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 322289,
+      "views_label": "322,289",
+      "likes": 8102,
+      "reposts": 382,
+      "bookmarks": 897,
+      "replies": 644,
+      "created_at": "2026-11-09T12:47:30.000Z",
+      "hook": "levelsio: it's never been this easy to build software, and never this hard to make money with it.",
+      "text": "It's never been this easy to build software\n\nAnd never this hard to make money with it",
+      "url": "https://x.com/levelsio/status/2119773878222549451",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "never this hard to make money"
+        ]
+      },
+      "original_en": "It's never been this easy to build software\n\nAnd never this hard to make money with it",
+      "draft_en": "pieter: never been this easy to build software, never this hard to make money with it.\n\nfor amsterdam boutique hotels i work on the margin from guests who already find the hotel directly. i've been reading their public reviews and turning that into small free samples.",
+      "draft_keywords": [
+        "never this hard to make money",
+        "direct-booking margin",
+        "public reviews"
+      ],
+      "top10_rank": 1,
+      "video_tip": "Video tip: 20–30s vertical screen recording, riding greg's 'Cracked marketing 101' video format. Open on pieter's line 'never been this easy to build, never this hard to make money', then show a public-review sample for a boutique hotel turning into a ready guest reply or room description. End on 'the hire you never made'. Show it working; no numbers you can't back."
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 275272,
+      "views_label": "275,272",
+      "likes": 3128,
+      "reposts": 162,
+      "bookmarks": 1956,
+      "replies": 202,
+      "created_at": "2026-11-09T20:27:00.000Z",
+      "hook": "gregisenberg: Fable/Mythos 5.2 launch notes; went from 21% to 41% of real freelance work in one release, agencies to charge per deliverable.",
+      "text": "quick observations from the claude fable and mythos 5.2 launch:\n\n1/ it went from doing 21% of real freelance work to 41% in one release, so agencies are about to start charging per deliverable instead of per hour!\n\n2/ it can work 10-12 hours on its own, which basically gives",
+      "url": "https://x.com/gregisenberg/status/2119889516152414518",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "Fable 5.2",
+          "freelance work"
+        ]
+      },
+      "original_en": "quick observations from the claude fable and mythos 5.2 launch:\n\n1/ it went from doing 21% of real freelance work to 41% in one release, so agencies are about to start charging per deliverable instead of per hour!\n\n2/ it can work 10-12 hours on its own, which basically gives"
+    },
+    {
+      "handle": "@rauchg",
+      "name": "Guillermo Rauch",
+      "views": 273567,
+      "views_label": "273,567",
+      "likes": 3998,
+      "reposts": 276,
+      "bookmarks": 2364,
+      "replies": 296,
+      "created_at": "2026-11-08T21:03:30.000Z",
+      "hook": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: \n\nInstead of playing a song, it works by converting it into the physical shape of a groove. Then a",
+      "text": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: \n\nInstead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a",
+      "url": "https://x.com/rauchg/status/2119536313712230802",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: \n\nInstead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 248561,
+      "views_label": "248,561",
+      "likes": 1940,
+      "reposts": 93,
+      "bookmarks": 1377,
+      "replies": 64,
+      "created_at": "2026-11-09T19:37:32.000Z",
+      "hook": "Fable 5.2 created a MIRROR EARTH as a game.\n\nGo anywhere. Destroy anything. Weather and more match the real Earth, in real-time.\n\nGo explore:",
+      "text": "Fable 5.2 created a MIRROR EARTH as a game.\n\nGo anywhere. Destroy anything. Weather and more match the real Earth, in real-time.\n\nGo explore:",
+      "url": "https://x.com/mattshumer_/status/2119877065701036047",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 created a MIRROR EARTH as a game.\n\nGo anywhere. Destroy anything. Weather and more match the real Earth, in real-time.\n\nGo explore:"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 205210,
+      "views_label": "205,210",
+      "likes": 4391,
+      "reposts": 127,
+      "bookmarks": 358,
+      "replies": 305,
+      "created_at": "2026-11-09T14:25:49.000Z",
+      "hook": "Many thanks to @nvidia for sending me a pair of DGX Sparks! Not only are the machines amazing, but they look absolutely incredible too. Omarchy is fully up and running now! Working to tune the out-of-",
+      "text": "Many thanks to @nvidia for sending me a pair of DGX Sparks! Not only are the machines amazing, but they look absolutely incredible too. Omarchy is fully up and running now! Working to tune the out-of-box local AI offerings. All shipping in 4.6 shortly 🤘",
+      "url": "https://x.com/dhh/status/2119798618681192759",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI",
+          "Omarchy"
+        ]
+      },
+      "original_en": "Many thanks to @nvidia for sending me a pair of DGX Sparks! Not only are the machines amazing, but they look absolutely incredible too. Omarchy is fully up and running now! Working to tune the out-of-box local AI offerings. All shipping in 4.6 shortly 🤘"
+    },
+    {
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "views": 191051,
+      "views_label": "191,051",
+      "likes": 649,
+      "reposts": 45,
+      "bookmarks": 564,
+      "replies": 55,
+      "created_at": "2026-11-09T19:25:52.000Z",
+      "hook": "This is wild.\n\nAnthropic just dropped Fable 5.2 + Mythos 5.2 and it will completely change the AI agent game.\n\n10 wild examples:\n\n1. Fable 5.2 literally built an entire operating system. 🤯",
+      "text": "This is wild.\n\nAnthropic just dropped Fable 5.2 + Mythos 5.2 and it will completely change the AI agent game.\n\n10 wild examples:\n\n1. Fable 5.2 literally built an entire operating system. 🤯",
+      "url": "https://x.com/minchoi/status/2119874129033879893",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI agents",
+          "Anthropic",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "This is wild.\n\nAnthropic just dropped Fable 5.2 + Mythos 5.2 and it will completely change the AI agent game.\n\n10 wild examples:\n\n1. Fable 5.2 literally built an entire operating system. 🤯"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 183975,
+      "views_label": "183,975",
+      "likes": 643,
+      "reposts": 32,
+      "bookmarks": 284,
+      "replies": 46,
+      "created_at": "2026-11-09T19:13:18.000Z",
+      "hook": "Fable 5.2 built this voxel engine from a single prompt.\n\nTry it (sound on), it’s mind-melting:",
+      "text": "Fable 5.2 built this voxel engine from a single prompt.\n\nTry it (sound on), it’s mind-melting:",
+      "url": "https://x.com/mattshumer_/status/2119870965106483384",
+      "media": "video",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 built this voxel engine from a single prompt.\n\nTry it (sound on), it’s mind-melting:"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 175436,
+      "views_label": "175,436",
+      "likes": 4905,
+      "reposts": 165,
+      "bookmarks": 1327,
+      "replies": 187,
+      "created_at": "2026-11-09T19:49:54.000Z",
+      "hook": "mattshumer_: the new meta is Fable 5.2 for planning, Opus 5.5 for execution.",
+      "text": "Btw the new meta is:\n- Fable 5.2 for planning\n- Opus 5.5 for execution\n\nTrust me, and thank me later.",
+      "url": "https://x.com/mattshumer_/status/2119880176112660707",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Opus 5.5",
+          "Rust",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Btw the new meta is:\n- Fable 5.2 for planning\n- Opus 5.5 for execution\n\nTrust me, and thank me later."
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 167743,
+      "views_label": "167,743",
+      "likes": 8105,
+      "reposts": 370,
+      "bookmarks": 525,
+      "replies": 34,
+      "created_at": "2026-11-10T00:10:51.000Z",
+      "hook": "To a childless woman everything looks like a child",
+      "text": "To a childless woman everything looks like a child",
+      "url": "https://x.com/levelsio/status/2119945847009862137",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "To a childless woman everything looks like a child"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 163909,
+      "views_label": "163,909",
+      "likes": 691,
+      "reposts": 27,
+      "bookmarks": 456,
+      "replies": 50,
+      "created_at": "2026-11-09T20:05:15.000Z",
+      "hook": "Fable 5.2 ONE-SHOTTED this video.\n\nIt makes Opus look like a toy.\n\nWatch the full video:",
+      "text": "Fable 5.2 ONE-SHOTTED this video.\n\nIt makes Opus look like a toy.\n\nWatch the full video:",
+      "url": "https://x.com/mattshumer_/status/2119884041331892403",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Opus 5.5",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 ONE-SHOTTED this video.\n\nIt makes Opus look like a toy.\n\nWatch the full video:"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 146511,
+      "views_label": "146,511",
+      "likes": 1951,
+      "reposts": 21,
+      "bookmarks": 67,
+      "replies": 128,
+      "created_at": "2026-11-09T15:08:56.000Z",
+      "hook": "Got a new fiber line at the office. Not bad. Not bad at all.",
+      "text": "Got a new fiber line at the office. Not bad. Not bad at all.",
+      "url": "https://x.com/dhh/status/2119809471576744062",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "Got a new fiber line at the office. Not bad. Not bad at all."
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 141154,
+      "views_label": "141,154",
+      "likes": 1216,
+      "reposts": 54,
+      "bookmarks": 1200,
+      "replies": 35,
+      "created_at": "2026-11-08T20:20:22.000Z",
+      "hook": "Every project this guy makes is very cool\n\nVery good follow: @apekshik\n\nHis latest is an infinitely evolving Backrooms Simulator:",
+      "text": "Every project this guy makes is very cool\n\nVery good follow: @apekshik\n\nHis latest is an infinitely evolving Backrooms Simulator:",
+      "url": "https://x.com/levelsio/status/2119525458878566402",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "Every project this guy makes is very cool\n\nVery good follow: @apekshik\n\nHis latest is an infinitely evolving Backrooms Simulator:"
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 129107,
+      "views_label": "129,107",
+      "likes": 1430,
+      "reposts": 88,
+      "bookmarks": 3166,
+      "replies": 106,
+      "created_at": "2026-11-09T18:50:54.000Z",
+      "hook": "gregisenberg: Cracked marketing 101, AI agents ship 100+ static ads and cheap UGC videos; full system and skills (video).",
+      "text": "CRACKED MARKETING 101 \n\nWatch AI agents ship 100+ static ads, make UGC videos for $4 that used to cost $500 and upload everything\n\nHere's the ENTIRE system step by step (and ALL of the skills):",
+      "url": "https://x.com/gregisenberg/status/2119865330210140339",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI agents",
+          "AI UGC",
+          "skills",
+          "cracked marketing"
+        ]
+      },
+      "original_en": "CRACKED MARKETING 101 \n\nWatch AI agents ship 100+ static ads, make UGC videos for $4 that used to cost $500 and upload everything\n\nHere's the ENTIRE system step by step (and ALL of the skills):",
+      "draft_en": "greg shows agents shipping ads and ugc videos.\n\nin the amsterdam boutique hotel reviews i've been reading, the work nobody has time for is the slow reply and the question that waited too long. that's what i'm building: a company brain that knows the house.",
+      "draft_keywords": [
+        "cracked marketing",
+        "missing headcount",
+        "company brain"
+      ],
+      "top10_rank": 2
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 128289,
+      "views_label": "128,289",
+      "likes": 271,
+      "reposts": 13,
+      "bookmarks": 85,
+      "replies": 13,
+      "created_at": "2026-11-09T19:17:48.000Z",
+      "hook": "\"Fable 5.2, create a mashup of Harry Potter and Fortnite\"\n\nPlay it:",
+      "text": "\"Fable 5.2, create a mashup of Harry Potter and Fortnite\"\n\nPlay it:",
+      "url": "https://x.com/mattshumer_/status/2119872098306810226",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "\"Fable 5.2, create a mashup of Harry Potter and Fortnite\"\n\nPlay it:"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 124825,
+      "views_label": "124,825",
+      "likes": 1136,
+      "reposts": 55,
+      "bookmarks": 357,
+      "replies": 66,
+      "created_at": "2026-11-09T19:01:19.000Z",
+      "hook": "Fable 5.2 is the best model ever created.\n\nThe things I created with it are mind-blowing.\n\nIt’s also basically a school hall monitor.\n\nHere’s my review (with demos):",
+      "text": "Fable 5.2 is the best model ever created.\n\nThe things I created with it are mind-blowing.\n\nIt’s also basically a school hall monitor.\n\nHere’s my review (with demos):",
+      "url": "https://x.com/mattshumer_/status/2119867949309714609",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 is the best model ever created.\n\nThe things I created with it are mind-blowing.\n\nIt’s also basically a school hall monitor.\n\nHere’s my review (with demos):"
+    },
+    {
+      "handle": "@rauchg",
+      "name": "Guillermo Rauch",
+      "views": 124337,
+      "views_label": "124,337",
+      "likes": 1998,
+      "reposts": 65,
+      "bookmarks": 1663,
+      "replies": 120,
+      "created_at": "2026-11-09T19:42:42.000Z",
+      "hook": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.\n\nOne interesting takeaway: it's very clear that this new generation of models can take on unprec",
+      "text": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.\n\nOne interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work.\n\nTo actually seize this intelligence, you need",
+      "url": "https://x.com/rauchg/status/2119878364794372162",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.\n\nOne interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work.\n\nTo actually seize this intelligence, you need"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 123830,
+      "views_label": "123,830",
+      "likes": 364,
+      "reposts": 10,
+      "bookmarks": 218,
+      "replies": 138,
+      "created_at": "2026-11-08T19:45:01.000Z",
+      "hook": "🌎 I always hated internationalization (i18n) of my websites, it always involved some hacky solutions and making my codebase unreadable\n\nWrapping every single word in some translation function like \n\n&",
+      "text": "🌎 I always hated internationalization (i18n) of my websites, it always involved some hacky solutions and making my codebase unreadable\n\nWrapping every single word in some translation function like \n\n&gt; t('cinnamon rolls','pt-br')\n\nSo I never ever did it!\n\nWith AI however, I never",
+      "url": "https://x.com/levelsio/status/2119516562147426782",
+      "media": "video",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "🌎 I always hated internationalization (i18n) of my websites, it always involved some hacky solutions and making my codebase unreadable\n\nWrapping every single word in some translation function like \n\n&gt; t('cinnamon rolls','pt-br')\n\nSo I never ever did it!\n\nWith AI however, I never"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 113736,
+      "views_label": "113,736",
+      "likes": 2490,
+      "reposts": 99,
+      "bookmarks": 1011,
+      "replies": 50,
+      "created_at": "2026-11-09T14:14:09.000Z",
+      "hook": "The Silicon book by @arenamag is absolutely gorgeous.",
+      "text": "The Silicon book by @arenamag is absolutely gorgeous.",
+      "url": "https://x.com/dhh/status/2119795685490844108",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "The Silicon book by @arenamag is absolutely gorgeous."
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 106194,
+      "views_label": "106,194",
+      "likes": 3435,
+      "reposts": 150,
+      "bookmarks": 555,
+      "replies": 245,
+      "created_at": "2026-11-09T08:48:09.000Z",
+      "hook": "dhh: local AI is getting really good; Omarchy 4.6 will recommend the best model for your machine.",
+      "text": "Local AI is getting really good. Omarchy 4.6 will make it trivial to get started by recommending the very best model that's available for your machine. This is Flash Next on the insane AMD 495 that @AnushElangovan gave me. Shockingly capable.",
+      "url": "https://x.com/dhh/status/2119713641213915642",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI",
+          "Omarchy"
+        ]
+      },
+      "original_en": "Local AI is getting really good. Omarchy 4.6 will make it trivial to get started by recommending the very best model that's available for your machine. This is Flash Next on the insane AMD 495 that @AnushElangovan gave me. Shockingly capable."
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 103718,
+      "views_label": "103,718",
+      "likes": 124,
+      "reposts": 7,
+      "bookmarks": 28,
+      "replies": 23,
+      "created_at": "2026-11-09T20:27:01.000Z",
+      "hook": "I asked Fable 5.2 to design me a robot I could actually build in my apartment.\n\nWhat do you guys think of it?",
+      "text": "I asked Fable 5.2 to design me a robot I could actually build in my apartment.\n\nWhat do you guys think of it?",
+      "url": "https://x.com/mattshumer_/status/2119889518564147409",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "robots",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "I asked Fable 5.2 to design me a robot I could actually build in my apartment.\n\nWhat do you guys think of it?"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 102731,
+      "views_label": "102,731",
+      "likes": 2034,
+      "reposts": 43,
+      "bookmarks": 131,
+      "replies": 65,
+      "created_at": "2026-11-09T12:52:07.000Z",
+      "hook": "Apparently it's illegal to be more intelligent, more healthy and more ripped in California",
+      "text": "Apparently it's illegal to be more intelligent, more healthy and more ripped in California",
+      "url": "https://x.com/levelsio/status/2119775037687259452",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "Apparently it's illegal to be more intelligent, more healthy and more ripped in California"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 98792,
+      "views_label": "98,792",
+      "likes": 3685,
+      "reposts": 112,
+      "bookmarks": 143,
+      "replies": 123,
+      "created_at": "2026-11-09T08:44:45.000Z",
+      "hook": "Secure boot is coming to Omarchy. We're doing the dance so you can install the best operating system without having to fiddle with the bios. (And so OEMs can preinstall it from the factory!)",
+      "text": "Secure boot is coming to Omarchy. We're doing the dance so you can install the best operating system without having to fiddle with the bios. (And so OEMs can preinstall it from the factory!)",
+      "url": "https://x.com/dhh/status/2119712789237538994",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": [
+          "Omarchy"
+        ]
+      },
+      "original_en": "Secure boot is coming to Omarchy. We're doing the dance so you can install the best operating system without having to fiddle with the bios. (And so OEMs can preinstall it from the factory!)"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 96685,
+      "views_label": "96,685",
+      "likes": 523,
+      "reposts": 7,
+      "bookmarks": 156,
+      "replies": 152,
+      "created_at": "2026-11-08T22:53:58.000Z",
+      "hook": "🪦 RIP \n\n🫟 Infinite Slop TV\n\nAugust 2026 - October 2026\n\nIt let anybody on the internet write into a chat that fed into a perpetual stream of live generated AI video (aka slop)\n\nIt wasn't possible befo",
+      "text": "🪦 RIP \n\n🫟 Infinite Slop TV\n\nAugust 2026 - October 2026\n\nIt let anybody on the internet write into a chat that fed into a perpetual stream of live generated AI video (aka slop)\n\nIt wasn't possible before that because there weren't AI video models yet that generated faster than",
+      "url": "https://x.com/levelsio/status/2119564112208257515",
+      "media": "video",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "🪦 RIP \n\n🫟 Infinite Slop TV\n\nAugust 2026 - October 2026\n\nIt let anybody on the internet write into a chat that fed into a perpetual stream of live generated AI video (aka slop)\n\nIt wasn't possible before that because there weren't AI video models yet that generated faster than"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 93800,
+      "views_label": "93,800",
+      "likes": 538,
+      "reposts": 9,
+      "bookmarks": 99,
+      "replies": 54,
+      "created_at": "2026-11-09T20:23:42.000Z",
+      "hook": "Fable 5.2 has one fatal flaw: it’s a hall monitor.\n\nI charted how often I swear at my agents each day.\n\nGuess which day I got access.",
+      "text": "Fable 5.2 has one fatal flaw: it’s a hall monitor.\n\nI charted how often I swear at my agents each day.\n\nGuess which day I got access.",
+      "url": "https://x.com/mattshumer_/status/2119888685709881582",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI agents",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 has one fatal flaw: it’s a hall monitor.\n\nI charted how often I swear at my agents each day.\n\nGuess which day I got access."
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 84907,
+      "views_label": "84,907",
+      "likes": 620,
+      "reposts": 7,
+      "bookmarks": 185,
+      "replies": 78,
+      "created_at": "2026-11-08T19:53:57.000Z",
+      "hook": "Same, it's lowering the cost of everything, first in time (we have more than time than ever) and then in cost of everything around us\n\nI keep saying it'll make everything 5x to 20x cheaper",
+      "text": "Same, it's lowering the cost of everything, first in time (we have more than time than ever) and then in cost of everything around us\n\nI keep saying it'll make everything 5x to 20x cheaper",
+      "url": "https://x.com/levelsio/status/2119518808712851831",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "Same, it's lowering the cost of everything, first in time (we have more than time than ever) and then in cost of everything around us\n\nI keep saying it'll make everything 5x to 20x cheaper"
+    },
+    {
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 82247,
+      "views_label": "82,247",
+      "likes": 907,
+      "reposts": 33,
+      "bookmarks": 2461,
+      "replies": 168,
+      "created_at": "2026-11-09T13:15:16.000Z",
+      "hook": "tibo_maker: everything he does to rank on Google and get mentioned by AI; SEO and AEO lessons (Reddit threads first).",
+      "text": "for the first time ever, I'm sharing everything I do across all my SaaS to rank on Google and get mentioned by AI\n\nevery SEO and AEO lesson I've learned is here:\n\n1. we show up in Reddit threads. AI pulls a lot of its answers from Reddit, so Bazzly finds the threads that are",
+      "url": "https://x.com/tibo_maker/status/2119780865131548954",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "SaaS free",
+          "SEO for AI"
+        ]
+      },
+      "original_en": "for the first time ever, I'm sharing everything I do across all my SaaS to rank on Google and get mentioned by AI\n\nevery SEO and AEO lesson I've learned is here:\n\n1. we show up in Reddit threads. AI pulls a lot of its answers from Reddit, so Bazzly finds the threads that are"
+    },
+    {
+      "handle": "@AlexFinn",
+      "name": "Alex Finn",
+      "views": 69962,
+      "views_label": "69,962",
+      "likes": 910,
+      "reposts": 32,
+      "bookmarks": 813,
+      "replies": 58,
+      "created_at": "2026-11-09T20:36:35.000Z",
+      "hook": "Been using Fable 5.2 in early access\n\nThis is the ultimate way to use it:\n\n&gt; Use Fable 5.2 for all planning and brainstorming\n&gt; Go back and forth on your idea until it feels super ironed out\n&gt",
+      "text": "Been using Fable 5.2 in early access\n\nThis is the ultimate way to use it:\n\n&gt; Use Fable 5.2 for all planning and brainstorming\n&gt; Go back and forth on your idea until it feels super ironed out\n&gt; Have it create incredibly detailed tasks in your favorite task manager",
+      "url": "https://x.com/AlexFinn/status/2119891924316454975",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Been using Fable 5.2 in early access\n\nThis is the ultimate way to use it:\n\n&gt; Use Fable 5.2 for all planning and brainstorming\n&gt; Go back and forth on your idea until it feels super ironed out\n&gt; Have it create incredibly detailed tasks in your favorite task manager"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 68165,
+      "views_label": "68,165",
+      "likes": 1674,
+      "reposts": 52,
+      "bookmarks": 109,
+      "replies": 53,
+      "created_at": "2026-11-08T14:22:43.000Z",
+      "hook": "Omarchy on Apple Silicon has gotten a lot of attention, but our efforts to make all Snapdragon PCs compatible is really taking off too. I personally now also have a @ASUS Zenbook 14 and 16 running wit",
+      "text": "Omarchy on Apple Silicon has gotten a lot of attention, but our efforts to make all Snapdragon PCs compatible is really taking off too. I personally now also have a @ASUS Zenbook 14 and 16 running with Omarchy in addition to the BlueChip. Please help!",
+      "url": "https://x.com/dhh/status/2119435451706818586",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Omarchy",
+          "effort"
+        ]
+      },
+      "original_en": "Omarchy on Apple Silicon has gotten a lot of attention, but our efforts to make all Snapdragon PCs compatible is really taking off too. I personally now also have a @ASUS Zenbook 14 and 16 running with Omarchy in addition to the BlueChip. Please help!"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 66323,
+      "views_label": "66,323",
+      "likes": 1092,
+      "reposts": 65,
+      "bookmarks": 181,
+      "replies": 87,
+      "created_at": "2026-11-08T22:09:35.000Z",
+      "hook": "TensorFold is awesome! Thanks to @MiaAI_lab and @0xSero for turning me on to this project. It's going to be key to our local AI recipes for out-of-the-box agents on NVIDIA 🤘",
+      "text": "TensorFold is awesome! Thanks to @MiaAI_lab and @0xSero for turning me on to this project. It's going to be key to our local AI recipes for out-of-the-box agents on NVIDIA 🤘",
+      "url": "https://x.com/dhh/status/2119552942269231292",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI",
+          "AI agents"
+        ]
+      },
+      "original_en": "TensorFold is awesome! Thanks to @MiaAI_lab and @0xSero for turning me on to this project. It's going to be key to our local AI recipes for out-of-the-box agents on NVIDIA 🤘"
+    },
+    {
+      "handle": "@AlexFinn",
+      "name": "Alex Finn",
+      "views": 56746,
+      "views_label": "56,746",
+      "likes": 405,
+      "reposts": 8,
+      "bookmarks": 74,
+      "replies": 107,
+      "created_at": "2026-11-09T01:52:58.000Z",
+      "hook": "The new MacBook Pro PROLED is incredible\n\nNot only mind blowingly gorgeous hardware, but an incredible local AI machine\n\nRunning a bunch of local models on the M5 Max version. Getting 70 words a secon",
+      "text": "The new MacBook Pro PROLED is incredible\n\nNot only mind blowingly gorgeous hardware, but an incredible local AI machine\n\nRunning a bunch of local models on the M5 Max version. Getting 70 words a second on some smaller models\n\nLightning fast\n\nAnd of course the screen makes using",
+      "url": "https://x.com/AlexFinn/status/2119609159289336006",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI"
+        ]
+      },
+      "original_en": "The new MacBook Pro PROLED is incredible\n\nNot only mind blowingly gorgeous hardware, but an incredible local AI machine\n\nRunning a bunch of local models on the M5 Max version. Getting 70 words a second on some smaller models\n\nLightning fast\n\nAnd of course the screen makes using"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 53032,
+      "views_label": "53,032",
+      "likes": 49,
+      "reposts": 4,
+      "bookmarks": 41,
+      "replies": 31,
+      "created_at": "2026-11-10T03:07:07.000Z",
+      "hook": "I've burned 400B+ tokens learning to use Fable 5.2.\n\nHere's how to get the most out of it:",
+      "text": "I've burned 400B+ tokens learning to use Fable 5.2.\n\nHere's how to get the most out of it:",
+      "url": "https://x.com/mattshumer_/status/2119990205981859887",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "I've burned 400B+ tokens learning to use Fable 5.2.\n\nHere's how to get the most out of it:"
+    },
+    {
+      "handle": "@rauchg",
+      "name": "Guillermo Rauch",
+      "views": 49325,
+      "views_label": "49,325",
+      "likes": 765,
+      "reposts": 41,
+      "bookmarks": 481,
+      "replies": 117,
+      "created_at": "2026-11-09T20:33:27.000Z",
+      "hook": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.\n\nA missing pi",
+      "text": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.\n\nA missing piece was how to get arbitrary callbacks across sessions. MCP could read and",
+      "url": "https://x.com/rauchg/status/2119891138450755670",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "MCP"
+        ]
+      },
+      "original_en": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.\n\nA missing piece was how to get arbitrary callbacks across sessions. MCP could read and"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 45030,
+      "views_label": "45,030",
+      "likes": 355,
+      "reposts": 8,
+      "bookmarks": 46,
+      "replies": 111,
+      "created_at": "2026-11-08T13:58:18.000Z",
+      "hook": "occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality ",
+      "text": "occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality that you can now basically look up in SEC audited financials\n\ncursor ended 2025",
+      "url": "https://x.com/swyx/status/2119429305512165838",
+      "media": "image",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "acquisition",
+          "security",
+          "Cursor"
+        ]
+      },
+      "original_en": "occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality that you can now basically look up in SEC audited financials\n\ncursor ended 2025"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 42802,
+      "views_label": "42,802",
+      "likes": 1136,
+      "reposts": 31,
+      "bookmarks": 100,
+      "replies": 59,
+      "created_at": "2026-11-09T22:38:12.000Z",
+      "hook": "The original X1 @Snapdragon PCs are still very capable and shockingly energy efficient. We'll soon have the entire range covered with Omarchy. There are some stellar bargains to be had on these device",
+      "text": "The original X1 @Snapdragon PCs are still very capable and shockingly energy efficient. We'll soon have the entire range covered with Omarchy. There are some stellar bargains to be had on these devices because Windows flopped so hard with the initial rollout. This is the A14 X1.",
+      "url": "https://x.com/dhh/status/2119922531687862420",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Omarchy"
+        ]
+      },
+      "original_en": "The original X1 @Snapdragon PCs are still very capable and shockingly energy efficient. We'll soon have the entire range covered with Omarchy. There are some stellar bargains to be had on these devices because Windows flopped so hard with the initial rollout. This is the A14 X1."
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 41621,
+      "views_label": "41,621",
+      "likes": 369,
+      "reposts": 18,
+      "bookmarks": 170,
+      "replies": 52,
+      "created_at": "2026-11-09T21:12:19.000Z",
+      "hook": "Fable 5.2 made this entire movie in pure code.\n\nVoices, graphics, everything.",
+      "text": "Fable 5.2 made this entire movie in pure code.\n\nVoices, graphics, everything.",
+      "url": "https://x.com/mattshumer_/status/2119900920347828670",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 made this entire movie in pure code.\n\nVoices, graphics, everything."
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 41529,
+      "views_label": "41,529",
+      "likes": 493,
+      "reposts": 11,
+      "bookmarks": 20,
+      "replies": 159,
+      "created_at": "2026-11-09T13:43:08.000Z",
+      "hook": "i'm old enough to remember when software developers weren't called members of technical staff",
+      "text": "i'm old enough to remember when software developers weren't called members of technical staff",
+      "url": "https://x.com/gregisenberg/status/2119787875910979932",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "i'm old enough to remember when software developers weren't called members of technical staff"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 39530,
+      "views_label": "39,530",
+      "likes": 946,
+      "reposts": 27,
+      "bookmarks": 117,
+      "replies": 73,
+      "created_at": "2026-11-09T14:58:22.000Z",
+      "hook": "macOS running inside Omarchy as a VM on a MacBook!!",
+      "text": "macOS running inside Omarchy as a VM on a MacBook!!",
+      "url": "https://x.com/dhh/status/2119806811842789500",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": [
+          "Omarchy"
+        ]
+      },
+      "original_en": "macOS running inside Omarchy as a VM on a MacBook!!"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 37488,
+      "views_label": "37,488",
+      "likes": 111,
+      "reposts": 1,
+      "bookmarks": 23,
+      "replies": 34,
+      "created_at": "2026-11-08T14:02:31.000Z",
+      "hook": "When you try to install your new Midea dehumidifier in your gym to your Photo AI website",
+      "text": "When you try to install your new Midea dehumidifier in your gym to your Photo AI website",
+      "url": "https://x.com/levelsio/status/2119430368390414598",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "When you try to install your new Midea dehumidifier in your gym to your Photo AI website"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 35192,
+      "views_label": "35,192",
+      "likes": 131,
+      "reposts": 1,
+      "bookmarks": 40,
+      "replies": 64,
+      "created_at": "2026-11-08T15:22:28.000Z",
+      "hook": "Not local at all\n\nYour AI agent designs it with you based on your ideas and pictures (mood board)\n\nThen it's ordered from China",
+      "text": "Not local at all\n\nYour AI agent designs it with you based on your ideas and pictures (mood board)\n\nThen it's ordered from China",
+      "url": "https://x.com/levelsio/status/2119450489561731567",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI",
+          "AI agents",
+          "China"
+        ]
+      },
+      "original_en": "Not local at all\n\nYour AI agent designs it with you based on your ideas and pictures (mood board)\n\nThen it's ordered from China"
+    },
+    {
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 34263,
+      "views_label": "34,263",
+      "likes": 770,
+      "reposts": 13,
+      "bookmarks": 41,
+      "replies": 66,
+      "created_at": "2026-11-09T13:02:16.000Z",
+      "hook": "in France, you can get fined $20m for a GDPR violation .. \n\nmeanwhile schools and city halls still email 200 parents in CC, exposing everyone's email to everyone\n\ndouble standard 🤷‍♂️",
+      "text": "in France, you can get fined $20m for a GDPR violation .. \n\nmeanwhile schools and city halls still email 200 parents in CC, exposing everyone's email to everyone\n\ndouble standard 🤷‍♂️",
+      "url": "https://x.com/tibo_maker/status/2119777595034415164",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "in France, you can get fined $20m for a GDPR violation .. \n\nmeanwhile schools and city halls still email 200 parents in CC, exposing everyone's email to everyone\n\ndouble standard 🤷‍♂️"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 34019,
+      "views_label": "34,019",
+      "likes": 70,
+      "reposts": 0,
+      "bookmarks": 14,
+      "replies": 27,
+      "created_at": "2026-11-09T22:09:42.000Z",
+      "hook": "@TermiusHQ feature request: sync my open connections/tabs from MacOS to iOS and vice versa",
+      "text": "@TermiusHQ feature request: sync my open connections/tabs from MacOS to iOS and vice versa",
+      "url": "https://x.com/levelsio/status/2119915360849727842",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude on a server"
+        ]
+      },
+      "original_en": "@TermiusHQ feature request: sync my open connections/tabs from MacOS to iOS and vice versa"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 32389,
+      "views_label": "32,389",
+      "likes": 225,
+      "reposts": 7,
+      "bookmarks": 42,
+      "replies": 70,
+      "created_at": "2026-11-09T20:51:03.000Z",
+      "hook": "guys we have magic ai in the sky please don't use local models\n\nthey're cool and all but they're basically useless\n\ntake that $10k you were gonna spend on hardware and just buy claude ultra plans",
+      "text": "guys we have magic ai in the sky please don't use local models\n\nthey're cool and all but they're basically useless\n\ntake that $10k you were gonna spend on hardware and just buy claude ultra plans",
+      "url": "https://x.com/mattshumer_/status/2119895564720435504",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI",
+          "Claude"
+        ]
+      },
+      "original_en": "guys we have magic ai in the sky please don't use local models\n\nthey're cool and all but they're basically useless\n\ntake that $10k you were gonna spend on hardware and just buy claude ultra plans"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 31602,
+      "views_label": "31,602",
+      "likes": 156,
+      "reposts": 3,
+      "bookmarks": 26,
+      "replies": 22,
+      "created_at": "2026-11-08T18:06:23.000Z",
+      "hook": "For anyone in 🇵🇹 Lisbon, there'll be a @nomads meetup tonight @ O'Gilins Irish Pub!\n\n\"Casual drinks the night before Web Summit. Meet founders, builders and nomads in town for the conference, swap pla",
+      "text": "For anyone in 🇵🇹 Lisbon, there'll be a @nomads meetup tonight @ O'Gilins Irish Pub!\n\n\"Casual drinks the night before Web Summit. Meet founders, builders and nomads in town for the conference, swap plans for the week and find people to hang out with at the summit. Everyone buys",
+      "url": "https://x.com/levelsio/status/2119491739430113518",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "For anyone in 🇵🇹 Lisbon, there'll be a @nomads meetup tonight @ O'Gilins Irish Pub!\n\n\"Casual drinks the night before Web Summit. Meet founders, builders and nomads in town for the conference, swap plans for the week and find people to hang out with at the summit. Everyone buys"
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 30422,
+      "views_label": "30,422",
+      "likes": 289,
+      "reposts": 26,
+      "bookmarks": 89,
+      "replies": 86,
+      "created_at": "2026-11-08T19:42:58.000Z",
+      "hook": "they are building data centers in the ocean now",
+      "text": "they are building data centers in the ocean now",
+      "url": "https://x.com/gregisenberg/status/2119516046134788499",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "they are building data centers in the ocean now"
+    },
+    {
+      "handle": "@AlexFinn",
+      "name": "Alex Finn",
+      "views": 26994,
+      "views_label": "26,994",
+      "likes": 336,
+      "reposts": 20,
+      "bookmarks": 197,
+      "replies": 41,
+      "created_at": "2026-11-09T23:11:00.000Z",
+      "hook": "Claude Fable 5.2 is simply the greatest AI model ever\n\n• By far most intelligent\n• Fast and efficient\n• Understands your intentions on a level I've never seen from a model before\n\nIn this video I cove",
+      "text": "Claude Fable 5.2 is simply the greatest AI model ever\n\n• By far most intelligent\n• Fast and efficient\n• Understands your intentions on a level I've never seen from a model before\n\nIn this video I cover why this model is so good and a workflow that will 10x your productivity:",
+      "url": "https://x.com/AlexFinn/status/2119930786774491332",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "workflow",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Claude Fable 5.2 is simply the greatest AI model ever\n\n• By far most intelligent\n• Fast and efficient\n• Understands your intentions on a level I've never seen from a model before\n\nIn this video I cover why this model is so good and a workflow that will 10x your productivity:"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 26140,
+      "views_label": "26,140",
+      "likes": 543,
+      "reposts": 6,
+      "bookmarks": 23,
+      "replies": 23,
+      "created_at": "2026-11-09T14:52:14.000Z",
+      "hook": "I love seeing old hardware getting revived by Omarchy!",
+      "text": "I love seeing old hardware getting revived by Omarchy!",
+      "url": "https://x.com/dhh/status/2119805268099998001",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": [
+          "Omarchy"
+        ]
+      },
+      "original_en": "I love seeing old hardware getting revived by Omarchy!"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 25170,
+      "views_label": "25,170",
+      "likes": 202,
+      "reposts": 3,
+      "bookmarks": 180,
+      "replies": 41,
+      "created_at": "2026-11-09T16:08:20.000Z",
+      "hook": "someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid",
+      "text": "someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid",
+      "url": "https://x.com/swyx/status/2119824420059697455",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid"
+    },
+    {
+      "handle": "@LinusEkenstam",
+      "name": "Linus ✦ Ekenstam 🔜 Adobe MAX Miami 2026",
+      "views": 24483,
+      "views_label": "24,483",
+      "likes": 291,
+      "reposts": 17,
+      "bookmarks": 121,
+      "replies": 15,
+      "created_at": "2026-11-10T05:02:07.000Z",
+      "hook": "Bobongo brought a rotisserie chicken to an AI interview",
+      "text": "Bobongo brought a rotisserie chicken to an AI interview",
+      "url": "https://x.com/LinusEkenstam/status/2120019148134588916",
+      "media": "video",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "Bobongo brought a rotisserie chicken to an AI interview"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 22271,
+      "views_label": "22,271",
+      "likes": 344,
+      "reposts": 13,
+      "bookmarks": 106,
+      "replies": 87,
+      "created_at": "2026-11-09T23:28:42.000Z",
+      "hook": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch\n\nand casually told me he's got something bigger planned  for his aie code talk\n\nlol anthropic u guys are wildin",
+      "text": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch\n\nand casually told me he's got something bigger planned  for his aie code talk\n\nlol anthropic u guys are wildin",
+      "url": "https://x.com/swyx/status/2119935240202539147",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch\n\nand casually told me he's got something bigger planned  for his aie code talk\n\nlol anthropic u guys are wildin"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 21207,
+      "views_label": "21,207",
+      "likes": 482,
+      "reposts": 18,
+      "bookmarks": 304,
+      "replies": 172,
+      "created_at": "2026-11-09T08:39:19.000Z",
+      "hook": "good read on why humans, like llms, get a lot more powerful when given a scratchpad.",
+      "text": "good read on why humans, like llms, get a lot more powerful when given a scratchpad.",
+      "url": "https://x.com/swyx/status/2119711420912939220",
+      "media": "image",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "good read on why humans, like llms, get a lot more powerful when given a scratchpad."
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 20285,
+      "views_label": "20,285",
+      "likes": 111,
+      "reposts": 4,
+      "bookmarks": 22,
+      "replies": 9,
+      "created_at": "2026-11-09T19:48:38.000Z",
+      "hook": "Fable 5.2 isn't perfect (though it's close!)\n\nFor example, in MIRROR EARTH, the car it designed can just drive through objects...",
+      "text": "Fable 5.2 isn't perfect (though it's close!)\n\nFor example, in MIRROR EARTH, the car it designed can just drive through objects...",
+      "url": "https://x.com/mattshumer_/status/2119879860344766782",
+      "media": "video",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Fable 5.2 isn't perfect (though it's close!)\n\nFor example, in MIRROR EARTH, the car it designed can just drive through objects..."
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 20041,
+      "views_label": "20,041",
+      "likes": 78,
+      "reposts": 3,
+      "bookmarks": 16,
+      "replies": 20,
+      "created_at": "2026-11-09T21:39:40.000Z",
+      "hook": "My goal is to be the single best allocator of tokens in the world\n\nAnd I will use as many tokens as it takes to get there",
+      "text": "My goal is to be the single best allocator of tokens in the world\n\nAnd I will use as many tokens as it takes to get there",
+      "url": "https://x.com/mattshumer_/status/2119907803145863369",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "My goal is to be the single best allocator of tokens in the world\n\nAnd I will use as many tokens as it takes to get there"
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 18640,
+      "views_label": "18,640",
+      "likes": 90,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 99,
+      "created_at": "2026-11-08T11:22:03.000Z",
+      "hook": "I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on the UI 😂😂😂",
+      "text": "I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on the UI 😂😂😂",
+      "url": "https://x.com/tdinh_me/status/2119389986953023985",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "effort"
+        ]
+      },
+      "original_en": "I asked my agent to create a mock Slack for e2e tests but honestly it didn't have to spent this much effort on the UI 😂😂😂"
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 16603,
+      "views_label": "16,603",
+      "likes": 71,
+      "reposts": 5,
+      "bookmarks": 31,
+      "replies": 38,
+      "created_at": "2026-11-10T00:22:34.000Z",
+      "hook": "Scientists copied a fruit fly’s entire brain into a computer and connected it to a virtual body\n\nNobody programmed it to do anything, but it started tasting sugar and cleaning itself anyway\n\nIt’s a lo",
+      "text": "Scientists copied a fruit fly’s entire brain into a computer and connected it to a virtual body\n\nNobody programmed it to do anything, but it started tasting sugar and cleaning itself anyway\n\nIt’s a long way from a human brain, but it’s hard not to think about where this goes!",
+      "url": "https://x.com/gregisenberg/status/2119948798638055570",
+      "media": "video",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "Scientists copied a fruit fly’s entire brain into a computer and connected it to a virtual body\n\nNobody programmed it to do anything, but it started tasting sugar and cleaning itself anyway\n\nIt’s a long way from a human brain, but it’s hard not to think about where this goes!"
+    },
+    {
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 16489,
+      "views_label": "16,489",
+      "likes": 160,
+      "reposts": 8,
+      "bookmarks": 96,
+      "replies": 81,
+      "created_at": "2026-11-09T09:59:05.000Z",
+      "hook": "Bazzly is having growth that I have never seen before\n\nfully organic, driven by AI mentions, and not something we truly control\n\ntruly insane \n\nimo this is driven by the quality of the product more th",
+      "text": "Bazzly is having growth that I have never seen before\n\nfully organic, driven by AI mentions, and not something we truly control\n\ntruly insane \n\nimo this is driven by the quality of the product more than the distribution effort itself \n\n(actually partially true as we use Bazzly to",
+      "url": "https://x.com/tibo_maker/status/2119731493513658768",
+      "media": "image",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "effort"
+        ]
+      },
+      "original_en": "Bazzly is having growth that I have never seen before\n\nfully organic, driven by AI mentions, and not something we truly control\n\ntruly insane \n\nimo this is driven by the quality of the product more than the distribution effort itself \n\n(actually partially true as we use Bazzly to"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 15467,
+      "views_label": "15,467",
+      "likes": 211,
+      "reposts": 4,
+      "bookmarks": 13,
+      "replies": 20,
+      "created_at": "2026-11-08T19:32:09.000Z",
+      "hook": "we're celebrating 1 million AI Engineers all week at aie code.\n\nQT with your favorite AIE talk and/or speaker, and why!",
+      "text": "we're celebrating 1 million AI Engineers all week at aie code.\n\nQT with your favorite AIE talk and/or speaker, and why!",
+      "url": "https://x.com/swyx/status/2119513321468735749",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "we're celebrating 1 million AI Engineers all week at aie code.\n\nQT with your favorite AIE talk and/or speaker, and why!"
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 14788,
+      "views_label": "14,788",
+      "likes": 116,
+      "reposts": 2,
+      "bookmarks": 78,
+      "replies": 71,
+      "created_at": "2026-11-09T12:49:55.000Z",
+      "hook": "9 threads running, 21 threads queued\n\nI need MORE TOKENS!!!\n\nOpen sourcing my harness soon, it's so POWERFULLLL",
+      "text": "9 threads running, 21 threads queued\n\nI need MORE TOKENS!!!\n\nOpen sourcing my harness soon, it's so POWERFULLLL",
+      "url": "https://x.com/tdinh_me/status/2119774486782431741",
+      "media": "image",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "harness"
+        ]
+      },
+      "original_en": "9 threads running, 21 threads queued\n\nI need MORE TOKENS!!!\n\nOpen sourcing my harness soon, it's so POWERFULLLL"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 14472,
+      "views_label": "14,472",
+      "likes": 110,
+      "reposts": 1,
+      "bookmarks": 21,
+      "replies": 17,
+      "created_at": "2026-11-09T19:44:12.000Z",
+      "hook": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon…",
+      "text": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon…",
+      "url": "https://x.com/swyx/status/2119878742063641056",
+      "media": "image",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic IPO",
+          "Gemini 4 Carbon"
+        ]
+      },
+      "original_en": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon…"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 13835,
+      "views_label": "13,835",
+      "likes": 41,
+      "reposts": 5,
+      "bookmarks": 19,
+      "replies": 4,
+      "created_at": "2026-11-09T21:33:38.000Z",
+      "hook": "The best agent in the world, now powered by Fable 5.2:",
+      "text": "The best agent in the world, now powered by Fable 5.2:",
+      "url": "https://x.com/mattshumer_/status/2119906281485996419",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "The best agent in the world, now powered by Fable 5.2:"
+    },
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 13538,
+      "views_label": "13,538",
+      "likes": 58,
+      "reposts": 0,
+      "bookmarks": 5,
+      "replies": 23,
+      "created_at": "2026-11-10T04:08:55.000Z",
+      "hook": "I've got one more demo up my sleeve.\n\nCan anyone guess what it is?",
+      "text": "I've got one more demo up my sleeve.\n\nCan anyone guess what it is?",
+      "url": "https://x.com/mattshumer_/status/2120005758049988674",
+      "media": "text",
+      "quote": true,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "I've got one more demo up my sleeve.\n\nCan anyone guess what it is?"
+    },
+    {
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 10066,
+      "views_label": "10,066",
+      "likes": 138,
+      "reposts": 2,
+      "bookmarks": 5,
+      "replies": 70,
+      "created_at": "2026-11-08T17:58:51.000Z",
+      "hook": "sometimes I feel so overwhelmed: AI breakthrough every day, painful customer support, unexpected traffic decline 🤷‍♂️\n\n... then you remember what's really important in life: leveling on WoW",
+      "text": "sometimes I feel so overwhelmed: AI breakthrough every day, painful customer support, unexpected traffic decline 🤷‍♂️\n\n... then you remember what's really important in life: leveling on WoW",
+      "url": "https://x.com/tibo_maker/status/2119489842937483629",
+      "media": "text",
+      "quote": false,
+      "highlight": true,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "customer support"
+        ]
+      },
+      "original_en": "sometimes I feel so overwhelmed: AI breakthrough every day, painful customer support, unexpected traffic decline 🤷‍♂️\n\n... then you remember what's really important in life: leveling on WoW"
+    },
+    {
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "views": 9737,
+      "views_label": "9,737",
+      "likes": 95,
+      "reposts": 4,
+      "bookmarks": 28,
+      "replies": 18,
+      "created_at": "2026-11-10T04:51:20.000Z",
+      "hook": "Holy smokes... Fable 5.2 created this 🤯",
+      "text": "Holy smokes... Fable 5.2 created this 🤯",
+      "url": "https://x.com/minchoi/status/2120016433442865181",
+      "media": "video",
+      "quote": false,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      "original_en": "Holy smokes... Fable 5.2 created this 🤯"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 9084,
+      "views_label": "9,084",
+      "likes": 129,
+      "reposts": 2,
+      "bookmarks": 26,
+      "replies": 13,
+      "created_at": "2026-11-09T19:13:22.000Z",
+      "hook": "ok i was signed in to wrong account to tweet this but yes  - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you...\n\n.",
+      "text": "ok i was signed in to wrong account to tweet this but yes  - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you...\n\n... just like I got started in my own technical writing journey 10 years ago.",
+      "url": "https://x.com/swyx/status/2119870982609608810",
+      "media": "text",
+      "quote": true,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "ok i was signed in to wrong account to tweet this but yes  - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you...\n\n... just like I got started in my own technical writing journey 10 years ago."
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx 🔜 aie.codes",
+      "views": 8782,
+      "views_label": "8,782",
+      "likes": 69,
+      "reposts": 1,
+      "bookmarks": 9,
+      "replies": 88,
+      "created_at": "2026-11-09T15:09:21.000Z",
+      "hook": "starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement",
+      "text": "starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement",
+      "url": "https://x.com/swyx/status/2119809574563922263",
+      "media": "image",
+      "quote": true,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      "original_en": "starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement"
+    },
+    {
+      "handle": "@LinusEkenstam",
+      "name": "Linus ✦ Ekenstam 🔜 Adobe MAX Miami 2026",
+      "views": 7455,
+      "views_label": "7,455",
+      "likes": 74,
+      "reposts": 8,
+      "bookmarks": 22,
+      "replies": 5,
+      "created_at": "2026-11-09T23:39:20.000Z",
+      "hook": "We have a new contender for the wildest robotics flex of the year\n\nBoston Dynamics just bolted roller wheels onto their humanoid Atlas robot so it can drift around warehouses and hit mid-air 360 spins",
+      "text": "We have a new contender for the wildest robotics flex of the year\n\nBoston Dynamics just bolted roller wheels onto their humanoid Atlas robot so it can drift around warehouses and hit mid-air 360 spins\n\ntheir controls engineer literally stopped touching his gaming PC at home",
+      "url": "https://x.com/LinusEkenstam/status/2119937916273058200",
+      "media": "video",
+      "quote": false,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [
+          "robots"
+        ]
+      },
+      "original_en": "We have a new contender for the wildest robotics flex of the year\n\nBoston Dynamics just bolted roller wheels onto their humanoid Atlas robot so it can drift around warehouses and hit mid-air 360 spins\n\ntheir controls engineer literally stopped touching his gaming PC at home"
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 6574,
+      "views_label": "6,574",
+      "likes": 55,
+      "reposts": 0,
+      "bookmarks": 4,
+      "replies": 43,
+      "created_at": "2026-11-10T01:47:18.000Z",
+      "hook": "X is being attacked.\n\nBot accounts posting AI slops, all verified accounts with &gt; 30K followers.\n\nHow did they do this 😐",
+      "text": "X is being attacked.\n\nBot accounts posting AI slops, all verified accounts with &gt; 30K followers.\n\nHow did they do this 😐",
+      "url": "https://x.com/tdinh_me/status/2119970122278502762",
+      "media": "video",
+      "quote": false,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI slop"
+        ]
+      },
+      "original_en": "X is being attacked.\n\nBot accounts posting AI slops, all verified accounts with &gt; 30K followers.\n\nHow did they do this 😐"
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 6402,
+      "views_label": "6,402",
+      "likes": 81,
+      "reposts": 0,
+      "bookmarks": 30,
+      "replies": 46,
+      "created_at": "2026-11-10T04:12:30.000Z",
+      "hook": "Exactly one year ago I talked to a guy who told me about all the Hyper Engineering / Agentic Development / \"no tokens wasted\" and \"let your agents run for hours in the background then you come back an",
+      "text": "Exactly one year ago I talked to a guy who told me about all the Hyper Engineering / Agentic Development / \"no tokens wasted\" and \"let your agents run for hours in the background then you come back and make decisions\" etc...\n\nAnd I was like \"I can't even make my agent run for 5",
+      "url": "https://x.com/tdinh_me/status/2120006661326995618",
+      "media": "image",
+      "quote": false,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI agents"
+        ]
+      },
+      "original_en": "Exactly one year ago I talked to a guy who told me about all the Hyper Engineering / Agentic Development / \"no tokens wasted\" and \"let your agents run for hours in the background then you come back and make decisions\" etc...\n\nAnd I was like \"I can't even make my agent run for 5"
+    },
+    {
+      "handle": "@LinusEkenstam",
+      "name": "Linus ✦ Ekenstam 🔜 Adobe MAX Miami 2026",
+      "views": 5580,
+      "views_label": "5,580",
+      "likes": 16,
+      "reposts": 0,
+      "bookmarks": 5,
+      "replies": 2,
+      "created_at": "2026-11-09T20:11:47.000Z",
+      "hook": "This just showed up in the middle of a session, LFG 🙏🏼",
+      "text": "This just showed up in the middle of a session, LFG 🙏🏼",
+      "url": "https://x.com/LinusEkenstam/status/2119885683573641482",
+      "media": "text",
+      "quote": true,
+      "highlight": false,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      "original_en": "This just showed up in the middle of a session, LFG 🙏🏼"
+    }
   ],
-  "ideas": [
-   {
-    "title": "The hire you never made",
-    "format": "text or 30s screen demo",
-    "source": "watchlist",
-    "topic": "Agents doing unwanted work"
-   },
-   {
-    "title": "Your hotel already has the context",
-    "format": "text",
-    "source": "watchlist",
-    "topic": "Company brain / context loop"
-   },
-   {
-    "title": "No time to market direct",
-    "format": "text",
-    "source": "watchlist",
-    "topic": "Marketing over engineering"
-   }
+  "virals": [],
+  "outsiders": [],
+  "patterns": [
+    "Fable 5.2 launch week: Anthropic's new model dominates the watchlist; mattshumer 'spent 400B tokens testing Fable 5.2' (781.6K), minchoi '10 wild examples' (191.1K), mattshumer 'Fable for planning, Opus 5.5 for execution' (175.4K). Model hype, so only mine it for hotel rewrites",
+    "Easy to build, hard to earn: levelsio 'never been this easy to build software, never this hard to make money with it' (322.3K, 897 bm), the cleanest hotel-mappable line today",
+    "Agents replacing missing hires: greg 'Cracked marketing 101' agents shipping ads and UGC (129.1K, 3,166 bm) and greg 'Fable went from 21% to 41% of real freelance work' (275.3K, 1,956 bm)",
+    "Get named by AI: tibo's SEO + AEO playbook to 'rank on Google and get mentioned by AI' (82.2K, 2,461 bm)",
+    "Free first and local AI carry over: dhh 'Omarchy is forever free' still climbing (521.3K), dhh 'Local AI is getting really good' (106.2K)"
   ],
-  "why_hit": [
-   {
-    "handle": "@gregisenberg",
-    "lane": "text",
-    "views": 406506,
-    "media": "text",
-    "trend_match": 35,
-    "verdict": "trend",
-    "matched_keywords": [
-     "cracked marketer"
-    ]
-   },
-   {
-    "handle": "@levelsio",
-    "lane": "text",
-    "views": 207451,
-    "media": "text",
-    "trend_match": 0,
-    "verdict": "author",
-    "matched_keywords": []
-   },
-   {
-    "handle": "@dhh",
-    "lane": "text",
-    "views": 200557,
-    "media": "text",
-    "trend_match": 0,
-    "verdict": "author",
-    "matched_keywords": []
-   },
-   {
-    "handle": "@levelsio",
-    "lane": "text",
-    "views": 196799,
-    "media": "text",
-    "trend_match": 35,
-    "verdict": "trend",
-    "matched_keywords": [
-     "AI replies"
-    ]
-   },
-   {
-    "handle": "@levelsio",
-    "lane": "text",
-    "views": 194960,
-    "media": "text",
-    "trend_match": 35,
-    "verdict": "trend",
-    "matched_keywords": [
-     "AI replies"
-    ]
-   },
-   {
-    "handle": "@levelsio",
-    "lane": "video",
-    "views": 186939,
-    "media": "video",
-    "trend_match": 100,
-    "verdict": "trend",
-    "matched_keywords": [
-     "bill of materials",
-     "Claude",
-     "Claude Code"
-    ]
-   },
-   {
-    "handle": "@rauchg",
-    "lane": "video",
-    "views": 173007,
-    "media": "video",
-    "trend_match": 70,
-    "verdict": "trend",
-    "matched_keywords": [
-     "generative UI",
-     "AI agents"
-    ]
-   },
-   {
-    "handle": "@dhh",
-    "lane": "video",
-    "views": 168069,
-    "media": "video",
-    "trend_match": 0,
-    "verdict": "visual",
-    "matched_keywords": [
-     "Omarchy"
-    ]
-   },
-   {
-    "handle": "@dhh",
-    "lane": "image",
-    "views": 165919,
-    "media": "image",
-    "trend_match": 0,
-    "verdict": "visual",
-    "matched_keywords": [
-     "Omarchy"
-    ]
-   },
-   {
-    "handle": "@levelsio",
-    "lane": "text",
-    "views": 128428,
-    "media": "text",
-    "trend_match": 0,
-    "verdict": "author",
-    "matched_keywords": []
-   },
-   {
-    "handle": "@dhh",
-    "lane": "text",
-    "views": 104355,
-    "media": "text",
-    "trend_match": 35,
-    "verdict": "trend",
-    "matched_keywords": [
-     "could this be simpler",
-     "dictation"
-    ]
-   },
-   {
-    "handle": "@gregisenberg",
-    "lane": "video",
-    "views": 102840,
-    "media": "video",
-    "trend_match": 35,
-    "verdict": "trend",
-    "matched_keywords": [
-     "$2,000 rule"
-    ]
-   },
-   {
-    "handle": "@gregisenberg",
-    "lane": "text",
-    "views": 101948,
-    "media": "text",
-    "trend_match": 100,
-    "verdict": "trend",
-    "matched_keywords": [
-     "Claude",
-     "Claude Code",
-     "AI agents"
-    ]
-   },
-   {
-    "handle": "@AlexFinn",
-    "lane": "text",
-    "views": 98733,
-    "media": "text",
-    "trend_match": 100,
-    "verdict": "trend",
-    "matched_keywords": [
-     "Grok",
-     "AI agents",
-     "Grok Bot"
-    ]
-   },
-   {
-    "handle": "@gregisenberg",
-    "lane": "text",
-    "views": 98195,
-    "media": "text",
-    "trend_match": 70,
-    "verdict": "trend",
-    "matched_keywords": [
-     "company loop",
-     "AI agents"
-    ]
-   }
+  "no_hits": [
+    {
+      "handle": "@Sabrina_Ramonov",
+      "reason": "1 originals in window; none reached 5,000 views. Highest observed 480.",
+      "max_views": 480
+    },
+    {
+      "handle": "@mckaywrigley",
+      "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 8 10:00 → Nov 10 10:00 CET).",
+      "max_views": 0
+    },
+    {
+      "handle": "@heyBarsee",
+      "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 8 10:00 → Nov 10 10:00 CET).",
+      "max_views": 0
+    },
+    {
+      "handle": "@bentossell",
+      "reason": "No original posts (non-reply, non-repost) found in the ~48h window (Nov 8 10:00 → Nov 10 10:00 CET).",
+      "max_views": 0
+    }
   ],
-  "legend": "Source: X API recent search, originals only (-is:reply -is:retweet), 4 grouped queries covering watchlist + operator + trend-input accounts, no outsider scan today. Hit ≥5,000 impressions, star ≥10,000. Quotes kept only with real commentary. trend_match/verdict are a keyword heuristic (35% per trending keyword matched; else visual if media, else author pull). All metrics are as returned by the X API at fetch time."
- },
- "scan_meta": {
-  "x_calls": 3,
-  "fetched_at": "2026-11-09T10:05:16+01:00",
-  "window_start_utc": "2026-11-07T09:00:00Z",
-  "note": "3 grouped watchlist queries (25 results each, relevancy order); quotes excluded; levelsio/dhh heavy so coverage may be partial; no outsider scan; leaderboards/trend_radar/day_roster carried from Nov 8 and not recomputed"
- }
+  "virals_narrative": "Outsider scan skipped today (call budget); watchlist only.",
+  "narrative_synthesis": "Nov 8–10: 70 originals above 5K, 6,494,305 views, 63 stars. Top: @mattshumer_ 781,602. Most hotel-mappable: levelsio 'never this hard to make money', greg's agents doing marketing and freelance work, tibo's get-mentioned-by-AI playbook.",
+  "virals_window": "last ~48h (since 2026-11-08 10:00 CET)",
+  "virals_target": 20,
+  "hits_count": 70,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-11-09",
+    "hits_count": 29,
+    "total_views": 1644246,
+    "stars_count": 21,
+    "top": "@dhh 378,331"
+  },
+  "leaderboards": {
+    "as_of": "2026-11-10",
+    "tracking_start": "2026-10-26",
+    "days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10"
+    ],
+    "month_days_included": [
+      "2026-11-01",
+      "2026-11-02",
+      "2026-11-03",
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 4–10",
+      "range": [
+        "2026-11-04",
+        "2026-11-10"
+      ],
+      "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 66,
+          "days": 7,
+          "best": 2503934,
+          "views": 9425494,
+          "is_you": false
+        },
+        {
+          "handle": "@dhh",
+          "name": "DHH",
+          "hits": 51,
+          "days": 6,
+          "best": 521284,
+          "views": 5161313,
+          "is_you": false
+        },
+        {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 26,
+          "days": 6,
+          "best": 247144,
+          "views": 738952,
+          "is_you": false
+        },
+        {
+          "handle": "@LinusEkenstam",
+          "name": "Linus ✦ Ekenstam",
+          "hits": 26,
+          "days": 7,
+          "best": 46241,
+          "views": 320419,
+          "is_you": false
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 24,
+          "days": 6,
+          "best": 683692,
+          "views": 2541967,
+          "is_you": false
+        },
+        {
+          "handle": "@rauchg",
+          "name": "Guillermo Rauch",
+          "hits": 23,
+          "days": 6,
+          "best": 291840,
+          "views": 1870395,
+          "is_you": false
+        },
+        {
+          "handle": "@mattshumer_",
+          "name": "Matt Shumer",
+          "hits": 21,
+          "days": 5,
+          "best": 781602,
+          "views": 2344481,
+          "is_you": false
+        },
+        {
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 20,
+          "days": 7,
+          "best": 2098232,
+          "views": 2825799,
+          "is_you": false
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 19,
+          "days": 7,
+          "best": 82247,
+          "views": 387706,
+          "is_you": false
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 9,
+          "days": 3,
+          "best": 18640,
+          "views": 95883,
+          "is_you": false
+        },
+        {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 8,
+          "days": 5,
+          "best": 128546,
+          "views": 545687,
+          "is_you": false
+        },
+        {
+          "handle": "@bentossell",
+          "name": "Ben Tossell",
+          "hits": 3,
+          "days": 3,
+          "best": 46969,
+          "views": 81653,
+          "is_you": false
+        },
+        {
+          "handle": "@RamonPrietoX",
+          "name": "Ramón",
+          "hits": 0,
+          "days": 0,
+          "best": 14,
+          "views": 14,
+          "is_you": true
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · Nov 1–10",
+      "range": [
+        "2026-11-01",
+        "2026-11-10"
+      ],
+      "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 87,
+          "days": 10,
+          "best": 2867632,
+          "views": 16821087,
+          "is_you": false
+        },
+        {
+          "handle": "@dhh",
+          "name": "DHH",
+          "hits": 57,
+          "days": 8,
+          "best": 521284,
+          "views": 6253609,
+          "is_you": false
+        },
+        {
+          "handle": "@LinusEkenstam",
+          "name": "Linus ✦ Ekenstam",
+          "hits": 39,
+          "days": 10,
+          "best": 237917,
+          "views": 731047,
+          "is_you": false
+        },
+        {
+          "handle": "@rauchg",
+          "name": "Guillermo Rauch",
+          "hits": 33,
+          "days": 9,
+          "best": 291840,
+          "views": 2724304,
+          "is_you": false
+        },
+        {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 32,
+          "days": 9,
+          "best": 262208,
+          "views": 1212889,
+          "is_you": false
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 30,
+          "days": 9,
+          "best": 683692,
+          "views": 2984094,
+          "is_you": false
+        },
+        {
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 27,
+          "days": 10,
+          "best": 2098232,
+          "views": 3031255,
+          "is_you": false
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 26,
+          "days": 10,
+          "best": 82247,
+          "views": 542355,
+          "is_you": false
+        },
+        {
+          "handle": "@mattshumer_",
+          "name": "Matt Shumer",
+          "hits": 23,
+          "days": 6,
+          "best": 781602,
+          "views": 2532538,
+          "is_you": false
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 18,
+          "days": 5,
+          "best": 31281,
+          "views": 256711,
+          "is_you": false
+        },
+        {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 10,
+          "days": 7,
+          "best": 131776,
+          "views": 754839,
+          "is_you": false
+        },
+        {
+          "handle": "@bentossell",
+          "name": "Ben Tossell",
+          "hits": 4,
+          "days": 4,
+          "best": 46969,
+          "views": 120196,
+          "is_you": false
+        },
+        {
+          "handle": "@RamonPrietoX",
+          "name": "Ramón",
+          "hits": 0,
+          "days": 0,
+          "best": 14,
+          "views": 14,
+          "is_you": true
+        }
+      ]
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "operator": {
+    "handle": "@RamonPrietoX",
+    "name": "Ramón Prieto",
+    "profile_url": "https://x.com/RamonPrietoX"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [
+    {
+      "handle": "@mattshumer_",
+      "name": "Matt Shumer",
+      "views": 781602,
+      "total_views": 2213588,
+      "hit": true,
+      "hits": 16,
+      "posts": 18,
+      "best_url": "https://x.com/mattshumer_/status/2119886664017547687"
+    },
+    {
+      "handle": "@dhh",
+      "name": "DHH",
+      "views": 521284,
+      "total_views": 1502184,
+      "hit": true,
+      "hits": 11,
+      "posts": 12,
+      "best_url": "https://x.com/dhh/status/2119436260280352969"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "Pieter Levels",
+      "views": 322289,
+      "total_views": 1232008,
+      "hit": true,
+      "hits": 11,
+      "posts": 13,
+      "best_url": "https://x.com/levelsio/status/2119773878222549451"
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "views": 275272,
+      "total_views": 492933,
+      "hit": true,
+      "hits": 5,
+      "posts": 5,
+      "best_url": "https://x.com/gregisenberg/status/2119889516152414518"
+    },
+    {
+      "handle": "@rauchg",
+      "name": "Guillermo Rauch",
+      "views": 273567,
+      "total_views": 447229,
+      "hit": true,
+      "hits": 3,
+      "posts": 3,
+      "best_url": "https://x.com/rauchg/status/2119536313712230802"
+    },
+    {
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "views": 191051,
+      "total_views": 200788,
+      "hit": true,
+      "hits": 2,
+      "posts": 2,
+      "best_url": "https://x.com/minchoi/status/2119874129033879893"
+    },
+    {
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 82247,
+      "total_views": 148314,
+      "hit": true,
+      "hits": 4,
+      "posts": 5,
+      "best_url": "https://x.com/tibo_maker/status/2119780865131548954"
+    },
+    {
+      "handle": "@AlexFinn",
+      "name": "Alex Finn",
+      "views": 69962,
+      "total_views": 153702,
+      "hit": true,
+      "hits": 3,
+      "posts": 3,
+      "best_url": "https://x.com/AlexFinn/status/2119891924316454975"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx",
+      "views": 45030,
+      "total_views": 188992,
+      "hit": true,
+      "hits": 8,
+      "posts": 9,
+      "best_url": "https://x.com/swyx/status/2119429305512165838"
+    },
+    {
+      "handle": "@LinusEkenstam",
+      "name": "Linus Ekenstam",
+      "views": 24483,
+      "total_views": 40499,
+      "hit": true,
+      "hits": 3,
+      "posts": 4,
+      "best_url": "https://x.com/LinusEkenstam/status/2120019148134588916"
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 18640,
+      "total_views": 47591,
+      "hit": true,
+      "hits": 4,
+      "posts": 5,
+      "best_url": "https://x.com/tdinh_me/status/2119389986953023985"
+    },
+    {
+      "handle": "@Sabrina_Ramonov",
+      "name": "Sabrina Ramonov",
+      "views": 480,
+      "total_views": 480,
+      "hit": false,
+      "hits": 0,
+      "posts": 1,
+      "best_url": "https://x.com/Sabrina_Ramonov/status/2119894133724623183"
+    },
+    {
+      "handle": "@RamonPrietoX",
+      "name": "Ramón",
+      "views": 14,
+      "total_views": 14,
+      "hit": false,
+      "hits": 0,
+      "posts": 1,
+      "best_url": "https://x.com/RamonPrietoX/status/2119792245264007305",
+      "is_you": true
+    },
+    {
+      "handle": "@mckaywrigley",
+      "name": "Mckay Wrigley",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "hits": 0,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@heyBarsee",
+      "name": "Barsee",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "hits": 0,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@bentossell",
+      "name": "Ben Tossell",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "hits": 0,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 14,
+    "total_views": 14,
+    "best_url": "https://x.com/RamonPrietoX/status/2119792245264007305",
+    "rank_among_watchlist": 13,
+    "total_accounts": 16,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "note": "1 original from @RamonPrietoX in the window (Nov 9 15:00 CET AlexFinn-ride post), 14 views at fetch; below the 5K floor."
+  },
+  "trend_input_only_posts": [],
+  "stars_count": 63,
+  "total_views": 6494305,
+  "excluded_low_commentary_quotes": [
+    {
+      "handle": "@dhh",
+      "views": 67497,
+      "url": "https://x.com/dhh/status/2119710315038589394",
+      "reason": "quote with minimal original commentary"
+    },
+    {
+      "handle": "@levelsio",
+      "views": 47662,
+      "url": "https://x.com/levelsio/status/2119751526201618472",
+      "reason": "quote with minimal original commentary"
+    },
+    {
+      "handle": "@swyx",
+      "views": 27509,
+      "url": "https://x.com/swyx/status/2119611058881192187",
+      "reason": "quote with minimal original commentary"
+    },
+    {
+      "handle": "@mattshumer_",
+      "views": 10795,
+      "url": "https://x.com/mattshumer_/status/2120003162287599914",
+      "reason": "quote with minimal original commentary"
+    },
+    {
+      "handle": "@tibo_maker",
+      "views": 5249,
+      "url": "https://x.com/tibo_maker/status/2119721361803243751",
+      "reason": "quote with minimal original commentary"
+    }
+  ],
+  "previous_day_note": "Compared with the Nov 9 digest. Windows overlap by ~24h, so some posts carry over with updated views; leaderboards count each hit post once.",
+  "trend_input_only_note": "@rowancheung and @IndieHackers had no originals in the results this window.",
+  "trend_keywords": {
+    "keywords": [
+      {
+        "rank": 1,
+        "keyword": "Fable 5.2"
+      },
+      {
+        "rank": 2,
+        "keyword": "never this hard to make money"
+      },
+      {
+        "rank": 3,
+        "keyword": "cracked marketing"
+      },
+      {
+        "rank": 4,
+        "keyword": "freelance work 21% to 41%"
+      },
+      {
+        "rank": 5,
+        "keyword": "Opus 5.5 for execution"
+      },
+      {
+        "rank": 6,
+        "keyword": "mentioned by AI"
+      },
+      {
+        "rank": 7,
+        "keyword": "forever free"
+      },
+      {
+        "rank": 8,
+        "keyword": "local AI"
+      },
+      {
+        "rank": 9,
+        "keyword": "MCP"
+      },
+      {
+        "rank": 10,
+        "keyword": "Omarchy"
+      }
+    ]
+  },
+  "drafts": [
+    {
+      "rank": 1,
+      "text": "pieter: never been this easy to build software, never this hard to make money with it.\n\nfor amsterdam boutique hotels i work on the margin from guests who already find the hotel directly. i've been reading their public reviews and turning that into small free samples.",
+      "keywords": [
+        "never this hard to make money",
+        "direct-booking margin",
+        "public reviews"
+      ],
+      "rides": "levelsio 'It's never been this easy to build software / And never this hard to make money with it' (322.3K, 897 bookmarks)",
+      "source": "https://x.com/levelsio/status/2119773878222549451",
+      "source_views": 322289
+    },
+    {
+      "rank": 2,
+      "text": "greg shows agents shipping ads and ugc videos.\n\nin the amsterdam boutique hotel reviews i've been reading, the work nobody has time for is the slow reply and the question that waited too long. that's what i'm building: a company brain that knows the house.",
+      "keywords": [
+        "cracked marketing",
+        "missing headcount",
+        "company brain"
+      ],
+      "rides": "gregisenberg 'CRACKED MARKETING 101: Watch AI agents ship 100+ static ads, make UGC videos...' (129.1K, 3,166 bookmarks, video)",
+      "source": "https://x.com/gregisenberg/status/2119865330210140339",
+      "source_views": 129107
+    }
+  ],
+  "video_tip": "Video tip: 20–30s vertical screen recording, riding greg's 'Cracked marketing 101' video format. Open on pieter's line 'never been this easy to build, never this hard to make money', then show a public-review sample for a boutique hotel turning into a ready guest reply or room description. End on 'the hire you never made'. Show it working; no numbers you can't back.",
+  "trend_radar": {
+    "summary": {
+      "headline": "Fable 5.2 launch week: mattshumer's 400B-token test (781.6K) tops the watchlist; levelsio's 'never this hard to make money' (322.3K) is the hotel-mappable hit.",
+      "takeaway": "Skip the model hype; ride 'easy to build, hard to earn' and 'agents as the missing hire' with the boutique-hotel version: recoverable direct-booking margin, a company brain, and a free public-review sample.",
+      "top10_line": "Top lanes today: Fable 5.2 launch, easy to build vs hard to earn, agents doing marketing/freelance work, AEO (getting mentioned by AI), Omarchy/local AI.",
+      "stats": {
+        "all": {
+          "verdicts": {
+            "trend": 39,
+            "author": 17,
+            "visual": 14
+          }
+        }
+      }
+    },
+    "corpus": {
+      "posts": 70,
+      "min_views": 5000
+    },
+    "window": {
+      "label48": "Nov 8 10:00 → Nov 10 10:00 CET"
+    },
+    "topics": [
+      {
+        "name": "Fable 5.2 launch",
+        "heat": 95,
+        "momentum": "new",
+        "keywords": [
+          "Fable 5.2",
+          "Anthropic"
+        ],
+        "posts_48h": 19,
+        "views_48h": 2728175,
+        "posts_24h": 19,
+        "views_24h": 2728175,
+        "evidence": [
+          {
+            "handle": "@mattshumer_",
+            "views": 781602,
+            "url": "https://x.com/mattshumer_/status/2119886664017547687",
+            "hook": "mattshumer_: spent over 400B tokens testing Fable 5.2; thread of the craziest things he ma"
+          },
+          {
+            "handle": "@gregisenberg",
+            "views": 275272,
+            "url": "https://x.com/gregisenberg/status/2119889516152414518",
+            "hook": "gregisenberg: Fable/Mythos 5.2 launch notes; went from 21% to 41% of real freelance work i"
+          },
+          {
+            "handle": "@mattshumer_",
+            "views": 248561,
+            "url": "https://x.com/mattshumer_/status/2119877065701036047",
+            "hook": "Fable 5.2 created a MIRROR EARTH as a game.\n\nGo anywhere. Destroy anything. Weather and mo"
+          }
+        ]
+      },
+      {
+        "name": "Easy to build, hard to earn",
+        "heat": 85,
+        "momentum": "new",
+        "keywords": [
+          "never this hard to make money"
+        ],
+        "posts_48h": 1,
+        "views_48h": 322289,
+        "posts_24h": 1,
+        "views_24h": 322289,
+        "evidence": [
+          {
+            "handle": "@levelsio",
+            "views": 322289,
+            "url": "https://x.com/levelsio/status/2119773878222549451",
+            "hook": "levelsio: it's never been this easy to build software, and never this hard to make money w"
+          }
+        ]
+      },
+      {
+        "name": "Agents as the missing hire",
+        "heat": 80,
+        "momentum": "steady",
+        "keywords": [
+          "cracked marketing",
+          "freelance work",
+          "AI UGC"
+        ],
+        "posts_48h": 2,
+        "views_48h": 404379,
+        "posts_24h": 2,
+        "views_24h": 404379,
+        "evidence": [
+          {
+            "handle": "@gregisenberg",
+            "views": 275272,
+            "url": "https://x.com/gregisenberg/status/2119889516152414518",
+            "hook": "gregisenberg: Fable/Mythos 5.2 launch notes; went from 21% to 41% of real freelance work i"
+          },
+          {
+            "handle": "@gregisenberg",
+            "views": 129107,
+            "url": "https://x.com/gregisenberg/status/2119865330210140339",
+            "hook": "gregisenberg: Cracked marketing 101, AI agents ship 100+ static ads and cheap UGC videos; "
+          }
+        ]
+      },
+      {
+        "name": "Get mentioned by AI",
+        "heat": 60,
+        "momentum": "new",
+        "keywords": [
+          "SEO for AI"
+        ],
+        "posts_48h": 1,
+        "views_48h": 82247,
+        "posts_24h": 1,
+        "views_24h": 82247,
+        "evidence": [
+          {
+            "handle": "@tibo_maker",
+            "views": 82247,
+            "url": "https://x.com/tibo_maker/status/2119780865131548954",
+            "hook": "tibo_maker: everything he does to rank on Google and get mentioned by AI; SEO and AEO less"
+          }
+        ]
+      },
+      {
+        "name": "Omarchy / local AI",
+        "heat": 70,
+        "momentum": "steady",
+        "keywords": [
+          "Omarchy",
+          "local AI"
+        ],
+        "posts_48h": 12,
+        "views_48h": 1298767,
+        "posts_24h": 5,
+        "views_24h": 346071,
+        "evidence": [
+          {
+            "handle": "@dhh",
+            "views": 521284,
+            "url": "https://x.com/dhh/status/2119436260280352969",
+            "hook": "dhh: Omarchy is forever free; no monetization scheme, the goal is making Linux win on the "
+          },
+          {
+            "handle": "@dhh",
+            "views": 205210,
+            "url": "https://x.com/dhh/status/2119798618681192759",
+            "hook": "Many thanks to @nvidia for sending me a pair of DGX Sparks! Not only are the machines amaz"
+          },
+          {
+            "handle": "@dhh",
+            "views": 106194,
+            "url": "https://x.com/dhh/status/2119713641213915642",
+            "hook": "dhh: local AI is getting really good; Omarchy 4.6 will recommend the best model for your m"
+          }
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Easy to build, hard to earn: the margin is the money",
+        "format": "text",
+        "source": "watchlist",
+        "topic": "Easy to build, hard to earn"
+      },
+      {
+        "title": "The marketer you never hired",
+        "format": "text or 30s screen demo",
+        "source": "watchlist",
+        "topic": "Agents as the missing hire"
+      },
+      {
+        "title": "Does ChatGPT name your hotel?",
+        "format": "text",
+        "source": "watchlist",
+        "topic": "Get mentioned by AI"
+      }
+    ],
+    "why_hit": [
+      {
+        "handle": "@mattshumer_",
+        "lane": "text",
+        "views": 781602,
+        "media": "text",
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      {
+        "handle": "@dhh",
+        "lane": "text",
+        "views": 521284,
+        "media": "text",
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": [
+          "Omarchy"
+        ]
+      },
+      {
+        "handle": "@levelsio",
+        "lane": "text",
+        "views": 322289,
+        "media": "text",
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "never this hard to make money"
+        ]
+      },
+      {
+        "handle": "@gregisenberg",
+        "lane": "text",
+        "views": 275272,
+        "media": "text",
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "Fable 5.2",
+          "freelance work"
+        ]
+      },
+      {
+        "handle": "@rauchg",
+        "lane": "video",
+        "views": 273567,
+        "media": "video",
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      {
+        "handle": "@mattshumer_",
+        "lane": "video",
+        "views": 248561,
+        "media": "video",
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      {
+        "handle": "@dhh",
+        "lane": "image",
+        "views": 205210,
+        "media": "image",
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "local AI",
+          "Omarchy"
+        ]
+      },
+      {
+        "handle": "@minchoi",
+        "lane": "video",
+        "views": 191051,
+        "media": "video",
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI agents",
+          "Anthropic",
+          "Fable 5.2"
+        ]
+      },
+      {
+        "handle": "@mattshumer_",
+        "lane": "video",
+        "views": 183975,
+        "media": "video",
+        "trend_match": 35,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Fable 5.2"
+        ]
+      },
+      {
+        "handle": "@mattshumer_",
+        "lane": "text",
+        "views": 175436,
+        "media": "text",
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Opus 5.5",
+          "Rust",
+          "Fable 5.2"
+        ]
+      },
+      {
+        "handle": "@levelsio",
+        "lane": "text",
+        "views": 167743,
+        "media": "text",
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      {
+        "handle": "@mattshumer_",
+        "lane": "video",
+        "views": 163909,
+        "media": "video",
+        "trend_match": 70,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Opus 5.5",
+          "Fable 5.2"
+        ]
+      },
+      {
+        "handle": "@dhh",
+        "lane": "image",
+        "views": 146511,
+        "media": "image",
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": []
+      },
+      {
+        "handle": "@levelsio",
+        "lane": "text",
+        "views": 141154,
+        "media": "text",
+        "trend_match": 0,
+        "verdict": "author",
+        "matched_keywords": []
+      },
+      {
+        "handle": "@gregisenberg",
+        "lane": "video",
+        "views": 129107,
+        "media": "video",
+        "trend_match": 100,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI agents",
+          "AI UGC",
+          "skills",
+          "cracked marketing"
+        ]
+      }
+    ],
+    "legend": "Source: X API recent search, originals only (-is:reply -is:retweet), 4 grouped queries covering watchlist + operator + trend-input accounts, no outsider scan today. Hit ≥5,000 impressions, star ≥10,000. Quotes kept only with real commentary. trend_match/verdict are a keyword heuristic (35% per trending keyword matched; else visual if media, else author pull). All metrics are as returned by the X API at fetch time."
+  },
+  "scan_meta": {
+    "x_calls": 4,
+    "fetched_at": "2026-11-10T10:05:02+01:00",
+    "window_start_utc": "2026-11-08T09:00:00Z",
+    "note": "4 grouped watchlist queries (25 results each, relevancy order); low-commentary quotes excluded; levelsio/dhh and mattshumer groups hit the 25-result cap, so coverage may be partial; leaderboards include Nov 9 board hits; no outsider scan"
+  }
 }
